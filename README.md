@@ -1,4 +1,4 @@
-# Threat intelligence knowledge graph
+# Knowledge Graph in Cyber Security
 
 This project automates the creation of a knowledge graph from security reports. The extracted entities and relationships are structured and stored as nodes and edges in a Neo4j database, allowing for a detailed, queryable graph representation of intel.
 
