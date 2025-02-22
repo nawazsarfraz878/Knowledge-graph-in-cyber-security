@@ -1,0 +1,7013 @@
+name,type
+Shuckworm,attacker
+USB propagation malware,tool
+Shuckworm,attacker
+Gamaredon,attacker
+Armageddon,attacker
+Russian Federal Security Service,attacker
+Shuckworm,attacker
+backdoors,tool
+Shuckworm,attacker
+Pterodo,malware
+Backdoor.Pterodo,malware
+shtasks.exe,file
+command-and-control (C&C) server,tool
+PowerShell script,tool
+rtk.lnk,file
+porn_video.rtf.lnk,file
+do_not_delete.rtf.lnk,file
+evidence.rtf.lnk,file
+Telegram messaging service,tool
+Telegraph,tool
+Telegraph,tool
+Shuckworm,attacker
+Giddome,tool
+Shuckworm,malware
+Shuckworm,attacker
+Pterodo backdoor,tool
+foto.safe,file
+foto.safe,file
+Shuckworm,attacker
+Graphican,malware
+Backdoor,threat type
+Flea,attacker
+Flea,attacker
+APT15,attacker
+Nickel,attacker
+Backdoor.Graphican,malware
+ransomware attack,threat type
+Flea,attacker
+Flea,attacker
+Graphican,malware
+Ketrican,malware
+BS2005,malware
+Microsoft Graph API,tool
+Swallowtail,attacker
+APT28,attacker
+Fancy Bear,attacker
+Sofacy,attacker
+Strontium,attacker
+Graphican,malware
+C&C server,tool
+OneDrive,tool
+Microsoft Graph API,tool
+iexplore.exe,file
+OneDrive,tool
+Graphican,malware
+PowerShell script,tool
+Ketrican,tool
+Flea,attacker
+EWSTEW,tool
+Mimikatz,tool
+Pypykatz,tool
+Safetykatz,tool
+Lazagne,tool
+Quarks PwDump,tool
+(IceFog,attacker
+SharpSecDump,tool
+K8Tools,tool
+EHole,tool
+CVE-2020-1472,vulnerability
+Flea,attacker
+Flea,attacker
+Flea,attacker
+Graphican,tool
+Ketrican,tool
+Graphican,malware
+Microsoft Graph API,tool
+Flea,attacker
+Shuckworm,malware
+Shuckworm,attacker
+USB propagation malware,malware
+Shuckworm,attacker
+Gamaredon,attacker
+Armageddon,attacker
+Shuckworm,attacker
+Pterodo,malware
+Backdoor.Pterodo,malware
+shtasks.exe,file
+command-and-control (C&C) server,tool
+Shuckworm,malware
+Shuckworm,attacker
+Pterodo backdoor,tool
+foto.safe,file
+USB key,tool
+Shuckworm,attacker
+MOVEit Transfer,tool
+CVE-2023-34362,vulnerability
+Clop ransomware,malware
+MOVEit Transfer,tool
+CVE-2023-34362,vulnerability
+Clop,malware
+Lemurloot,tool
+JS.Malscript!g1,malware
+MOVEit Transfer,tool
+Clop,malware
+Snakefly,attacker
+TA505,attacker
+FIN11,attacker
+Ransom.Clop,malware
+CVE-2023-0669,vulnerability
+Symantec products,tool
+JS.Malscript!g1,malware
+Trojan Horse,malware
+Trojan.Gen.2,malware
+Trojan.Gen.NPE,malware
+Trojan.Malscript,malware
+Trojan.Webshell,malware
+WS.Malware.1,malware
+WS.Malware.2,malware
+Heur.AdvML.C,malware
+CVE-2023-34362,vulnerability
+Clop ransomware,malware
+Buhti,malware
+Ransomware,threat type
+LockBit,malware
+Babuk,malware
+Buhti,malware
+ransomware,threat type
+information stealer,tool
+Buhti,malware
+Blacktail,attacker
+Buhti,malware
+ransomware,threat type
+LockBit 3.0,malware
+LockBit Black,malware
+LockBit 3.0,malware
+Syrphid,attacker
+Bitwise Spider,attacker
+LockBit,malware
+Babuk,malware
+Buhti,malware
+ransomware,threat type
+Blacktail,attacker
+custom malware,malware
+9f0c35cc7aab2984d88490afdb515418306146ca72f49edbfbd85244e63cfabd,SHA256
+Buhti,malware
+CVE-2023-27350,vulnerability
+Cobalt Strike,tool
+Meterpreter,tool
+Sliver,tool
+AnyDesk,tool
+ConnectWise,tool
+Blacktail,attacker
+CVE-2022-47986,vulnerability
+Blacktail,attacker
+ransomware,threat type
+Lancefly,attacker
+Custom Backdoor,tool
+Merdoor,malware
+Lancefly,attacker
+ZXShell rootkit,tool
+Merdoor backdoor,malware
+Merdoor,malware
+perfhost.exe,file
+svchost.exe,file
+Merdoor loader,tool
+Merdoor,malware
+SiteAdv.exe,file
+SiteAdv.dll,file
+SiteAdv.pak,file
+ssr32.exe,file
+safestore32.dll,file
+safestore.pak,file
+chrome_frame_helper.exe,file
+chrome_frame_helper.dll,file
+chrome_frame_helper.pak,file
+wsc_proxy.exe,file
+wsc.dll,file
+proxycfg.pak,file
+coInst.exe,file
+msvcr100.dll,file
+coinstcfg.dat,file
+Lancefly,attacker
+Lancefly,attacker
+PowerShell,tool
+rundll32.exe,file
+comsvcs.dll,file
+Reg.exe,file
+Avast,tool
+WinRAR,tool
+Impacket Atexec,tool
+Lancefly,attacker
+WinRAR,tool
+Merdoor,malware
+LSSAS Dumper,tool
+NBTScan,tool
+Blackloader,tool
+Prcloader,tool
+PlugX,malware
+Lancefly,attacker
+Merdoor,malware
+perfhost.exe,file
+svchost.exe,file
+mavinject.exe,file
+createdump.exe,file
+WinRAR,tool
+wmiprvse.exe,file
+ZXShell Rootkit,malware
+Lancefly,attacker
+FormDll.dll,file
+1f09d177c99d429ae440393ac9835183d6fd1f1af596089cc01b68021e2e29a7,SHA256
+TdiProxy.sys,file
+Loadpoint,tool
+Form.pdb,file
+180970fce4a226de05df6d22339dd4ae03dfd5e451dcf2d464b663e86c824b8e,SHA256
+FormDll.dll,file
+(DoRVA,tool
+Merdoor loader,tool
+res.ini,file
+TdiProxy0,tool
+egui.exe,file
+ekrn.exe,file
+res.dat,file
+temp.temp,file
+temp.temp.pack,file
+res.ini,file
+DefenderSvc.dll,file
+temp.temp,file
+TdiProxy0,tool
+ZXShell,malware
+Msrpcsvc.dll,file
+d5df686bb202279ab56295252650b2c7c24f350d1a87a8a699f6034a8c0dd849,SHA256
+ZXShell,tool
+Lancefly,attacker
+APT41,attacker
+Blackfly/Grayfly,attacker
+HiddenLynx/APT17,attacker
+ZXShell,malware
+formdll.dll,file
+Form.hlp,file
+Iron Tiger,attacker
+Budworm,attacker
+APT27,attacker
+PlugX,malware
+Lancefly,attacker
+Chinese APT groups,attacker
+ShadowPad,malware
+RAT,threat type
+Chinese APT groups,attacker
+PlugX,malware
+Lancefly,attacker
+Merdoor,malware
+Lancefly,attacker
+Merdoor,tool
+Lancefly,attacker
+X_Trader,malware
+Supply Chain Attack,threat type
+3CX,tool
+X_Trader,malware
+X_Trader,tool
+Trading Technologies,attacker
+X_TRADER_r7.17.90p608.exe,file
+900b63ff9b06e0890bf642bdfcbfcc6ab7887c7a3c057c8e3fd6fba5ffc8e5d6,SHA256
+Setup.exe,file
+aa318070ad1bf90ed459ac34dc5254acc178baff3202d2ea7f49aaf5a055dd43,SHA256
+X_TRADER-ja.mst,file
+winscard.dll,file
+cc4eedb7b1f77f02b962f4b05278fa7f8082708b5a12cacf928118520762b5e2,SHA256
+msvcr100.dll,file
+d937e19ccb3fd1dddeea3eaaf72645e8cd64083228a0df69c60820289b1aa3c0,SHA256
+malware,malware
+TpmVscMgrSvr.exe,file
+X_TRADER.exe,file
+X_Trader,malware
+winscard.dll,file
+msvcr100.dll,file
+Veiledsignal,malware
+e185c99b3d1085aed9fda65a9774abd73ecf1229f14591606c6c59e9660c4345,SHA256
+19442d9e476e3ef990ce57b683190301e946ccb28fc88b69ab53a93bf84464ae,SHA256
+f8c370c67ffb3a88107c9022b17382b5465c4af3dd453e50e4a0bd3ae9b012ce,SHA256
+https://www.tradingtechnologies.com/trading/order-management,URL
+Daggerfly,attacker
+APT,threat type
+MgBot,malware
+Daggerfly,attacker
+Evasive Panda,attacker
+Bronze Highland,attacker
+APT,threat type
+China-linked APTs,attacker
+Daggerfly,attacker
+Evasive Panda,attacker
+MgBot,malware
+Rundll32.exe,file
+dbengin.exe,file
+AnyDesk,tool
+Daggerfly,attacker
+WannaMine,malware
+PlugX loader,tool
+BITSAdmin,tool
+PowerShell,tool
+AnyDesk,tool
+GetCredManCreds,tool
+Daggerfly,attacker
+MgBot,malware
+MgBot EXE,tool
+MgBot DLL Loader,tool
+MgBot Plugins,tool
+innocence.dll,file
+Chrome and Firefox infostealer,tool
+bkmk.dll,file
+famdowm.dll,file
+qmsdp.dll,file
+ceeeb.dll,file
+cpfwplgx.dll,file
+kstrcs.dll,file
+cbmrpa.dll,file
+maillfpassword.dll,file
+prsm.dll,file
+ansecprocesskeep.dll,file
+Daggerfly,attacker
+Othorene,attacker
+Gallium,attacker
+Othorene,attacker
+APT41,attacker
+Blackfly,attacker
+Grayfly,attacker
+NbtScan,tool
+pc.exe,file
+mim221,malware
+SentinelOne,attacker
+Play Ransomware Group,attacker
+Custom Data-Gathering Tools,tool
+Play ransomware group,attacker
+Grixba,tool
+Infostealer.Grixba,"malware),"
+Play ransomware gang,attacker
+Grixba,malware
+Costura,tool
+.NET development tool,tool
+costura.commandline.dll,file
+HitmanPro,tool
+VIPRE Anti-Virus,tool
+DeepArmor,tool
+Morphisec,tool
+Dr.Web,tool
+Veeam Backup Recovery,tool
+Synology C2 Cloud,tool
+Dropbox,tool
+Acronis,tool
+Cobian,tool
+EaseUS,tool
+Paragon,tool
+IDrive,tool
+VNC Remote,tool
+AnyDesk,tool
+TeamViewer,tool
+NinjaOne,tool
+Zoho,tool
+Atera,tool
+ConnectWise,tool
+RemotePC,tool
+GoTo Resolve,tool
+GoToAssist,tool
+Splashtop,tool
+SOS BeyondTrust,tool
+Remote Desktop Manager,tool
+Getscreen,tool
+Action1 Webex,tool
+Atlassian Surfly,tool
+Electric Pulseway,tool
+Kaseya VSA,tool
+XMReality,tool
+SightCall,tool
+DameWare,tool
+ScreenMeet,tool
+Viewabo,tool
+ShowMyPC,tool
+Iperius,tool
+Radmin,tool
+Remote Utilities,tool
+RemoteToPC,tool
+WinRAR,tool
+Grixba,malware
+export.zip,file
+Play ransomware gang,attacker
+VSS Copying Tool,tool
+Costura,tool
+Play ransomware,malware
+AlphaVSS,tool
+Play Ransomware,malware
+PlayCrypt,malware
+Balloonfly,attacker
+CVE-2022-41080,vulnerability
+CVE-2022-41082,vulnerability
+Play,malware
+ransomware-as-a-service,threat type
+Balloonfly,attacker
+Custom Tools,tool
+ransomware,threat type
+Mantis,attacker
+Mantis,attacker
+Arid Viper,attacker
+Desert Falcon,attacker
+APT-C-23,attacker
+Mantis,attacker
+Hamas,attacker
+Micropsia,tool
+Arid Gopher backdoors,tool
+PowerShell,tool
+104.194.222[.]50,IP
+Micropsia,malware
+Putty,malware
+Certutil,tool
+BITSAdmin,tool
+systempropertiesinternationaltime.exe,file
+windowsnetworkmanager.exe,file
+windowsps.exe,file
+windowsservicemanageav.exe,file
+104.194.222[.]50:443,IP
+windowspackages.exe,file
+Micropsia,malware
+Arid Gopher,malware
+SetRegRunKey.exe,file
+localsecuritypolicy.exe,file
+windowspackages.exe,file
+networkswitcherdatamodell.exe,file
+networkuefidiagsbootserver.exe,file
+Micropsia,malware
+hostupbroker.exe,file
+windowsupserv.exe,file
+teamviewrremoteservice.exe,file
+embededmodeservice.exe,file
+Arid Gopher,malware
+localsecuritypolicy.exe,file
+Micropsia,malware
+microsoftdotnet35.exe,file
+systempropertiesinternationaltime.exe,file
+systempropertiesinternationaltime.exe,file
+windowsnetworkmanager.exe,file
+Arid Gopher,malware
+networkvirtualizationstartservice.exe,file
+networkvirtualizationfiaservice.exe,file
+networkvirtualizationseoservice.exe,file
+Reverse SOCKs Tunneler,malware
+windowsservicemanageav.exe,file
+Data Exfiltration Tool,tool
+WinRAR,tool
+windowsupserv.exe,file
+hostupbroker.exe,file
+windowspackages.exe,file
+Arid Gopher,malware
+Micropsia,malware
+Delphi,tool
+Go,tool
+7za.exe,file
+AttestationWmiProvider.exe,file
+ServiceHubIdentityHost.exe,file
+Shortcut.exe,file
+Setup.env,file
+networkswitcherdatamodell.exe,file
+localsecuritypolicy.exe,file
+networkuefidiagsbootserver.exe,file
+http://jumpstartmail[.]com/IURTIER3BNV4ER/DWL1RucGSj/4wwA7S8jQv,URL
+79.133.51[.]134,IP
+http://jumpstartmail[.]com/IURTIER3BNV4ER/AJLUK9BI48/0L6W3CSBMC,URL
+http://salimafia[.]net/IURTIER3BNV4ER/DWL1RucGSj/4wwA7S8jQv,URL
+146.19.233[.]32,IP
+http://salimafia[.]net/IURTIER3BNV4ER/AJLUK9BI48/0L6W3CSBMC,URL
+Arid Gopher,malware
+Mantis,malware
+Arid Gopher,malware
+http://jumpstartmail[.]com,URL
+AttestationWmiProvider.exe,file
+Arid Gopher,malware
+WindowsUpServ.exe,file
+success.txt,file
+err.txt,file
+Mantis,attacker
+3CX,tool
+Supply Chain Attack,threat type
+North Korean-sponsored actors,attacker
+3CX DesktopApp,tool
+3CX's DesktopApp,tool
+SolarWinds,malware
+https://raw.githubusercontent[].com/IconStorages/images/main/icon%d.ico,URL
+libffmpeg.dylib,file
+a64fa9f1c76457ecc58402142a8728ce34ccba378c17318b3340083eeb7acc67,SHA256
+fee4f9dabc094df24d83ec1a8c4e4ff573e5d9973caa676f58086c99561382d7,SHA256
+https://msstorageazure[.]com/analysis,URL
+officestoragebox[.]com/api/biosync,URL
+visualstudiofactory[.]com/groupcore,URL
+azuredeploystore[.]com/cloud/images,URL
+msstorageboxes[.]com/xbox,URL
+officeaddons[.]com/quality,URL
+sourceslabs[.]com/status,URL
+zacharryblogs[.]com/xmlquery,URL
+pbxcloudeservices[.]com/network,URL
+pbxphonenetwork[.]com/phone,URL
+akamaitechcloudservices[.]com/v2/fileapi,URL
+azureonlinestorage[.]com/google/storage,URL
+msedgepackageinfo[.]com/ms-webview,URL
+glcloudservice[.]com/v1/status,URL
+pbxsources[.]com/queue,URL
+3CX,tool
+DesktopApp,tool
+Blackfly,attacker
+Blackfly,attacker
+APT41,attacker
+Winnti Group,attacker
+Bronze Atlas,attacker
+Blackfly,tool
+Backdoor.Winnkit,malware
+caba1085791d13172b1bb5aca25616010349ecce17564a00cb1d89c7158d6459,SHA256
+cf6bcd3a62720f0e26e1880fe7ac9ca6c62f7f05f1f68b8fe59a4eb47377880a,SHA256
+e1e0b887b68307ed192d393e886d8b982e4a2fd232ee13c2f20cd05f91358596,SHA256
+a3078d0c4c564f5efb1460e7d341981282f637d38048501221125756bc740aac,SHA256
+714cef77c92b1d909972580ec7602b0914f30e32c09a5e8cb9cb4d32aa2a2196,SHA256
+Rootkit driver,tool
+Credential-dumping tool,tool
+100cad54c1f54126b9d37eb8c9e426cb609fc0eda0e9a241c2c9fd5a3a01ad6c,SHA256
+Screenshotting tool,tool
+452d08d420a8d564ff5df6f6a91521887f8b9141d96c77a423ac7fc9c28e07e4,SHA256
+Process-hollowing tool,tool
+1cc838896fbaf7c1996198309fbf273c058b796cd2ac1ba7a46bee6df606900e,SHA256
+SQL tool,tool
+4ae2cb9454077300151e701e6ac4e4d26dc72227135651e02437902ac05aa80d,SHA256
+Mimikatz,tool
+b28456a0252f4cd308dfb84eeaa14b713d86ba30c4b9ca8d87ba3e592fd27f1c,SHA256
+ForkPlayground,tool
+a3acb9f79647f813671c1a21097a51836b0b95397ebc9cd178bc806e1773c864,SHA256
+Proxy configuration tool,tool
+5e51bdf067e5781d2868d97e7608187d2fec423856dbc883c6f81a9746e99b9f,SHA256
+d4e1f09cb7b9b03b4779c87f2a10d379f1dd010a9686d221c3a9f45bda5655ee,SHA256
+f138d785d494b8ff12d4a57db94958131f61c76d5d2c4d387b343a213b29d18f,SHA256
+Proxy configuration tool,tool
+88113bebc49d40c0aa1f1f0b10a7e6e71e4ed3ae595362451bd9dcebcf7f8bf4,SHA256
+498e8d231f97c037909662764397e02f67d0ee16b4f6744cf923f4de3b522bc1,SHA256
+conf.dat,file
+Blackfly,attacker
+APT,threat type
+PlugX/Fast,malware
+Backdoor.Korplug,malware
+Winnti/Pasteboy,malware
+Backdoor.Winnti,malware
+Shadowpad,malware
+Backdoor.Shadowpad,malware
+3CX DesktopApp,tool
+aa124a4b4df12b34e74ee7f6c683b2ebec4ce9a8edcf9be345823b4fdcf5d868,SHA256
+59e1edf4d82fae4978e97512b0331b7eb21dd4b838b850ba46794d9c7a2c0983,SHA256
+ffmpeg.dll,file
+7986bbaee8940da11ce089383521ab420c443ab7b15ed42aed91fd31ce833896,SHA256
+d3dcompiler_47.dll,file
+11be1803e2e307b647a8a7e02d128335c448ff741bf06bf52b332e0bbf423b03,SHA256
+Trojan,threat type
+aa4e398b3bd8645016d8090ffc77d15f926a8e69258642191deb4e68688ff973,SHA256
+5D41402ABC4B2A76B9719D911017C592,SHA256
+CVE-2020-0601,vulnerability
+Retooled Waterbug,attacker
+PowerShell script,tool
+PsExec,tool
+EternalBlue,tool
+EternalRomance,tool
+DoublePulsar,tool
+SMBTouch,tool
+Waterbug,attacker
+Turla,attacker
+Beapy,malware
+Cryptojacking,threat type
+DarkHotel/Armyworm,attacker
+OceanLotus/Destroyer,attacker
+Swallowtail,attacker
+Whitefly,attacker
+Elfin,attacker
+Stonedrill,malware
+Elfin,attacker
+Backdoor.Notestuk,malware
+TURNEDUP,malware
+Trojan.Stonedrill,malware
+AutoIt backdoor,malware
+Backdoor.Remvio,malware
+PSExec,tool
+Powershell,tool
+Windows Management Instrumentation,tool
+Shamoon,attacker
+NanoCore,malware
+Trojan.Nancrat,malware
+PsExec,tool
+Hacktool.Mimikatz,tool
+UltraVNC,tool
+Cobalt Strike,malware
+backdoor,threat type
+Elfin,attacker
+APT33,attacker
+Stonedrill,malware
+Trojan.Stonedrill,malware
+W32.Disttrack,attack
+FIN7,attacker
+FASTCash,attacker
+Trojan.Fastcash,malware
+financial Trojan,threat type
+Ramnit,malware
+Emotet,malware
+Trickybot,malware
+Magecart,attacker
+WMIC,tool
+PowerShell,tool
+Mirai,malware
+Aboriginal Linux,tool
+PhpSpy,malware
+backdoor,threat type
+magiccoder.ir,Domain
+MagicCoder,tool
+Sun Army,attacker
+Leafminer group,attacker
+Trojan.Imecab,malware
+Backdoor.Sorgu,malware
+Mealybug,attacker
+Emotet,malware
+Qakbot,malware
+Mealybug,attacker
+Mealybug,malware
+banking Trojan,threat type
+PowerShell,tool
+financial Trojan,threat type
+cryptocurrency miner,threat type
+GhostMiner,malware
+Bluwimps,malware
+worm,threat type
+Thrip,attacker
+Trojan.Kwampirs,malware
+backdoor Trojan,threat type
+Trojan.Coinminer,malware
+cryptocurrency mining,threat type
+windata0.exe,file
+Petya/NotPetya,malware
+supply chain attack,threat type
+Necurs,malware
+botnet,threat type
+phishing,threat type
+code injection,threat type
+Android Trojan,threat type
+Android.Doublehiddent,malware
+Android.Rootnik.B,malware
+Sowbug,attacker
+espionage attack,threat type
+Sowbug,attacker
+Felismus,malware
+backdoor,threat type
+adobecms.exe,file
+Bachosens,attacker
+Igor,attacker
+Bachosens,malware
+Corentry,malware
+e20d5255d8ab1ff5f157847d2f3ffb25,MD5
+5df76f1ad59e019e52862585d27f1de2,MD5
+318d8b61d642274dd0513c293e535b38,MD5
+511a473e26e7f10947561ded8f73ffd0,MD5
+Archangel,tool
+Longhorn,tool
+Backdoor.Plexor,malware
+Longhorn,tool
+Vault 7,attacker
+Gatak Trojan,malware
+Stegoloader,malware
+backdoor Trojan,threat type
+Tick,attacker
+Downloader.Gofarer,malware
+Daserf,malware
+CVE-2014-4114,vulnerability
+Dripio,malware
+C&C server,tool
+Dyre,malware
+financial fraud Trojan,threat type
+Butterfly,attacker
+Morpho,attacker
+Dyre,malware
+Regin,malware
+Regin,malware
+Dragonfly,attacker
+5D211C47612B98426DD3C8EAC092AC5CE0527BDA09AFA34B9D0F628109E0C796,SHA256
+10[.]10[.]30[.]36,IP
+2008BDD98D3DCB6633357B8D641C97812DF916300222FC815066978090FA078F,SHA256
+192[.]168[.]21[.]182,IP
+847CBE9457B001FAF3C09FDE89EF95F9CA9E1F79C29091C4B5B08C5F5FE48337,SHA256
+ARM,malware
+509f5bb6bcc0f2da762847364f7c433d1179fb2b2f4828eefb30828c485a3084,SHA256
+Big Head,malware
+ransomware,threat type
+CVE-2023-34362,vulnerability
+Cl0p,attacker
+CVE-2023-34362,vulnerability
+MOVEit Transfer,tool
+Launcher_S0FT-2O23.exe,file
+Vidar Stealer,malware
+820bbfc1f5023af60a7048a0c25e3db51b481afd6986bf1b5ff806cf604c1f4c,SHA256
+e256b5ef66c4e56dac32934594b41e7e8cf432f834046e1c24c0827b120e6ddb,SHA256
+Vaxa.exe,file
+Miner Installer,malware
+44810cead810cd546a8983e464157a4eb98ebbd518c4f4249e6b99e7f911090f,SHA256
+shellcode,tool
+Task32Main,malware
+5630c8f0dcd2393daf8477e6e4e419b0d0faf6780b6f1e00ad7a09fd37ddcdd3,SHA256
+Regsvcs.exe,file
+watchdog,tool
+Wintapix.sys,malware
+Donut,tool
+RapperBot,malware
+Distributed Denial of Service (DDoS) attack,threat type
+hxxp://109[.]206[.]243[.]207/ssh/x86_64,URL
+RapperBot,malware
+Bash scripts,tool
+7f6e0fa785820075a61819ca6b272a239733b770eb8a92a4056cf5d26d89795f,SHA256
+XMRig crypto miner,tool
+0ad68d5804804c25a6f6f3d87cc3a3886583f69b7115ba01ab7c6dd96a186404,SHA256
+XMRig,malware
+cryptojacking,threat type
+f06d698967cee77e5a7bf9835b0a93394097e7590c156ed0d8c6304345701cfa,SHA256
+RapperBot,malware
+AndoryuBot,malware
+botnet,threat type
+AndoryuBot,malware
+DDoS Attack,threat type
+jquery.hta,malware
+Pantomime.hta,malware
+SILENTTRINITY,attacker
+PreBot.dll,file
+test.bat,file
+EvilExtractor,malware
+FTP service,tool
+Kodex,attacker
+EvilExtractor,malware
+ransomware,threat type
+zzyy.zip,file
+evilextractor[.]com,Domain
+7za.exe,file
+EvilExtractor,malware
+6dee21d581eac2214e3ea7259bf9cb3e0cc31b442a372ffba00f82aa858050f0,SHA256
+c06cf72149d52b8a7c73b38c075156df4c458f633c3031c3c0ce32741ad1518e,SHA256
+hxxp://datacenter11[.]myftp[.]org/notepad/,URL
+hxxp://datacenter11[.]myftp[.]org/met/a[.]mp3,URL
+XWorm,malware
+XWorm,malware
+Remote Access Trojan,threat type
+Dual,malware
+TaxReturn2022.img,file
+6658d4b14f0093a2fccd2f57b5bf9fa18d09cda5d42036f280b41e5beb1ff2fe,SHA256
+TaxReturn2022.pdf.lnk,file
+180a79cff5ef91ecd744a35b2e433d0a4aae0e4d3b87c40e8e51f5ca02aac4d6,SHA256
+TaxReturns2022.pdf.lnk,file
+fa862d43a85a9ea6f046f3edc743b897bba86348c04b8d62ba6eb27f951edf55,SHA256
+TaxReturns2022.zip,file
+c4599d4270ba8ef58fb8f1219ecff864acd83145c368ada9406a341d6f4a4fbf,SHA256
+CVE-2021-35394,vulnerability
+UDPServer,tool
+thebypasstool,tool
+judyb-advanced,tool
+Discord webhook,tool
+telthi,tool
+Empyrean,malware
+Wipers,malware
+CaddyWiper,threat type
+WhisperGate,attacker
+AsyncRAT,malware
+C2 server,tool
+PowerShell code,tool
+tmp72AF.tmp,file
+79[.]137[.]203[.]156,IP
+miner.bat,file
+plugin_3.dll,file
+plugin_4.dll,file
+8220 Gang,attacker
+ScrubCrypt,malware
+Chaos Ransomware,malware
+Ethereum mining app,malware
+Sirattacker,malware
+ransomware,threat type
+Chaos ransomware generator,tool
+Core1337,attacker
+3m-promo-gen-api,malware
+Ai-Solver-gen,malware
+Ai-Solver-gen,malware
+hypixel-coins,malware
+httpxrequesterv2,malware
+httpxrequester,malware
+Spidey Bot,malware
+hxxps://discordapp[.]com/api/webhooks/1068100542682902558/9JUsLnJZLyEkc_bGS85KTa5M1VWZ2J496v6Ruo7oUclFE08osfXNZL_OK5YDGOPYHLFy,URL
+Blackfly,attacker
+Grayfly,attacker
+APT41,attacker
+Chinese APT group,attacker
+Blackfly,attacker
+Clasiopa,attacker
+Clasiopa,attacker
+Backdoor.Atharvan,malware
+Clasiopa,attacker
+brute force attacks,threate type
+https://ifconfig.me/ip,URL
+wsmprovhost,tool
+(PowerShell,tool
+backdoors,malware
+atharvan.exe,file
+agile_update.exe,file
+HCL Domino,tool
+IBM Domino,tool
+backdoors,threat type
+Agile software,tool
+Atharvan,malware
+Lilith,malware
+Thumbsender,tool
+C&C server,tool
+Thumb.db,file
+custom proxy tool,tool
+Atharvan,malware
+C&C server,tool
+update.microsoft.com,Domain
+Atharvan,malware
+Clasiopa,attacker
+Atharvan,malware
+backdoor,threat type
+Hydrochasma,attacker
+Hydrochasma,attacker
+open-source tools,tool
+Hydrochasma,attacker
+phishing email,tool
+Export.pdf.exe,file
+%TEMP%\MicrosoftEdgeUpdate.exe,file
+%TEMP%\msedgeupdate.dll,file
+Meterpreter,"tool),"
+Gogo scanning tool,tool
+Process Dumper,tool
+lsass.exe,file
+Cobalt Strike Beacon,tool
+AlliN scanning tool,tool
+Fscan,tool
+Dogz proxy tool,tool
+shellcode loader,tool
+SoftEtherVPN,tool
+Procdump,tool
+BrowserGhost,tool
+Gost proxy,tool
+Ntlmrelay,tool
+Task Scheduler,tool
+Go-strip,tool
+HackBrowserData,tool
+Hydrochasma,attacker
+Frebniis,malware
+Microsoft IIS,tool
+Backdoor,threat type
+Frebniis,malware
+Backdoor.Frebniis,malware
+Frebniis,malware
+iisfreb.dll,file
+IIS,tool
+Frebniis,malware
+w3wp.exe,file
+iisfreb.dll,file
+iiscore.dll,file
+Frebniis,malware
+IIS server,tool
+Backdoor,malware
+Frebniis,malware
+/logon.aspx,URL
+/default.aspx,URL
+IIS server,tool
+Frebniis,malware
+.NET backdoor code,malware
+logon.aspx,URL
+default.aspx,URL
+(Frebniis,malware
+Frebniis,malware
+IIS web server,tool
+HTTP backdoor,threat type
+Graphiron,malware
+Nodaria group,attacker
+UAC-0056,attacker
+Infostealer.Graphiron,malware
+Graphiron,malware
+Downloader.Graphiron,malware
+Infostealer.Graphiron,malware
+Graphiron,malware
+C&C server,tool
+OfficeTemplate.exe,file
+MicrosoftOfficeDashboard.exe,file
+https://checkip.amazonaws.com,URL
+PowerShell command,tool
+PuTTY sessions,tool
+"CSIDL_SYSTEMeg.exe",file
+Graphiron,malware
+Nodaria tools,tool
+GraphSteel,malware
+GrimPlant,malware
+PowerShell,tool
+C&C server,tool
+Nodaria,attacker
+WhisperGate,malware
+Bitcoin,threat type
+spear-phishing emails,tool
+Elephant Dropper,tool
+Elephant Downloader,tool
+SaintBot,tool
+OutSteel,tool
+GrimPlant,malware
+Elephant Implant,malware
+GraphSteel,malware
+Elephant Client,malware
+Graphiron,malware
+Nodaria,attacker
+Bluebottle,malware
+Bluebottle,attacker
+OPERA1ER,attacker
+personnel[.]bdm-sa[.]fr,Domain
+Ngrok,tool
+PsExec,tool
+RDPWrap,tool
+Revealer Keylogger,tool
+Cobalt Strike Beacon,tool
+GuLoader,malware
+fiche de poste.exe,file
+fiche de candidature.exe,file
+fiche de candidature.pdf.exe,file
+fiche de candidature(1).zip,file
+fiche de candidature.scr,file
+commodity malware,malware
+OPERA1ER,attacker
+job-themed malware,malware
+Bumblebee loader,tool
+ransomware,threat type
+Bluebottle,attacker
+OPERA1ER,attacker
+GuLoader,malware
+NSIS executable,file
+ieinstal.exe,file
+aspnet_regbrowsers.exe,file
+hxxp://178.73.192[.]15/ca1.exe,URL
+transfer[.]sh,Domain
+GuLoader,malware
+.NET loaders,tool
+Netwire remote access Trojan,malware
+Quasar RAT,malware
+Cobalt Strike Beacon,tool
+Bluebottle,attacker
+sc.exe,file
+Infostealer.Eamfo,malware
+Cuba,malware
+Noberus,malware
+Lockbit,malware
+UNC3944,attacker
+POORTRY,malware
+STONESTOP,malware
+Cuba ransomware operators,attacker
+BURNTCIGAR loader,tool
+Bluebottle,attacker
+Mimikatz,tool
+SharpHound,tool
+PsExec,tool
+(RDPWrap script,tool
+registry,vulnerability
+job-themed malware,malware
+downloader,tool
+Sharphound hacktool,tool
+fakelogonscreen,tool
+command prompt,tool
+PsExec,tool
+lateral movement,threat type
+Quser,tool
+Net localgroup /add,tool
+Fortinet VPN client,tool
+GuLoader,tool
+Mimikatz,tool
+Revealer Keylogger,tool
+Backdoor.Cobalt,malware
+Netwire RAT,malware
+Ngrok tunneling tool,tool
+.NET downloader,tool
+Malicious driver,malware
+transfer[.]sh,URL
+Bluebottle,attacker
+Cobalt Strike,tool
+GuLoader,tool
+Mimikatz,tool
+Netsh,tool
+Netwire RAT,tool
+Ngrok,tool
+Ping,tool
+PsExec,tool
+Quasar RAT,malware
+Quser,tool
+RDPWrap,tool
+Revealer Keylogger,tool
+SharpHound,tool
+Billbug,attacker
+Billbug,attacker
+Lotus Blossom,attacker
+Thrip,attacker
+advanced persistent threat (APT) group,threat type
+Hannotog,malware
+Backdoor.Hannotog,malware
+Sagerunex,malware
+Backdoor.Sagerunex,malware
+Billbug,attacker
+Billbug,attacker
+dual-use tools,tool
+AdFind,tool
+Winmail,tool
+WinRAR,tool
+Ping,tool
+Tracert,tool
+Route,tool
+NBTscan,tool
+Certutil,tool
+Port Scanner,tool
+Hannotog backdoor,malware
+Stowaway Proxy Tool,tool
+Go language,tool
+penetration testers,attacker
+Cobalt Strike,tool
+commodity malware,threat type
+Sagerunex,malware
+C&C server,tool
+Hannotog,malware
+explorer.exe,tool
+%TEMP%/TS_FB56.tmp,file
+Billbug,attacker
+Billbug,attacker
+Cranefly,attacker
+Trojan.Geppei,malware
+Cranefly,attacker
+Trojan.Danfuan,malware
+Cranefly,attacker
+UNC3524,attacker
+Regeorg webshell,tool
+Trojan.Geppei,malware
+PyInstaller,tool
+IIS log,tool
+.ashx files,tool
+backdoors,threat type
+w+1+C:\\inetpub\\wwwroot\	est\ackdoor.ashx,file
+C:\\inetpub\\wwwroot\	est\ackdoor.ashx,file
+Hacktool.Regeorg,malware
+ReGeorg,"malware),"
+Trojan.Danfuan,malware
+sckspy.exe,tool
+Hacktool.Regeorg,tool
+APT groups,attacker
+GitHub,tool
+Cranefly,attacker
+Exbyte,malware
+BlackByte,attacker
+Ransomware,threat type
+Exbyte,tool
+ransomware attackers,attacker
+BlackByte ransomware,threat type
+Ransom.Blackbyte,malware
+Infostealer.Exbyte,malware
+Hecamede,attacker
+BlackByte,malware
+ransomware attacks,threat type
+Exbyte,malware
+Mega.co.nz,Domain
+avghooka.dll,file
+avghookx.dll,file
+sxin.dll,file
+sf2.dll,file
+sbiedll.dll,file
+snxhk.dll,file
+cmdvrt32.dll,file
+cmdvrt64.dll,file
+wpespy.dll,file
+vmcheck.dll,file
+pstorec.dll,file
+dir_watch.dll,file
+api_log.dll,file
+dbghelp.dll,file
+BlackByte,malware
+Exbyte,malware
+%APPDATA%\dummy,file
+Mega.co.nz,Domain
+Exmatter,malware
+BlackMatter,malware
+Noberus,malware
+Ryuk Stealer,tool
+StealBit,tool
+LockBit,malware
+BlackByte,malware
+CVE-2021-34473,vulnerability
+CVE-2021-34523,vulnerability
+CVE-2021-31207,vulnerability
+CVE-2021-26855,vulnerability
+CVE-2021-27065,vulnerability
+Microsoft Exchange Servers,tool
+AdFind,tool
+AnyDesk,tool
+NetScan,tool
+PowerView,tool
+http://msdl.microsoft.com/download/symbols/ntkrnlmp.pdb/11D60DB07BA7433B923F49867DF515721/ntkrnlmp.pdb,url
+ntkrnlmp.pdb,file
+ntoskrnl.exe,file
+BlackByte,malware
+VssAdmin,tool
+cmd.exe,file
+vssadmin.exe,file
+sc.exe,file
+BlackByte,malware
+svchost.exe,file
+rdac.exe,file
+1.1.1.1,IP
+BlackByte,attacker
+Conti,attacker
+Sodinokibi,attacker
+ransomware operations,threat type
+Spyder Loader,malware
+Operation CuckooBees,attacker
+Spyder Loader,malware
+Trojan.Spyload,malware
+intelligence collection,threat type
+Operation CuckooBees,attacker
+Spyder Loader,malware
+C&C server,tool
+Operation CuckooBees,attacker
+Spyder Loader,"malware),"
+Spyder Loader,malware
+sqlite3.dll,file
+rundll32.exe,file
+wlbsctrl.dll,file
+wlbsctrl.dll file,file
+e:\works\2021\stonev4-legacy\cryptopp_5_6_4\cryptopp\secblock.h,file
+Spyder Loader,malware
+sqlite3.dll,file
+rundll32.exe,file
+Spyder Loader,malware
+data.dat,file
+Mimikatz,malware
+command-and-control (C&C) server,tool
+winpcap,tool
+npf.sys,file
+packet.dll,file
+Spyder Loader,"malware),"
+Budworm,attacker
+Budworm,attacker
+espionage group,threat type
+Budworm,attacker
+CVE-2021-44228,vulnerability
+CVE-2021-45105,vulnerability
+Virtual Private Servers,tool
+HyperBro malware family,malware
+Budworm,malware
+CyberArk Viewfinity,tool
+vf_host.exe,file
+securityhealthservice.exe,file
+vfhost.exe,file
+vxhost.exe,file
+vx.exe,file
+v.exe,file
+HyperBro,malware
+HyperBro loader,tool
+peloader.exe,file
+12.exe,file
+PlugX/Korplug Trojan,malware
+Cobalt Strike,tool
+LaZagne,tool
+IOX,tool
+Fscan,tool
+Budworm,attacker
+Witchetty,attacker
+Espionage group,threat type
+Witchetty,attacker
+LookingFrog,attacker
+CVE-2021-34523,vulnerability
+CVE-2021-31207,vulnerability
+CVE-2021-26855,vulnerability
+CVE-2021-27065,vulnerability
+Witchetty,attacker
+TA410,attacker
+Cicada group,attacker
+APT10,attacker
+X4,malware
+LookBack,malware
+LookBack,malware
+Backdoor.Stegmap,malware
+Backdoor.Stegmap,malware
+Custom proxy utility,tool
+C&C server,tool
+Custom port scanner,tool
+Custom persistence utility,tool
+regsrv32,tool
+Witchetty,attacker
+rundll32.exe,file
+CSIDL_SYSTEM\comsvcs.dll,file
+1036 CSIDL_PROFILE\public\dm.db,file
+Mimikatz,tool
+dd.exe,file
+dd.exe,file
+CSIDL_WINDOWS	emp\8b7db7a3-5376-4d32-8be1-0d3092117022-microsoft.tmp,file
+"CSIDL_SYSTEM\comsvcs.dll,minidump",file
+CSIDL_SYSTEM_DRIVE\inetpub\wwwroot\aspnet_client	emp.rar,file
+CSIDL_SYSTEM_DRIVE\inetpub\wwwroot\aspnet_client\sam.hive,file
+LookBack backdoor,malware
+Mimikatz,tool
+powershell,tool
+a.ps1,file
+makecab,tool
+HKLM\SAM,file
+s.dat,file
+CSIDL_SYSTEM_DRIVE\program files\microsoft\exchange server15in\exshell.psc1,file
+CSIDL_SYSTEM_DRIVE\program files\microsoft\ exchange server15in\exshell.psc1,file
+domu.csv,file
+domu.cab,file
+WinRM,tool
+c:\windows	emp\1.txt,file
+cscript,tool
+CSIDL_SYSTEM\winrm.vbs,file
+p.exe,tool
+194.180.174.254,IP
+flogoff.aspx,file
+CSIDL_SYSTEM_DRIVE\winrm.vbs,file
+0718.ldf,file
+0718.cab,file
+flogoff.aspx,file
+http://194.180.174.254/111,URL
+LookBack,malware
+CSIDL_SYSTEM_DRIVE\program Files (x86)\Internet Explorer\SystemControlModel.dll,file
+CSIDL_PROGRAM_FILES\internet explorer\systemcontrolmodel.dll,file
+CSIDL_SYSTEM\windowspowershell1.0\powershell_ise.exe,file
+"CSIDL_SYSTEM_DRIVEeport\getlastloginou.ps1",file
+http://185.225.19.55:8080/111,URL
+7.exe,file
+deployer.7z,file
+wmic,tool
+cmd.exe,file
+powershell,tool
+185.225.19.55,IP
+111.txt,file
+repro.exe,file
+Witchetty,"attacker),"
+Noberus Ransomware,malware
+Darkside,malware
+BlackMatter,malware
+Exmatter,tool
+Eamfo,malware
+Rust-based ransomware,threat type
+Noberus,malware
+BlackCat,malware
+ALPHV,malware
+Noberus,malware
+BlackMatter,malware
+Coreid,attacker
+FIN7,attacker
+Carbon Spider,attacker
+RaaS operation,tool
+Noberus,malware
+Rust,tool
+(BlackMatter,malware
+Noberus,malware
+Coreid,attacker
+onion domain,tool
+ransomware,threat type
+intermittent encryption,tool
+Noberus,attacker
+Black Basta,attacker
+Noberus,malware
+Coreid,attacker
+DDoS,threat type
+(Brute,threat type
+Noberus,malware
+Coreid,attacker
+Noberus,malware
+Exmatter,malware
+Trojan.Exmatter,malware
+Blackmatter,ransomware
+Exmatter,malware
+Exmatter,malware
+Coreid,attacker
+ransomware,threat type
+Noberus,malware
+Eamfo,malware
+Infostealer.Eamfo,malware
+Eamfo,malware
+Yanluowang,malware
+LockBit,malware
+ransomware,threat type
+Monti,malware
+Conti ransomware,malware
+Miner,attacker
+Noberus,attacker
+Eamfo,malware
+GMER,tool
+ransomware,threat type
+Monti,malware
+Coreid,attacker
+Carbanak,malware
+ransomware,threat type
+Webworm,attacker
+Webworm,attacker
+Trochilus,malware
+Gh0st RAT,malware
+9002 RAT,malware
+Webworm,attacker
+Space Pirates,attacker
+Trochilus RAT,malware
+Trochilus,malware
+C++,tool
+GitHub,tool
+cyber-espionage operations,threat type
+PlugX,malware
+9002 RAT,malware
+9002 RAT,malware
+state-sponsored actors,attacker
+PlugX RAT,malware
+Gh0st RAT,malware
+advanced persistent threat (APT) groups,attacker
+Gh0st RAT,malware
+GhostNet,attacker
+Webworm,attacker
+Trochilus dropper,malware
+6201c604ac7b6093dc8f6f12a92f40161508af1ddffa171946b876442a66927e,SHA256
+Trochilus Dropper,malware
+b9a0602661013d973bc978d64b7abb6bed20cf0498d0def3acb164f0d303b646,SHA256
+Trochilus Dropper,malware
+c71e0979336615e67006e20b24baafb19d600db94f93e3bf64181478dfc056a8,SHA256
+[TEMP]\Logger.exe,file
+28d78e52420906794e4059a603fa9f22d5d6e4479d91e9046a97318c83998679,SHA256
+[TEMP]\sc.cfg,file
+a618b3041935ec3ece269effba5569b610da212b1aa3968e5645f3e37d478536,SHA256
+[TEMP]\logexts.dat,file
+a6b9975bfe02432e80c7963147c4011a4f7cdb9baaee4ae8d27aaff7dff79c2b,SHA256
+[TEMP]\logexts.dll,file
+a73a4c0aa557241a09e137387537e04ce582c989caa10a6644d4391f00a836ef,SHA256
+[TEMP]\logger.dat,file
+10456bc3b5cfd2f1b1ab9c3833022ef52f5e9733d002ab237bdebad09b125024,SHA256
+[TEMP]\[RANDOM_DIGITS].doc,file
+d295712185de2e5f8811b0ce7384a04915abdf970ef0f087c294bb00e340afad,SHA256
+[TEMP]\logexts.dll,file
+logexts.dll,file
+Logger.dat,file
+Logger.dat,file
+logexts.dat,file
+Trochilus RAT,malware
+e69177e58b65dd21e0bbe4f6caf66604f120e0c835f3ee0d16a45858f5fe9d90,SHA256
+C:\ProgramData\Logger\Logger.exe,file
+C:\ProgramData\Logger\logger.dat,file
+C:\ProgramData\Logger\logexts.dll,file
+C:\ProgramData\Logger\logexts.dat,file
+C:\ProgramData\Logger\sc.cfg,file
+"C:\ProgramDataesmon.resmoncfg",file
+"C:\ProgramData\appsoftesmon.resmoncfg",file
+Space Pirates,attacker
+Webworm,malware
+resmon.resmoncfg,file
+svchost.exe,file
+Trochilus RAT,malware
+Gh0st RAT,malware
+9002 RAT,malware
+1e725f1fe67d1a596c9677df69ef5b1b2c29903e84d7b08284f0a767aedcc097,SHA256
+b0a58c6c859833eb6fb1c7d8cb0c5875ab42be727996bcc20b17dd8ad0058ffa,SHA256
+1CC32C7F2C90A558BA5FF6BA191E655B20D7C65C10AF0D5D06820A28C2947EFD,SHA256
+6e46054aa9fd5992a7398e0feee894d5887e70373ca5987fc56cd4c0d28f26a1,SHA256
+37fa5108db1ae73475911a5558fba423ef6eee2cf3132e35d3918b9073aeecc1,SHA256
+Webworm,attacker
+9002 RAT,malware
+Gh0st RAT,malware
+Webworm,attacker
+Space Pirates,attacker
+ShadowPad,malware
+NBTScan,tool
+TCPing,tool
+FastReverseProxy,tool
+FScan,tool
+Mimikatz,tool
+ProcDump,tool
+PsExec,tool
+RATS,malware
+Ntdsutil,tool
+attackers,attacker
+imjpuex.exe,file
+fb5bc4baece5c3ab3dabf84f8597bed3c3f2997336c85c84fdf4beba2dcb700f,SHA256
+imjputyc.exe,file
+imjputyc.dll,file
+imjputyc.dat,file
+svchost.exe,file
+Imjpuex.exe,tool
+Bitdefender Crash Handler,tool
+javac.exe,file
+386eb7aa33c76ce671d6685f79512597f1fab28ea46c8ec7d89e58340081e2bd,SHA256
+CSIDL_SYSTEM_DRIVE\xampp	mpmware.exe,file
+ProcDump,tool
+(p.exe,file
+lsass.exe,file
+lsass2.dmp,file
+calc.exe,file
+912018ab3c6b16b39ee84f17745ff0c80a33cee241013ec35d0281e40c0658d9,SHA256
+Mimikatz,tool
+calc.exe,file
+cal.exe,file
+12534f7014b3338d8f9f86ff1bbeacf8c80ad03f1d0d19077ff0e406c58b5133,SHA256
+LadonGo v3.8,tool
+Go,tool
+Crash Handler,tool
+svchost.exe,file
+Mimikatz,malware
+test.exe,file
+SHA256: 912018ab3c6b16b39ee84f17745ff0c80a33cee241013ec35d0281e40c0658d9,SHA256
+LadonGo,tool
+CVE-2020-1472,vulnerability
+kb0394623.exe,file
+PsExec,tool
+Crash Handler,file
+javac.exe,file
+csidl_program_files\windows mail\winmailservice.exe,file
+dnscmd.exe,tool
+67877821bf1574060f4e45ab8be62e28f54fb40a23ce70b86a6369a4d63db5bc,SHA256
+Crash Handler,tool
+imjpuex.exe,file
+PsExec,tool
+test.exe,file
+5c4456f061ff764509a2b249f579a5a14d475c6714f714c5a45fdd67921b9fda,SHA256
+ded734f79058c36a6050d801e1fb52cd5ca203f3fd6af6ddea52244132bd1b51,SHA256
+svchost.exe,file
+svchost,tool
+NetworkService,tool
+Mimikatz,tool
+calc.exe,file
+912018ab3c6b16b39ee84f17745ff0c80a33cee241013ec35d0281e40c0658d9,SHA256
+PsExec,tool
+t.bat,file
+net.exe,file
+ProcDump,tool
+p.exe,file
+2f1520301536958bcf5c65516ca85a343133b443db9835a58049cd1694460424,SHA256
+lsass.exe,file
+lsass2.dmp,file
+go64.exe,file
+Fscan,tool
+10.72.0.0,IP
+10.72.0.255,IP
+10.72.0.101,IP
+CVE-2021-26855,vulnerability
+PsExec,tool
+Crash Handler,tool
+winnet.exe,file
+Dnscmd utility,tool
+Crash Handler,tool
+ProcExplorer,tool
+CSIDL_PROFILE\desktop\processexplorer\procexp64.exe,file
+(system.hiv,file
+ShadowPad,malware
+Infostealer.Logdatter,malware
+PlugX/Korplug Trojan,malware
+Trochilus RAT,malware
+QuasarRAT,malware
+Ladon penetration testing framework,tool
+Nirsoft Remote Desktop PassView,tool
+Simple Network Management Protocol (SNMP) scanning tool,tool
+Fscan,tool
+Nbtscan,tool
+FileZilla,tool
+FastReverseProxy,tool
+WebPass,tool
+TCPing,tool
+ShadowPad,malware
+Korplug/PlugX Trojan,malware
+espionage actors,attacker
+Korplug/PlugX,malware
+Blackfly/Grayfly,attacker
+APT41,attacker
+Mustang Panda,attacker
+HPCustParticUI.exe,file
+hpcustpartui.dll,file
+keylogging tool,tool
+Shuckworm,attacker
+Infostealer,malware
+Shuckworm,attacker
+Shuckworm,attacker
+Gamaredon,attacker
+Armageddon,attacker
+mshta.exe,file
+a0698649[.]xsph[.]ru,Domain
+xsph[.]ru,Domain
+Backdoor.Pterodo,malware
+Shuckworm,attacker
+ntuser,tool
+Shuckworm,attacker
+Giddome backdoor,malware
+ntuser.dat.tmcontainer.vcd,file
+ntuser.dat.tm.descendant.exe,file
+ntuser.dat.tmcontainer.h264,file
+ntuser.dat.tm.declare.exe,file
+ntuser.dat.tmcontainer.asc,file
+ntuser.dat.tm.decay.exe,file
+4896.exe,file
+backdoor,threat type
+Ammyy Admin,tool
+AnyDesk,tool
+Shuckworm,attacker
+ntuser.dat,file
+LockBit,malware
+Ransomware,threat type
+LockBit,malware
+LockBit,ransomware
+Syrphid,attacker
+LockBit,malware
+AnyDesk,tool
+Windows RDP,"tool),"
+LockBit,malware
+Process Explorer,tool
+Process Monitor,tool
+Wireshark,tool
+Dumpcap,tool
+Process Hacker,tool
+cmd.exe,file
+TeamViewer,tool
+Notepad,tool
+Notepad++,tool
+WordPad,tool
+DLLHost.exe,file
+LockBit,malware
+dllhost.exe,file
+USERENV.dll,file
+LockBit,malware
+powershell.exe,file
+gpupdate,tool
+cmd.exe,file
+MSHTA.exe,file
+lockbit.hta,file
+LockBit,malware
+Conti,malware
+LockBit,malware
+RaaS operation,threat type
+Bumblebee,malware
+Bumblebee,malware
+ransomware,threat type
+Conti,malware
+Quantum,malware
+Mountlocker,malware
+Trickbot,malware
+BazarLoader,malware
+Bumblebee,malware
+Quantum,malware
+spear-phishing email,tool
+rundll32.exe,file
+wscript.exe,file
+Bumblebee,malware
+wab.exe,file
+wmiprvse.exe,file
+cmd.exe,file
+Metasploit DLL,tool
+ImagingDevices.exe,file
+AdFind tool,tool
+Quantum ransomware,malware
+rundll32.exe,file
+CSIDL_COMMON_APPDATA\2429189468.dll,file
+CSIDL_COMMON_APPDATA\2431789750.exe,file
+Quantum,malware
+WMI,tool
+AdFind,tool
+Bumblebee,malware
+b1102ed4bca6dae6f2f498ade2f73f76af527fa803f0e0b46e100d4cf5150682,SHA256
+ConnectWise,tool
+ScreenConnect,tool
+Atera,tool
+Meterpreter,tool
+Metasploit,tool
+ransomware,threat type
+AdFind,tool
+Bumblebee,malware
+Cobalt Strike,tool
+Avaddon ransomware,malware
+AnyDesk,tool
+Splashtop,tool
+7-Zip,tool
+AdFind,malware
+Atera,tool
+Splashtop,tool
+AnyDesk,tool
+Mimikatz,tool
+LaZagne,tool
+NetScan,tool
+PowerShell script,tool
+cve-2021-34527.ps1,file
+Conti,malware
+Quantum ransomware,malware
+Cobalt Strike,tool
+Ligolo,tool
+ProcDump,tool
+Rclone,tool
+AdFind,tool
+Diavol,malware
+Bumblebee,malware
+Bumblebee,malware
+ransomware,threat type
+adf.bat,file
+1e7737a57552b0b32356f5e54dd84a9ae85bb3acff05ef5d52aabaa996282dfb,SHA256
+AdFind,tool
+b1102ed4bca6dae6f2f498ade2f73f76af527fa803f0e0b46e100d4cf5150682,SHA256
+9d0fa4b88e5b36b8801b55508ab7bc7cda9909d639d70436e972cb3761d34eda,SHA256
+Cobalt Strike,tool
+PowerSploit,tool
+ransomware attack,threat type
+AdFind,tool
+Atera agent,tool
+Splashtop,tool
+Cobalt Strike,tool
+BazarLoader,malware
+Trickbot,malware
+Miner cyber-crime group,attacker
+Wizard Spider,attacker
+Ryuk,malware
+Conti,malware
+find.exe,file
+adfind.exe,file
+AdFind,tool
+9d0fa4b88e5b36b8801b55508ab7bc7cda9909d639d70436e972cb3761d34eda,SHA256
+Bumblebee,malware
+Cobalt Strike,tool
+runner.exe,file
+Conti,malware
+Mountlocker,malware
+Cobalt Strike,tool
+ransomware,threat type
+Conti,threat type
+AdFind,tool
+Bumblebee,malware
+ransomware,threat type
+ConnectWise,tool
+Atera,tool
+Splashtop,tool
+AnyDesk,tool
+Rclone,tool
+AvosLocker,malware
+PowerShell Empire,tool
+Bumblebee,threat type
+ransomware,threat type
+MSDT Follina Bug,vulnerability
+RAT,malware
+Infostealer,malware
+threat actors,attacker
+remote code execution flaw,vulnerability
+AsyncRAT,malware
+information stealer,malware
+CVE-2022-30190,vulnerability
+WinWord,tool
+msdt.exe,file
+Sdiagnhost.exe,file
+PowerShell,tool
+AsyncRAT,malware
+command-and-control (C&C) server,tool
+information stealer,malware
+Clipminer Botnet,malware
+Trojan.Clipminer,malware
+KryptoCibule,malware
+Clipminer,malware
+WinRAR,tool
+Tor network,tool
+Clipminer,malware
+cryptocurrency,threat type
+WinRAR archive,tool
+bd48b5da093a37cfa5e3929c19ac06ce711bd581bc49040e68d2ba0e5610bf71,SHA256
+Control Panel (CPL) file,file
+1d31bea6a065fa20cf41861d21b7ea39979d40126c800ebc87d07adb41fe03f4,SHA256
+m5ak8iW.cpl,file
+portable executable DLL,file
+C:\Windows\Temp\and.loc,file
+(Tor client,tool
+http://[HOST_IP_AND_PORT]/tor/status-vote/current/consensus.z,URL
+Tor,tool
+Clipminer,malware
+f49a5a0f2397609a3fb97728b5a997eb77cfa1b529188403fb5e8adaeac1860b,SHA256
+rhnoiniye_ni.dll,file
+Clipminer,malware
+KryptoCibule,malware
+Hive,malware
+Conti,malware
+AvosLocker,malware
+Hive,malware
+Conti,malware
+Avoslocker,malware
+RaaS,threat type
+IcedID,malware
+Emotet,malware
+QakBot,malware
+TrickBot,malware
+CVE-2021-34473,vulnerability
+CVE-2021-34523,vulnerability
+CVE-2021-31207,vulnerability
+CVE-2021-26855,vulnerability
+CVE-2018-13379,vulnerability
+CVE-2018-13374,vulnerability
+CVE-2021-44228,vulnerability
+spear-phishing emails,tool
+Cobalt Strike,malware
+ransomware,threat type
+AnyDesk,tool
+ConnectWise Control,tool
+ScreenConnect,tool
+Actors,attacker
+ADRecon,tool
+Netscan,tool
+Mimikatz,tool
+Hive,tool
+Conti,tool
+Avoslocker,tool
+https://raw.githubusercontent.com/<redacted>/Invoke-Mimikatz.ps1,URL
+comsvcs.dll,file
+rundll32.exe,file
+taskmgr.exe,file
+PsExec,tool
+WMI,tool
+BITSAdmin,tool
+ransomware,threat type
+Mimikatz,tool
+Hive,malware
+Conti,malware
+Avoslocker,malware
+Hive,malware
+AvosLocker,malware
+reg.exe,file
+reg.exe,tool
+wevtutil.exe,file
+Vssadmin,tool
+WMIC,tool
+vssadmin.exe,file
+wmic.exe,file
+BCDEdit,tool
+bcdedit.exe,file
+ransomware,threat type
+https://anonfiles.com,URL
+https://mega.nz,URL
+https://send.exploit.in,URL
+https://ufile.io,URL
+https://www.sendspace.com,URL
+Filezilla Rclone,tool
+AnyDesk,tool
+ScreenConnect,tool
+PsExec,tool
+PsExec,tool
+WMIC,tool
+BITSAdmin,tool
+Stonefly,attacker
+espionage attack,threat type
+Stonefly,attacker
+Stonefly,attacker
+DarkSeoul,attacker
+BlackMine,attacker
+Operation Troy,attacker
+Silent Chollima,attacker
+DDoS,threat type
+Backdoor.Prioxer,malware
+Jokra,malware
+Tojan.Jokra,malware
+Stonefly,attacker
+Operation Dream Job,malware
+Pompilus,attacker
+CVE-2021-44228,vulnerability
+Backdoor.Preft,malware
+Dtrack,malware
+Valefor,malware
+PuTTY’s PSCP command line application,tool
+pvhost.exe,file
+Mimikatz,tool
+pl.exe,file
+3proxy tiny proxy server,tool
+svhost.exe,file
+tapi.exe,file
+Preft backdoor,malware
+svchost.exe,file
+WinSCP,tool
+Invoke-TheHash,tool
+rev.ps1,file
+wmiexec.py,tool
+notepad.exe,file
+Preft backdoor,malware
+Stonefly,attacker
+iexplore.exe,file
+explorer.exe,file
+C&C server,tool
+Preft backdoor,malware
+Stonefly,attacker
+infostealer,threat type
+Stonefly,attacker
+Preft backdoor,malware
+Shuckworm,attacker
+Shuckworm,attacker
+Gamaredon,attacker
+Armageddon,attacker
+Backdoor.Pterodo,malware
+command-and-control server,tool
+Pterodo,malware
+VBScript,tool
+Scheduled Tasks,tool
+shtasks.exe,file
+C&C server,tool
+Backdoor.Pterodo.B,malware
+7-Zip,tool
+C&C server,tool
+ntusers.ini file,file
+desktop.ini file,file
+Backdoor.Pterodo.C,malware
+VBScripts,tool
+offspring.gif,file
+corolain.ru,Domain
+Backdoor.Pterodo.D,malware
+[USERPROFILE]\atwuzxsjiobk.ql,file
+[USERPROFILE]\abide.wav,file
+declined.delivered.maizuko[.]ru,Domain
+Backdoor.Pterodo.E,malware
+VBScript files,file
+Pterodo,tool
+UltraVNC,tool
+Shuckworm,attacker
+Process Explorer,tool
+Shuckworm,attacker
+Pterodo,malware
+Operation Dream Job,attacker
+North Korea-linked APT,attacker
+Lazarus,attacker
+Operation Dream Job,threat type
+Lazarus,attacker
+Operation Dream Job,attack
+scskapplink.dll,file
+scskapplink.dll,file
+Trojanized tool,tool
+C&C server,tool
+XZ Utils,tool
+MagicLine,tool
+SiteShoter,tool
+IP Logger,tool
+WakeOnLAN,tool
+FastCopy,tool
+e31af5131a095fbc884c56068e19b0c98636d95f93c257a0c829ec3f3cc8e4ba,SHA256
+join_06[1].htm,file
+rundll32.exe,file
+final.cpl,file
+5f20cc6a6a82b940670a0f89eda5d68f091073091394c362bfcaf52145b058db,SHA256
+command-and-control server,tool
+hxxp[:]//happy[.]nanoace.co.kr/Content/rating/themes/krajee-fas/FrmAMEISMngWeb.asp,URL
+61e305d6325b1ffb6de329f1eb5b3a6bcafa26c856861a8200d717df0dec48c4,SHA256
+final.cpl,file
+cmd.exe,file
+C:\ProgramData\Intel\Intel.bat,file
+Intel.bat,file
+Cryptodome,tool
+PyCrypto,tool
+BitDefender,tool
+final.cpl,file
+wpm.cpl,file
+942489ce7dce87f7888322a0e56b5e3c3b0130e11f57b3879fbefc48351a78f6,SHA256
+final.cpl,file
+ntuser.dat,file
+scheduled task,tool
+arm.bat,file
+arm.dat,file
+48f3ead8477f3ef16da6b74dadc89661a231c82b96f3574c6b7ceb9c03468291,SHA256
+arm.dat,tool
+final.cpl,file
+addins.cpl,file
+5f20cc6a6a82b940670a0f89eda5d68f091073091394c362bfcaf52145b058db,SHA256
+scheduled task,tool
+addins.bat,file
+Dream Job,attacker
+addins.cpl,file
+"CSIDL_SYSTEMundll32.exe",file
+CSIDL_COMMON_APPDATA\addins.cpl,file
+cmd.exe,file
+addins.bat,file
+Lazarus,attacker
+Operation Dream Job,attack
+Cicada,attacker
+Espionage,threat type
+Cicada,attacker
+APT10,attacker
+Cicada,attacker
+custom loader,tool
+custom malware,malware
+Sodamaster backdoor,malware
+Cicada,attacker
+custom loader,tool
+Sodamaster,malware
+Cicada,attacker
+Mimikatz loader,tool
+mimilib.dll,file
+WinVNC,tool
+RAR archiving tool,tool
+WMIExec,tool
+NBTScan,tool
+Cicada,attacker
+espionage,threat type
+Cicada,attacker
+CVE-2022-22965,vulnerability
+CVE-2022-22963,vulnerability
+Verblecon,malware
+Trojan.Verblecon,malware
+cryptocurrency miners,threat type
+ransomware,threat type
+espionage,threat type
+javaw.exe,file
+rpvbh.jar,file
+gaymers[.]ax,Domain
+6f3af6ffb074513b51bba688a0b41df7[.]tk,Domain
+hxxps://jonathanhardwick[.]me/hardwick.jar~start,URL
+hxxps://jonathanhardwick[.]me/hardwick.jar,URL
+hxxps://jonathanhardwick[.]me/hardwick.bin,URL
+hxxps://jonathanhardwick[.]me/config[.]txt,URL
+jonathanhardwick[.]me,Domain
+%Windows%\SysWow64\dllhost.exe,file
+hardwick.bin,file
+hxxps://jonathanhardwick[.]me/config[.]txt,URL
+cryptocurrency miner,threat type
+cryptocurrency mining software,threat type
+Trojan.Verblecon,malware
+ransomware,threat type
+sophisticated loader,tool
+ransomware,threat type
+espionage campaigns,threat type
+Daxin Backdoor,malware
+Daxin,malware
+China-linked espionage group,attacker
+Daxin,malware
+Daxin,malware
+10.0.2.2,IP
+10.0.3.3,IP
+10.0.4.4,IP
+Daxin,malware
+Daxin,malware
+Espionage tool,tool
+China-linked actors,attacker
+Daxin Backdoor,malware
+ransomware,threat type
+Conti,attacker
+Leafroller,attacker
+Sodinokibi,attacker
+REvil,attacker
+Coreid,attacker
+Darkside,attacker
+Blackmatter,attacker
+Avaddon,attacker
+LockBit,attacker
+Pinion,attacker
+Hive,attacker
+Sirex,attacker
+AvosLocker,attacker
+ransomware,threat type
+ransomware,threat type
+PsExec,tool
+Cobalt Strike,tool
+VssAdmin,tool
+MSIExec,tool
+Daxin,malware
+Espionage tool,tool
+Daxin,malware
+Daxin,malware
+Windows kernel driver,tool
+Backdoor.Daxin,malware
+ea3d773438c04274545d26cc19a33f9f1dbbff2a518e4302addc1279f9950cef,SHA256
+Daxin,malware
+VMProtect,tool
+Daxin,malware
+ndis.sys,file
+Daxin,malware
+Daxin,malware
+Daxin,malware
+Daxin,malware
+Daxin,malware
+Daxin,malware
+Daxin,malware
+Slingshot,attacker
+Daxin,attacker
+Daxin,malware
+Daxin,malware
+svchost.exe,file
+Daxin,malware
+Daxin,malware
+Daxin,malware
+Daxin,malware
+Daxin,malware
+https://myvaccinerecord.cdph.ca.gov/creds,URL
+https://smarthealth.cards#health-card,URL
+https://smarthealth.cards#immunization,URL
+https://smarthealth.cards#covid19,URL
+Daxin,malware
+Backdoor,threat type
+Espionage tool,tool
+China-linked actors,attacker
+Backdoor.Daxin,malware
+Daxin,malware
+China-linked actor,attacker
+Daxin,malware
+Regin,malware
+Daxin,malware
+Daxin,malware
+Daxin,malware
+Daxin,malware
+Daxin,malware
+Daxin,malware
+Daxin,malware
+Daxin,malware
+Daxin,malware
+Backdoor.Zala,malware
+Exforel,malware
+Zala,malware
+Chinese espionage actors,attacker
+Daxin,malware
+Trojan.Owprox,malware
+Owprox,attacker
+Slug,attacker
+Owlproxy,attacker
+Backdoor.Daxin,malware
+Trojan.Emulov,malware
+Daxin,malware
+ransomware,threat type
+wiper attacks,threat type
+CVE-2021-1636,vulnerability
+Trojan.Killdisk,malware
+Trojan.Killdisk,malware
+cmd.exe,file
+powershell,tool
+hxxp://192.168.3.13/email.jpeg,URL
+postgresql.exe,file
+schtasks,tool
+CSIDL_SYSTEM_DRIVE	emp\sys.tmp1,file
+CSIDL_WINDOWS\policydefinitions\postgresql.exe,file
+trustsecpro[.]com,Domain
+whatismyip[.]com,Domain
+PowerShell,tool
+confluence[.]novus[.]ua,Domain
+PowerShell script,tool
+text.ps1,file
+gp.ps1,file
+link.ps1,file
+Trojan.KillDisk,malware
+CVE-2021-1636,vulnerability
+sqlservr.exe,file
+CSIDL_SYSTEM\services.exe,file
+CSIDL_SYSTEM\wininit.exe,file
+PowerShell command,tool
+hxxp://[INTERNAL_HOST]/label.ico,URL
+C:	emp\sys.tmp1,file
+Ransomware,threat type
+wiper,threat type
+scheduled tasks,tool
+client.exe,file
+cdir.exe,file
+cname.exe,file
+connh.exe,file
+intpub.exe,file
+WhisperGate,malware
+Antlion,attacker
+Custom Backdoor,malware
+Antlion,attacker
+xPack,malware
+Noberus,malware
+Tor address,tool
+http://mu75ltv3lxd24dbyu6gtvmnwybecigs5auki7fces437xvvflzva2nqd.onion/?access-key=${ACCESS_KEY},URL
+cmd.exe,file
+http://zujgzbu5y64xbmvc42addp4lxkoosb4tslf5mehnh7pvqjpwxn5gokyd[.]onion/[REDACTED],URL
+Tor Browser,tool
+https://torproject.org/,URL
+http://mu75ltv3lxd24dbyu6gtvmnwybecigs5auki7fces437xvvflzva2nqd[.]onion/?access-key=[REDACTED],URL
+SFTP server,tool
+WebDav client,tool
+159.89.128.13,IP
+https://159.89.128.13/data/,URL
+Latin American banking Trojan,malware
+hxxps://centreldaconsulta[.]com/,URL
+hxxps://www.centralcfconsulta[.]net/,URL
+hxxps://centralcfconsulta[.]net/index3.php?api=vFUMIfUzGz2QdjxTFKAMyTlh,URL
+hxxps://centralcfconsulta.net/,URL
+hxxps://www.centralcfconsulta[.]net/index3.php?api=r0ubnHRxDycEy5uFPViNA55Y3t,URL
+hxxps://www.centralcfconsulta[.]net/index3.php?api=4DQSbdp3hLqPRGTbOGtl7jCD9FKNViKXmKd9Lv,URL
+hxxps://centreldaconsulta[.]com/index3.php?api=nJsdr1J3h0fsG18sRAVQt6JjVW,URL
+hxxps://centreldaconsulta[.]com/index3.php?api=ThMyMCAQEOLIC9nO,URL
+hxxps://www.centralcfconsulta[.]net/index3.php?api=wen1eIFCeUh0jAS3mWIDUhSLt3sXMQ,URL
+ESET,tool
+msiexec.exe,file
+mpr.dll,file
+VBoxTray.exe,file
+hxxp://13.36.240[.]208/ando998.002,URL
+hxxp://13.36.240[.]208/msftq.doge,URL
+hxxp://15.237.60[.]133/esperanca.lig2,URL
+hxxp://15.237.60[.]133/esperanca.liga,URL
+hxxp://52.47.163[.]237/microsft.crts,URL
+hxxp://52.47.163[.]237/nanananao.uooo,URL
+hxxp://15.237.27[.]77/carindodone.ways,URL
+VBoxTray.exe,file
+VBoxTray.exe,file
+mpr.dll,file
+Latin American banking Trojans,malware
+Antlion,attacker
+Antlion,attacker
+xPack backdoor,malware
+EHAGBPSL loader,tool
+JpgRun loader,tool
+custom keylogger,tool
+CheckID,tool
+custom loader,tool
+BlackHole RAT,malware
+PowerShell,tool
+WMIC,tool
+ProcDump,tool
+LSASS,tool
+PsExec,tool
+AnyDesk tool,tool
+CVE-2019-1458,vulnerability
+WinRAR,tool
+PowerShell,tool
+WMIC,tool
+htable.xsl,file
+WMIC,tool
+Antlion,malware
+xPack backdoor,malware
+VBS script,tool
+PsExec,tool
+Sysinternals procdump64.exe,file
+xPack backdoor,malware
+CSIDL_PROFILE\public\security.hive,file
+CSIDL_SYSTEM\quser.exe,file
+CSIDL_COMMON_DOCUMENTS\security.hiv,file
+CSIDL_COMMON_DOCUMENTS\system.hiv,file
+CSIDL_COMMON_DOCUMENTS\sam.hiv,file
+attackers,attacker
+xPack backdoor,tool
+Antlion,attacker
+espionage activities,threat type
+Chinese state-backed groups,attacker
+Shuckworm,malware
+Shuckworm group,attacker
+Gamaredon,attacker
+Armageddon,attacker
+cyber-espionage attacks,threat type
+Shuckworm,attacker
+UltraVNC,tool
+Pterodo/Pteranodon,malware
+Shuckworm,malware
+Pterodo,malware
+depended.lnk,file
+depended.exe,file
+94a78d5dce553832d61b59e0dda9ef2c33c10634ba4af3acb7fb7cf43be17a5b,SHA256
+hxxp://92.242.62.131/wordpress.php?is=[REDACTED],URL
+VBS file deep-thoughted.ppt,file
+SCHTASKS,tool
+mshta.exe,file
+depended.exe,file
+hxxp://fiordan.ru/FILM.html,URL
+Pterodo,malware
+wscript.exe,file
+tvplaylist.mov,file
+schtasks.exe,file
+wscript.exe,file
+webmedia.m3u,file
+tvplaylist.mov,file
+cmd.exe,file
+22333.docx,file
+9140.d,file
+battery.dat,file
+battery.cmd,file
+ping.exe,file
+arianat.ru,Domain
+Pterodo backdoor,malware
+C&C server,tool
+new C&C,tool
+mshta.exe,file
+avirona.ru,Domain
+7-ZIP.html,file
+schtasks.exe,file
+wscript.exe,file
+mediatv.mov,file
+videotv.m3u,file
+planeta.exe,file
+1ea3881d5d03214d6b7e37fb7b10221ef51782080a24cc3e275f42a3c1ea99c1,SHA256
+wscript.exe,file
+32440.docx,file
+20507.d,file
+cmd.exe,file
+C&C,tool
+Pterodo,malware
+deep-sided.fly,malware
+deerskin.exe,file
+ad1f796b3590fcee4aeecb321e45481cac5bc022500da2bdc79f768d08081a29,SHA256
+VNC client,tool
+8.8.8.8,IP
+mucoris.ru:5612,Domain
+1ddc9b873fe4f4c8cf8978b6b1bb0e4d9dc07e60ba188ac6a5ad8f162d2a1e8f,SHA256
+VNC client,tool
+Shuckworm,malware
+descend.exe,file
+0d4b8e244f19a009cee50252f81da4a2f481da9ddb9b204ef61448d56340c137,SHA256
+deerbrook.ppt,file
+b46e872375b3c910fb589ab75bf130f7e276c4bcd913705a140ac76d9d373c9e,SHA256
+deep-pitched.enarto.ru,Domain
+deep-sunken.tmp,file
+deep-sunken.exe,file
+02c41bddd087522ce60f9376e499dcee6259853dcb50ddad70cb3ef8dd77c200,SHA256
+%APPDATA%abyaby.cmd,file
+%APPDATA%abyaby.dat,file
+%APPDATA%abyasement.exe,file
+%APPDATA%abyb_baby.vbs,file
+C&C server,tool
+arianat.ru,Domain
+baby.dat,file
+baby.cmd,file
+backed.exe,file
+z4z05jn4.egf.exe,file
+fd9a9dd9c73088d1ffdea85540ee671d8abb6b5ab37d66a760b2350951c784d0,SHA256
+deep-sunken.exe,file
+defiant.exe,file
+a20e38bacc979a5aa18f1954df1a2c0558ba23cdc1503af0ad1021c330f1e455,SHA256
+%TEMP%\\deep-versed.nls,file
+%PUBLIC\Pictures\deep-versed.nls,file
+SCHTASKS,tool
+deep-versed.nls,file
+817901df616c77dd1e5694e3d75aebb3a52464c23a06820517108c74edd07fbc,SHA256
+deep-green.exe,file
+1ddc9b873fe4f4c8cf8978b6b1bb0e4d9dc07e60ba188ac6a5ad8f162d2a1e8f,SHA256
+UltraVNC,tool
+f6c56a51c1f0139036e80a517a6634d4d87d05cce17c4ca5adc1055b42bf03aa,SHA256
+procexp,tool
+de5a53a3b75e3e730755af09e3cacb7e6d171fc9b1853a7200e5dfb9044ab20a,SHA256
+d15a7e69769f4727f7b522995a17a0206ac9450cfb0dfe1fc98fd32272ee5ba7,SHA256
+MediaConvertor.dat,file
+mshta.exe,file
+Shuckworm,malware
+deceive.exe,file
+deceived.exe,file
+deception.exe,file
+deceptive.exe,file
+decide.exe,file
+decided.exe,file
+decipher.exe,file
+decisive.exe,file
+deep-sunken.exe,file
+deep-vaulted.exe,file
+Shuckworm,attacker
+ransomware,threat type
+supply chain attacks,threat type
+Ransomware,threat type
+ransomware,threat type
+ransomware,threat type
+initial access brokers,attacker
+ransomware gangs,attacker
+ransomware-as-a-service,tool
+RaaS,tool
+ransomware,threat type
+strains of ransomware,threat type
+botnets,threat type
+ransomware,threat type
+Trickbot,malware
+Miner group,attacker
+Wizard Spider,attacker
+Ryuk,malware
+Conti,malware
+SolarWinds hack,attack
+Kaseya attack,attack
+Nobelium,attacker
+Hagensia,attacker
+Tomiris,malware
+SUNSHUTTLE,malware
+FoggyWeb,malware
+REvil ransomware operators,attacker
+supply chain attack,threat type
+Kaseya,tool
+SolarWinds,tool
+supply chain attacks,threat type
+Hafnium,attacker
+Ant,attacker
+CVE-2018-13379,vulnerability
+CVE-2021-20016,vulnerability
+CVE-2021-27101,vulnerability
+CVE-2021-27102,vulnerability
+CVE-2021-27103,vulnerability
+CVE-2021-27104,vulnerability
+DarkSide,attacker
+ransomware,threat type
+Colonial Pipeline attack,attack
+Chinese state-sponsored threat actors,attacker
+CVE-2021-44228,vulnerability
+CVE-2021-44228,vulnerability
+CVE-2021-45046,vulnerability
+CVE-2021-45105,vulnerability
+coin miners,malware
+Dridex,malware
+Conti,malware
+Muhstik Botnet,malware
+Muhstik botnet,malware
+XMRig miner,malware
+PowerShell command,tool
+malicious Java class file,malware
+backdoor,threat type
+Dridex,malware
+Symantec IPS,tool
+Log4j-based application sandbox,tool
+*/curl,tool
+*/wget,tool
+Log4j application,tool
+external command-and-control servers,tool
+Log4j2,tool
+IDS Web Attack Detection,tool
+Noberus,malware
+Ransomware,threat type
+ConnectWise,malware
+ALPHV/BlackCat ransomware,malware
+Ransom.Noberus,malware
+Noberus,malware
+double extortion,threat type
+Noberus,malware
+ConnectWise,tool
+ransomware attackers,attacker
+PsExec,tool
+PsExec,tool
+Noberus ransomware,malware
+Tor site,tool
+Noberus,malware
+cmd.exe,file
+vssadmin.exe,file
+Noberus,malware
+PsExec,tool
+cmd.exe,file
+ransomware,threat type
+Noberus,malware
+Ransom.Noberus,malware
+http://mu75ltv3lxd24dbyu6gtvmnwybecigs5auki7fces437xvvflzva2nqd.onion/?access-key=${ACCESS_KEY},URL
+Noberus,malware
+Noberus,malware
+RECOVER-sykffle-FILES.txt,file
+RECOVER-sykffle-FILES.txt.png,file
+ransomware,threat type
+Noberus,malware
+ransomware,threat type
+attackers,attacker
+Yanluowang,malware
+Seedworm,attacker
+MuddyWater,attacker
+web shells,tool
+ScreenConnect setup MSI,tool
+Special discount program.zip,file
+spear-phishing email,tool
+Telecoms attack,attack
+PowerShell,tool
+Net group,tool
+Certutil,tool
+Ligolo tunneling tool,tool
+WMI,tool
+cURL,tool
+eHorus,tool
+LSASS dumping tool,tool
+Ligolo tunneling tools,tool
+Certutil,tool
+Exchange Web Services,tool
+certutil.exe,file
+hxxps://[REDACTED]/ews/exchange[.]asmx,URL
+hxxps://webmail.[REDACTED][.]com/ews,URL
+supply chain attack,threat type
+w3wp.exe,file
+PowerShell,tool
+Ligolo tunneling tool,tool
+CrackMapExec tool,tool
+ScreenConnect,tool
+RemoteUtilities,tool
+eHorus,tool
+Ligolo,tool
+Hidec,tool
+Nping,tool
+LSASS Dumper,tool
+SharpChisel,tool
+Password Dumper,tool
+CrackMapExec,tool
+ProcDump,tool
+SOCKS5 proxy server,tool
+Keylogger,tool
+Mimikatz,tool
+Seedworm,attacker
+ScreenConnect,tool
+RemoteUtilities,tool
+SharpChisel,tool
+Ligolo,tool
+ProcDump,tool
+Password Dumper,tool
+Trend Micro,tool
+March 2021 blog,tool
+Iran,attacker
+Chafer group,attacker
+CVE-2021-44228,vulnerability
+Apache Software Foundation,tool
+Log4j,tool
+CVE-2021-45105,vulnerability
+CVE-2021-45046,vulnerability
+DOS attack,threat type
+CVE-2021-44228,vulnerability
+Apache Log4j,tool
+Trojan.Maljava,malware
+Ransom.Khonsari,malware
+Ransom.Tellyouthepass,malware
+Ransom.Tellyouthepa!g1,malware
+Ransom.Tellyouthepa!g2,malware
+CVE-2021-44228,vulnerability
+CVE-2021-45046,vulnerability
+Malicious LDAP Response,attack
+Suspicious Java Class File Executing Arbitrary Commands,attack
+Yanluowang,malware
+BazarLoader,tool
+ConnectWise,tool
+ScreenConnect,tool
+Adfind,tool
+SoftPerfect Network Scanner,tool
+GrabFF,tool
+GrabChrome,tool
+BrowserPassView,tool
+Internet Explorer,tool
+KeeThief,tool
+PowerShell script,tool
+KeePass,tool
+secretsdump.exe,file
+registry,tool
+screen capture tool,tool
+file exfiltration tool,tool
+filegrab.exe,file
+Cobalt Strike Beacon,tool
+ProxifierPE,tool
+Cent web browser,tool
+Thieflock,malware
+Canthroid,attacker
+Fivehands,attacker
+Yanluowang,malware
+GrabFF,tool
+SoftPerfect Network Scanner,tool
+s3browser,tool
+Cent browser,tool
+BlackMatter,malware
+Data Exfiltration Tool,tool
+BlackMatter,attacker
+Exmatter,tool
+Ryuk Stealer,tool
+StealBit,tool
+Exmatter,malware
+SFTP server,tool
+165.22.84.147,IP
+Exmatter,malware
+10.26.16.181,IP
+powershell.exe,file
+Exmatter,malware
+C&C server,tool
+WebDav client,tool
+https://157.230.28.192/data/,URL
+BlackMatter,attacker
+Coreid,attacker
+Coreid,attacker
+Exmatter,malware
+ransomware attacks,threat type
+Banking Trojan,threat type
+banking Trojan,threat type
+Cloud Analytics,tool
+mpr.dll,file
+Msiexec.exe,file
+Latin American banking Trojan,threat type
+Latin American banking Trojan,threat type
+banking Trojans,threat type
+malicious actors,attacker
+banking Trojan gangs,threat type
+security software,tool
+banking Trojan attack groups,attacker
+ransomware,threat type
+Banking Trojans,threat type
+Unknown attacker,attacker
+toolset,tool
+loaders,tool
+modular backdoor,tool
+keylogger,tool
+exfiltration tool,tool
+Dropbox,tool
+loader,tool
+sdc-integrity.dat,file
+scs-integrity.dat,file
+Orchestrator module,tool
+CSIDL_COMMON_APPDATA\Microsoft\Crypto\RSA\Keys.dat,file
+keylogger,tool
+7zr,tool
+7-Zip archiver,tool
+data-exfiltration tool,tool
+Dropbox,tool
+espionage operation,threat type
+Leafhopper group,attacker
+APT30,attacker
+Harvester,attacker
+Harvester,attacker
+custom malware,malware
+toolset,tool
+Backdoor.Graphon,malware
+Harvester,attacker
+CloudFront,tool
+Microsoft infrastructure,tool
+Custom Downloader,tool
+Custom Screenshotter,tool
+Cobalt Strike Beacon,tool
+Metasploit,tool
+Costura Assembly Loader,tool
+[ARTEFACTS_FOLDER]\winser.dll,file
+hxxps://outportal[.]azurewebsites.net/api/Values_V2/Getting3210,URL
+Backdoor.Graphon,malware
+MicrosoftSystemServices,tool
+hxxps://usedust[.]com,URL
+hxxps://microsoftmsdn[.]azurewebsites.net/api/Values_V1/AuthAsyncComplete_V1?Identity=[INFECTION_ID],URL
+hxxps://microsoftsgraphapi[.]azurewebsites.net/api/Values_V1/AuthAsyncComplete_V1?Identity=[INFECTION_ID],URL
+hxxps://msdnmicrosoft.azurewebsites[.]net/api/Values_V1/AuthAsyncComplete_V1?Identity=[INFECTION_ID],URL
+Microsoft infrastructure,tool
+cmd.exe,file
+screenshot tool,tool
+Costura Assembly Loader,tool
+Harvester,attacker
+custom backdoors,malware
+C&C servers,tool
+New Yanluowang Ransomware,malware
+Yanluowang,malware
+(AdFind,tool
+ransomware,threat type
+ransomware,threat type
+processes.txt,file
+Yanluowang,malware
+processes.txt,file
+README.txt,file
+Yanluowang,malware
+ransomware,threat type
+ransomware,threat type
+ransomware,threat type
+ransomware-as-a-service,threat type
+ransomware authors,attacker
+breached data,tool
+ransom negotiations,tool
+ransomware developers,attacker
+affiliates,attacker
+ransomware,threat type
+affiliates,attacker
+botnets,threat type
+ransomware,threat type
+Trickbot,malware
+Miner group,attacker
+Wizard Spider,attacker
+Ryuk,malware
+Hispid,attacker
+Evil Corp,attacker
+Dridex botnet,malware
+IcedID,malware
+Conti ransomware,threat type
+botnet operators,attacker
+Pegasus Spyware,malware
+zero-day,threat type
+CVE-2021-30860,vulnerability
+NSO Group’s Pegasus,malware
+Pegasus,malware
+NSO Group,attacker
+Pegasus,malware
+Pegasus,malware
+Grayfly,attacker
+Sidewalk,malware
+Chinese Threat Actor,attacker
+Sidewalk backdoor,malware
+Grayfly espionage group,attacker
+Crosswalk backdoor,malware
+Backdoor.Motnug,malware
+Sidewalk,malware
+SparklingGoblin,attacker
+Winnti malware family,malware
+Grayfly,attacker
+Chinese espionage operation,threat type
+Grayfly,attacker
+GREF,attacker
+Wicked Panda,attacker
+Backdoor.Motnug,malware
+TOMMYGUN/CROSSWALK,malware
+Trojan.Chattak,malware
+Cobalt Strike,tool
+Trojan.Agentemis,malware
+Grayfly,attacker
+custom backdoors,tool
+APT41,attacker
+Blackfly,attacker
+web shell,tool
+backdoor,malware
+Mimikatz,tool
+Grayfly,attacker
+Mimikatz,tool
+Grayfly,tool
+Chengdu 404,attacker
+Grayfly,attacker
+LockFile,malware
+ransomware,threat type
+ProxyShell,tool
+209.14.0[.]234,IP
+LockFile ransomware,malware
+LockBit ransomware gang,attacker
+Conti gang,attacker
+[email protected] [.]com,Domain
+powershell,tool
+hxxp://209.14.0[.]234:46613/VcEtrKighyIFS5foGNXH,URL
+CVE-2021-36942,vulnerability
+https://github.com/zcgonvh/EfsPotato,URL
+(efspotato.exe,file
+active_desktop_render.dll,file
+active_desktop_launcher.exe,file
+active_desktop_launcher.exe,file
+KuGou Active Desktop,tool
+DLL search order loading attack,threat type
+active_desktop_render.dll,file
+desktop.ini,file
+efspotato.exe,file
+LockFile,malware
+ransomware,threat type
+Autologin.bat,file
+Autologin.exe,file
+Autologin.dll,file
+Autologin.dll,file
+Autoupdate.exe,file
+Autologin.exe,file
+Autlogin.dll,file
+Autologin.sys,file
+Kernel Driver Utility,tool
+KDU,tool
+https://github.com/hfiref0x/KDU,URL
+Tanikaze.dll,file
+LockFile ransomware,malware
+Sodinokibi,malware
+LockBit,malware
+Sodinokibi,malware
+LockBit,malware
+Syrphid,malware
+mimi.exe,file
+ransomware,threat type
+svhost.exe,file
+LockBit,malware
+DefenderControl.exe,file
+NetworkShare,tool
+Nsudo-dropper,tool
+Mimikatz,tool
+Defoff.bat,file
+DelSvc.bat,file
+Netscan,tool
+PasswordRevealer,tool
+ransomware attack,threat type
+Conti ransomware,malware
+Sodinokibi ransomware,malware
+Cobalt Strike,tool
+Conti,malware
+Sodinokibi,malware
+BitsAdmin,tool
+ransomware,threat type
+ransomware,threat type
+LockBit,malware
+ransomware,threat type
+Espionage Campaign,threat type
+downloader,tool
+keylogger,tool
+Windows Management Instrumentation,tool
+ProcDump,tool
+PsExec,tool
+PAExec,tool
+Mimikatz,tool
+PotPlayer Mini,tool
+potplayermini.exe,file
+ProcDump,tool
+PsExec,tool
+Mimikatz,tool
+tunneling tool,tool
+ProcDump,tool
+LSASS.exe,file
+Google Chrome Frame,tool
+chrome_frame_helper.exe,file
+PotPlayer Mini,tool
+PAExec,tool
+PsExec,tool
+at.exe,file
+chrome_frame_helper.exe,file
+WMIC,tool
+SharpHound,tool
+Mimikatz,tool
+WMI,tool
+chrome_frame_helper.exe,file
+net.exe,file
+chrome_proxy1.exe,file
+keylogger,tool
+espionage,threat type
+REvil,malware
+MSP software,tool
+Kaseya VSA software,tool
+Managed Service Providers,tool
+REvil,attacker
+agent.crt,file
+MsMpEng.exe,file
+mpsvc.dll,file
+REvil,attacker
+Sodinokibi,malware
+Tor payment site,tool
+REvil,malware
+Ransom.Sodinokibi,malware
+Leafroller,attacker
+Gandcrab,malware
+Ransomware-as-a-Service,tool
+Ransomware,threat type
+ransomware,threat type
+virtual machines,tool
+VMs,tool
+RagnarLocker,malware
+Oracle VirtualBox Windows XP VM,tool
+VirtualBox,tool
+ransomware,threat type
+RagnarLocker,malware
+fuckyou.msi,file
+fuck.msi,file
+aa51978f.msi,file
+s3c.msi,file
+runner.exe,file
+go-ps library,tool
+C:/builder/runner/main.go,file
+runner.exe,file
+VirtualBox VM,tool
+taskkill.exe,file
+sc.exe,file
+starter.bat,file
+ransomware,threat type
+runner.exe,file
+Conti,malware
+Mount Locker,malware
+Conti,malware
+Mount Locker,malware
+Ransomware,threat type
+dual-use tools,tool
+virtual machine,tool
+ransomware,threat type
+Conti,malware
+ransomware,threat type
+Conti,malware
+ransomware,threat type
+HSE attack,attacker
+ransomware threat,threat type
+ransomware,threat type
+SolarWinds,malware
+CVE-2021-22893,vulnerability
+UNC2630,attacker
+UNC2630,threat type
+SlowPulse,attack
+Hacktool.Webshell,tool
+Hacktool.Atrium,tool
+Hafnium,attacker
+Ant,attacker
+CVE-2021-26855,vulnerability
+CVE-2021-27065,vulnerability
+SolarWinds,malware
+SVR,attacker
+APT29,attacker
+Cozy Bear,attacker
+The Dukes,attacker
+Backdoor.Sunburst,malware
+SolarWinds attackers,attacker
+Duo,tool
+Outlook Web App,tool
+Microsoft 365,tool
+Azure AD,tool
+federated identity provider,tool
+Microsoft 365,tool
+SolarWinds,attacker
+Rampant Kitten,attacker
+Android malware,malware
+Rampant Kitten,malware
+app,tool
+APT20,attacker
+advanced persistent threat (APT) groups,attacker
+Sunburst,malware
+Supply Chain Attack,threat type
+SolarWinds,tool
+CVE-2020-27170,vulnerability
+CVE-2020-27171,vulnerability
+CVE-2020-27170,vulnerability
+CVE-2020-1472,vulnerability
+CVE-2021-26855,vulnerability
+CVE-2021-27065,vulnerability
+CVE-2021-26858,vulnerability
+CVE-2021-27857,vulnerability
+Unified Messaging service,tool
+CVE-2021-26855,vulnerability
+Exchange Server,tool
+Hafnium/Ant,attacker
+Ant,attacker
+debug.bat,file
+vdir,tool
+sok.wia,file
+94.177.123.16,IP
+Mimikatz,tool
+server.bat,file
+Mimikatz,tool
+ProcDump,tool
+he.dmp,file
+%Temp%\in.exe,file
+"{71736495-d485-477d-b836-17f0085e0780},.exe",file
+WinRAR,tool
+%system%\inetsrv\XmlLite.dll,file
+w3wp.exe,file
+ProcDump,tool
+uawmiver.exe,file
+set.bat,file
+set1.bat,file
+bitsadmin.exe,file
+http://89.34.111.11/3,URL
+3.avi,file
+CSIDL_PROFILE\public\2.bat,file
+System.Net.WebClient,tool
+hxxp://86.105.18.116/news/code,URL
+layout.aspx,file
+iistart.aspx,file
+powershell.exe,file
+layout.aspx,file
+iistart.aspx,file
+7-Zip,tool
+current.zip,file
+Exchange server,tool
+current.exe,file
+CobaltStrike beacon,malware
+svchost.exe,file
+ntdsutil,tool
+mv.exe,file
+Mimikatz,malware
+ProcDump,tool
+ccsvchst.exe,file
+secretsdump,tool
+Mimikatz,tool
+PowerShell,tool
+BITSAadmin,tool
+Certutil,tool
+Cobalt Strike,tool
+EarthWorm,tool
+tunnel tool,tool
+Stowaway,tool
+multi-hop proxy tool,tool
+China Chopper,tool
+ReGeorg web shells,tool
+Chisel,tool
+Adfind,tool
+PsExec,tool
+ProcDump,tool
+Lazarus,attacker
+Lazarus,attacker
+Appleworm,attacker
+Lazarus,attacker
+Trojan.Banswift,malware
+Backdoor.Contopee,malware
+Backdoor.Fimlis,malware
+Backdoor.Fimlis.B,malware
+watering-hole attacks,threat type
+Downloader.Ratankba,malware
+Lazarus tools,tool
+Lazarus,attacker
+WannaCry,malware
+EternalBlue,tool
+CVE-2017-0144,vulnerability
+CVE-2017-0145,vulnerability
+WannaCry,malware
+Trojan.Fastcash,malware
+Cryptocurrency attacks,threat type
+AppleJeus,"malware),"
+state-sponsored espionage actors,attacker
+SolarWinds,malware
+Sunburst,malware
+Sunburst,malware
+Orion,tool
+Sunburst,malware
+Sunburst,malware
+Raindrop,malware
+SolarWinds,tool
+Raindrop,malware
+Backdoor.Raindrop,malware
+Cobalt Strike,tool
+Teardrop,tool
+Backdoor.Sunburst,malware
+Sunburst,attacker
+Sunburst,malware
+SolarWinds Orion,tool
+Teardrop,malware
+SolarWinds Orion,tool
+Solarflare,tool
+Raindrop,malware
+bproxy.dll,file
+Raindrop,malware
+7z.dll,file
+7zip,tool
+mc_store.exe,file
+Raindrop loader,malware
+astdrvx64.dll,file
+Raindrop,malware
+Cobalt Strike,tool
+HTTP-based command and control server,tool
+Raindrop,malware
+Teardrop,malware
+Cobalt Strike Beacon,tool
+7-Zip,tool
+Tcl/Tk projects,tool
+Custom packer,tool
+7-Zip,tool
+Raindrop,malware
+Teardrop,malware
+packer,tool
+Tcl/Tk projects,tool
+Raindrop,malware
+Teardrop,malware
+Cobalt Strike Beacon,tool
+b820e8a2057112d0ed73bd7995201dbed79a79e13c79d4bdad81a22f12387e07,SHA256
+https(://)infinitysoftwares(.)com/files/information_055.pdf,URL
+https(://)infinitysoftwares(.)com/wp-admin/new_file.php,URL
+be9dbbec6937dfe0a652c0603d4972ba354e83c06b8397d6555fd1847da36725,SHA256
+https(://)bigtopweb(.)com/files/page_306.pdf,URL
+https(://)bigtopweb(.)com/wp-admin/admin-ajax.php,URL
+f2d38a29f6727f4ade62d88d8a68de0d52a0695930b8c92437a2f9e4de92e418,SHA256
+https(://)panhardware(.)com/files/documentation_076.pdf,URL
+https(://)panhardware(.)com/wp-admin/new_file.php,URL
+panhardware[.]com,Domain
+ns1.dnsowl.com,Domain
+ns2.dnsowl.com,Domain
+ns3.dnsowl.com,Domain
+https://www.reddit.com/r/msp/comments/13xjs1y/tracking_emerging_moveit_transfer_critical/,URL
+https://www.bleepingcomputer.com/news/security/new-moveit-transfer-zero-day-mass-exploited-in-data-theft-attacks/,URL
+https://gist.github.com/JohnHammond/44ce8556f798b7f6a7574148b679c643,URL
+T1505.003,technique
+Raindrop,malware
+Teardrop,malware
+Sunburst Trojan,malware
+RaindropPacker,malware
+SolarWinds,malware
+SolarWinds,malware
+Sunburst,malware
+C&C servers,tool
+Sunburst,malware
+google.com,Domain
+142.250.72.238,IP
+Sunburst,malware
+C&C server,tool
+HTTP-based C&C,tool
+Sunburst,malware
+10.0.0.0/8,IP
+172.16.0.0/12,IP
+192.168.0.0/16,IP
+224.0.0.0/4,IP
+Sunburst,malware
+https[:]//infinitysoftwares.com/swip/upd/SolarWinds.CortexPlugin.Nodes-5.2.1.xml,URL
+https[:]//infinitysoftwares.com/swip/upd/Orion.Wireless.UI-3.1.0.xml,URL
+https[:]//infinitysoftwares.com/swip/upd/Nodes-1.2.0.xml,URL
+Sunburst,malware
+Sunburst,malware
+SolarWinds,malware
+Sunburst,malware
+Backdoor.Sunburst,malware
+SolarWinds Orion software,tool
+C&C,tool
+Sunburst,malware
+C&C server,tool
+appsync-api.eu-west-1.avsvmcloud.com,Domain
+appsync-api.us-west-2.avsvmcloud.com,Domain
+appsync-api.us-east-1.avsvmcloud.com,Domain
+appsync-api.us-east-2.avsvmcloud.com,Domain
+Sunburst,malware
+SolarWinds,attacker
+SolarWinds Orion,tool
+Sunburst backdoor,malware
+Backdoor.Sunburst,malware
+Sunburst,malware
+SolarWinds' Orion software,tool
+Sunburst,malware
+Sunburst,malware
+CrowdStrike processes,tool
+csfalconservice,tool
+csfalconcontainer,tool
+csagent,tool
+csdevicecontrol,tool
+Sunburst,malware
+C&C server,tool
+Sunburst,malware
+api.solarwinds.com,Domain
+ybkerneltracker.sys,file
+atrsdfw.sys,file
+eaw.sys,file
+rvsavd.sys,file
+dgdmk.sys,file
+hexisfsmonitor.sys,file
+groundling32.sys,file
+groundling64.sys,file
+safe-agent.sys,file
+crexecprev.sys,file
+psepfilter.sys,file
+cve.sys,file
+brfilter.sys,file
+brcow_x_x_x_x.sys,file
+lragentmf.sys,file
+libwamf.sys,file
+apimonitor-x64,tool
+apimonitor-x86,tool
+autopsy64,tool
+autopsy,tool
+autoruns64,tool
+autoruns,tool
+autorunsc64,tool
+autorunsc,tool
+binaryninja,tool
+blacklight,tool
+cff explorer,tool
+cutter,tool
+de4dot,tool
+debugview,tool
+diskmon,tool
+dnsd,tool
+dnspy,tool
+dotpeek32,tool
+dotpeek64,tool
+dumpcap,tool
+evidence center,tool
+exeinfope,tool
+fakedns,tool
+fakenet,tool
+ffdec,tool
+fiddler,tool
+fileinsight,tool
+floss,tool
+gdb,tool
+hiew32,tool
+hiew32demo,tool
+idaq64,tool
+idaq,tool
+Sunburst,malware
+SolarWinds.Orion.Core.BusinessLayer.dll,file
+avsvmcloud[.]com,Domain
+Teardrop,malware
+Cobalt Strike,malware
+b820e8a2057112d0ed73bd7995201dbed79a79e13c79d4bdad81a22f12387e07,SHA256
+upbeat_anxiety.jpg,file
+infinitysoftwares[.]com,Domain
+1817a5bf9c01035bcf8a975c9f1d94b0ce7f6a200339485d8f93859f8f6d730c,SHA256
+festive_computer.jpg,file
+ervsystem[.]com,Domain
+Backdoor.Teardrop,malware
+upbeat_anxiety.jpg,file
+Cobalt Strike,tool
+infinitysoftwares[.]com,Domain
+rundll32.exe,file
+resources.dll,file
+lsass.exe,file
+Mimikatz,tool
+Spammers,attacker
+scammers,attacker
+threat actors,attacker
+malicious email campaigns,threat type
+email templates,tool
+subject lines,tool
+“From” addresses,tool
+IP addresses,tool
+URL domains,tool
+CDC phishing emails,threat type
+cdcinfo.gov,Domain
+Tortoiseshell,attacker
+information gathering tools,tool
+domain controller,tool
+client computer,tool
+symantec.com,Domain
+gmail.com,Domain
+yahoo.com,Domain
+aol.com,Domain
+inbox.lv,Domain
+creative.strpjmp.com,Domain
+JavaScript codes,tool
+Mp3 Songs Download,tool
+coin-mining script,tool
+2048 extension,tool
+http://www.madafak[DOT]in/landing,URL
+www.madafak[DOT]in,Domain
+DoublePulsar,malware
+Beapy,tool
+v.beahh.com,Domain
+https://booking.the-hotel.tld/retrieve.php?prn=1234567&,URL
+chfeeds.vbe,file
+downloader,tool
+PowerShell script,tool
+registry.ps1,file
+POSHC2,malware
+C&C server,tool
+host-manager.hopto.org,Domain
+WinRAR,tool
+89.34.237.118,IP
+Rar32.exe,file
+POSHC2 stager,tool
+192.119.15.35,IP
+mynetwork.ddns.net,Domain
+Quasar RAT,malware
+217.147.168.123,IP
+smss.exe,file
+Trojanized updates,malware
+asushotfix[.]com,Domain
+CVE-2018-8626,vulnerability
+Windows Domain Name System,tool
+CVE-2018-8634,vulnerability
+Microsoft text-to-speech,tool
+Remote Procedure Call runtime,tool
+Windows GDI,tool
+formjacking script,malware
+google-analyitics.org,Domain
+google-analytics.com,Domain
+formjacking,threat type
+https://apitstatus.com/api.js?v=3.0.8,URL
+apitstatus.com,Domain
+Leafminer,attacker
+malware payload,malware
+e-qht.az,Domain
+web server,tool
+Leafminer,attacker
+e-qht.az,Domain
+THC Hydra,tool
+CVE-2018-8222,vulnerability
+Device Guard,tool
+Windows PowerShell,tool
+CVE-2018-8232,vulnerability
+Microsoft Macro Assembler,tool
+Windows DNSAPI,tool
+CVE-2018-8304,vulnerability
+Windows Domain Name System,tool
+Windows Mail Client,tool
+Inception,attacker
+CVE-2014-1761,vulnerability
+CVE-2012-0158,vulnerability
+malware,malware
+CloudMe.com,Domain
+CloudMe.com,Domain
+Tick,attacker
+compromised web servers,tool
+C&C servers,tool
+www[.]dreamsig[.]com,Domain
+Daserf,malware
+ycghw.asp,file
+Tick,attacker
+charlie-harada[.]com,Domain
+isozaki.sakura.ne[.]jp,Domain
+www.aucsellers[.]com,Domain
+www.lunwe[.]com,Domain
+c-saika[.]jp,Domain
+b33f4b8e776b94dc48c234ce9897cf74,MD5
+kcm-store[.]com,Domain
+htpc[.]jp,Domain
+a629926313ee12163e1bdd2bb633e0e2,MD5
+d3031438d80913f21ec6d3078dc77068,MD5
+rlsolar[.]jp,Domain
+d3031438d80913f21ec6d3078dc77068,MD5
+Dripion,malware
+7ad3b2b6eee18af6816b6f4f7f7f71a6,SHA1
+hyydn.nortonsoft[.]com,Domain
+mhysix.mcfeesoft[.]com,Domain
+Condi,malware
+cdn2[.]duc3k[.]com,Domain
+admin[.]duc3k[.]com,Domain
+CVE-2023-1389,vulnerability
+Laplas Clipper C2 panel,tool
+laplas[.]app,Domain
+85[.]192[.]40[.]252,IP
+AndoryuBot,malware
+api.ipify.org,Domain
+45[.]153[.]243[.]39,IP
+evilextractor[.]com,Domain
+malware,malware
+FTP server,tool
+mgeeky.tech,Domain
+website author,attacker
+PoC,tool
+C:\Users\user\AppData\Local\Microsoft\Office\OfficeTelemetry.dll,file
+C:\Windows\System32\conhost.exe,file
+Havoc Demon agent,malware
+Microsoft Office,tool
+portal.office.com,Domain
+Havoc,malware
+Demon,malware
+ukrtatnafta[.]org,Domain
+ukrtatnafta[.]com,Domain
+Teamserver,tool
+C2 domain,tool
+troon[.]dns[.]army,Domain
+LiGhT's Modded perlbot v2,malware
+85[.]239[.]33[.]32,IP
+juice[.]baselinux[.]net,Domain
+document.zip,file
+transcript.zip,file
+letter.zip,file
+attachment.zip,file
+message.zip,file
+message.scr,file
+golfasian.com,Domain
+readme.scr,file
+mail.zip,file
+text.cmd,file
+<random number>@7686f6a96.com,file
+file.zip,file
+attachment.scr,file
+UPX,tool
+https://en.wikipedia.org/wiki/UPX,URL
+MyDoom,malware
+file-sharing utilities,tool
+Emotet,malware
+Geodo,malware
+Heodo,malware
+IRS.gov,Domain
+scams,threat type
+Amazon pallet scam,threat type
+fundelivereddss[.]com,Domain
+fundelivereddss[.]com,Domain
+electrical contractor,attacker
+herbertm[.]shop,Domain
+https://www.herbertm[.]shop/products/products-amazon-and-ebay-backlog-picking-liquidation-temporary-sale?sales_pop=true&spm=..index.0.1,URL
+herbertm[.]shop,Domain
+Fundelivereddss[.]com,Domain
+scamadviser.com,Domain
+threat actor,attacker
+CMS GoTrim,tool
+wordpress.com,Domain
+Zerobot,malware
+0day.today,Domain
+exeGen script,tool
+ngrok.com,Domain
+Cryptonite,malware
+ipinfo.io,Domain
+ngrok.io,Domain
+leonvi[.]ru,Domain
+malware,malware
+blackfriday[.]com,Domain
+blackftiday[.]com,Domain
+blackfriday[.]com,Domain
+nlackfriday[.]com,Domain
+totalav[.]com,Domain
+slickdeals[.]net,Domain
+blackfriday[.]slickdeals[.]net,Domain
+slickdeals[.]com,Domain
+blackfriday[.]slickdeals[.]com,Domain
+blackfriday.slickdelas[.]net,Domain
+Chromnius,tool
+Warzone RAT,malware
+phishing email,threat type
+idp.gov.hu,Domain
+Mirai Variant,malware
+http[:]//107[.]189[.]8[.]21/pedalcheta/cutie[.]x86_64,URL
+cnc[.]goodpackets[.]cc,Domain
+CVE-2017-11882,vulnerability
+malicious code,malware
+lutanedukasi[.]co[.]id,Domain
+Formbook,malware
+Redline,malware
+Redline Stealer,malware
+Redline,malware
+Redline payload,tool
+lutanedukasi[.]co[.]id,Domain
+almac.exe,file
+SmartAssembly 6.9.0.114,tool
+C2 server,tool
+Redline,attacker
+http://tempuri.org/Endpoint/CheckConnect,URL
+sinmac[.]duckdns[.]org:2667,Domain
+mobnew6565[.]duckdns[.]org,Domain
+njRat version,tool
+PowerShell command,tool
+gg1593[.]c1[.]biz,Domain
+185[.]176[.]43[.]106,IP
+Cannondriver.exe,file
+LBTServ.dll,file
+Microsoft.BT,file
+Chinoxy backdoor,malware
+svchost.exe,file
+instructor[.]giize[.]com,Domain
+PoisonIvy malware,malware
+dropper malware,malware
+goog1eupdate[.]com,Domain
+frontbeauty[.]dynamic-dns[.]net,Domain
+beautygirl[.]dynamic-dns[.]net,Domain
+784kjsuj[.]dynamic-dns[.]net,Domain
+Metasploit,tool
+microsofto.duckdns[.]org,Domain
+CVE-2022-30190,vulnerability
+Rozena,malware
+Discord CDN,tool
+MSDriverMonitor.exe,file
+DllHelper.exe,file
+127.0.0.1,IP
+DCRat,malware
+InstallUtil.exe,file
+star-cz[.]ddns[.]net,Domain
+103[.]27[.]202[.]127,IP
+malicious actors,attacker
+AsyncRAT,malware
+itinerary.zip,file
+dc5b-163-123-142-137[.]ngrok[.]io,Domain
+AsyncRAT,malware
+C&C servers,tool
+znets[.]ddns[.]net,Domain
+dnets[.]ddns[.]net,Domain
+itinerary.zip,file
+dc5b-163-123-142-137[.]ngrok[.]io,Domain
+travel_details.iso,file
+activities_and_dates.iso,file
+Itinerary.exe,file
+Quasar RAT,malware
+opensea-user-reward[.]serveusers[.]com,Domain
+Calc,tool
+TA413 APT group,attacker
+Chinese state interests,attacker
+CVE-2022-30190,vulnerability
+tibet-gov.web[.]app,Domain
+coolrat[.]xyz,Domain
+Ave Maria,malware
+mubbibun.duckdns.org,Domain
+PandorahVNC RAT,malware
+RegAsm.exe,file
+Chrome,application
+Microsoft Edge,application
+Firefox,application
+Outlook,application
+Foxmail,application
+C2 server,tool
+vncgoga.duckdns.org,Domain
+TCP port,tool
+Group id,tool
+Fileless Malware 3,malware
+BitRAT,malware
+aspnet_compiler.exe,file
+C2 server,tool
+maraipasoo[.]duckdns[.]org,Domain
+zoneofzenith[.]com,Domain
+Task Scheduler,tool
+C:\ProgramData\ddond.com,file
+hxxps[:]//www[.]mediafire.com/file/c3zcoq7ay6nql9i/back.htm/file,URL
+APRL27.html,file
+WinWord.exe,file
+Excel.exe,file
+POWERPNT.exe,file
+HTTP proxy program,tool
+APRL27.htm,file
+mainpw.dll,file
+ddond.com,Domain
+C2 server,tool
+Excel macro,tool
+joexpediagroup[.]com,Domain
+asiaworldremit[.]com,Domain
+uber-asia[.]com,Domain
+malware,malware
+C2 Servers,tool
+joexpediagroup[.]com,Domain
+asiaworldremit[.]com,Domain
+uber-asia[.]com,Domain
+Excel macro,tool
+127[.]0[.]0[.]1,IP
+VirusTotal,tool
+Joexpediagroup[.]com,Domain
+127[.]0[.]0[.]1,IP
+45[.]11[.]19[.]47,IP
+Asiaworldremit[.]com,Domain
+Winnti,attacker
+rootkits,malware
+certificates,tool
+winmm.dll,file
+gnisoft[.]com,Domain
+scammer,attacker
+gmail.com,Domain
+third-party payment processors,threat type
+Venmo,tool
+Zelle,tool
+cryptocurrency,threat type
+Bitcoin Variation,malware
+The United Nations,attacker
+seca[.]cam,Domain
+XML/Dloader.802!tr,malware
+W32/Emotet.C!tr,malware
+W32/Emotet.CV!tr,malware
+W32/Emotet.1150!tr,malware
+IRS PDF/Fraud.10F1!phish,threat type
+ecres231[.]servconfig[.]com,Domain
+seca[.]cam,Domain
+Fortinet,tool
+FortiPhish Phishing Simulation Service,tool
+Blaster,malware
+MSBlast,malware
+lovesan,malware
+windowsupdate.com,Domain
+windowsupdate.microsoft.com,Domain
+threat actor,attacker
+Mirai,malware
+IoT botnet,threat type
+DDoS botnet,threat type
+krebsonsecurity.com,Domain
+194[.]99[.]46[.]38,IP
+slot0.warongsoto.com,Domain
+VESTA,tool
+CVE-2020-10786,vulnerability
+CVE-2020-10787,vulnerability
+warongsoto.com,Domain
+C2 server,tool
+taboola[.]com,Domain
+s-microsoft[.]com,Domain
+sinitude[.]com,Domain
+JARM,tool
+Salesforce,tool
+sinitude[.]com,Domain
+Cobalt Strike,tool
+BazarLoader,malware
+techzenspace[.]com,Domain
+iispool.aspx,file
+Moses Staff group,attacker
+STRRAT,malware
+198[.]27.77.242,IP
+jbfrost[.]live,Domain
+CVE-2021-44228,vulnerability
+Log4j,tool
+malicious-server.host,Domain
+CVE-2021-45046,vulnerability
+CVE-2021-44228,vulnerability
+malicious-server.host,Domain
+C&C server,tool
+life.zerobytes[.]cc,Domain
+DDoS attack,threat type
+Milwauketools.shop,Domain
+milwaukeetool.com,Domain
+Milwauketools.shop,Domain
+FortiEDR,tool
+vbc.exe,file
+w3wp.exe,file
+Microsoft Exchange's Outlook Web Application,tool
+web shells,tool
+domain controllers,tool
+Thor.dll,file
+domain,tool
+security permissions,tool
+domain accounts,tool
+Exchange roles,tool
+loader DLLs,tool
+web shell HTTP session,tool
+GetEcpWebConfigModule.dll,file
+Exchange server,tool
+DomainGroups.dll,file
+affiliates,attacker
+organization,attacker
+malware,tool
+ransomware authors,attacker
+developers,attacker
+Group-IB,tool
+https://www.group-ib.com/media/ransomware-empire-2021/,URL
+blog.chainalysis.com,Domain
+Conti ransomware group,attacker
+CobaltStrike,tool
+XYZ.com,Domain
+gang,attacker
+domain controller,tool
+admins.txt,file
+protection against brute force,threat type
+beacon,tool
+redacted]construction.com,Domain
+Bing search engine,tool
+WinSCP application,tool
+winsccp[.]com,Domain
+hxxps://events.drdivyaclinic[.]com,URL
+4shared,tool
+infected WordPress webpage,tool
+bot core,malware
+payload,malware
+backdoor,malware
+aeey7hxzgl6zowiwhteo5xjbf6sb36tkbn5hptykgmbsjrbiygv4c4id[.]onion,Domain
+Google Drive,tool
+80[.]85[.]156[.]232,IP
+80[.]85[.]156[.]240,IP
+80[.]85[.]156[.]151,IP
+103[.]159[.]132[.]91,IP
+sa2il[.]johnsimde[.]xyz,Domain
+iot[.]johnsimde[.]xyz,Domain
+em2in[.]johnsimde[.]xyz,Domain
+rewards[.]roshan[.]af,Domain
+RomCom,malware
+Void Rabisu,attacker
+Google Ads,tool
+IcedID botnet,malware
+dirwinstat.com,Domain
+devolrdm.com,Domain
+vectordmanagesoft.com,Domain
+cozy-sofware.com,Domain
+devolutionrdp.com,Domain
+astrachats.com,Domain
+chatgpt4beta.com,Domain
+singularlabs.org,Domain
+gotomeet.us,Domain
+gllmp.com,Domain
+lnfo-messengers.com,Domain
+pass-shield.com,Domain
+pdffreader.com,Domain
+veeame.com,Domain
+npm-solar.com,Domain
+advanced-ip-scanners.com,Domain
+RomCom,attacker
+kagomadb[.]com,Domain
+Qakbot,malware
+Gozi,malware
+RomCom 3.0,malware
+Noray Consulting Ltd.,attacker
+noray[.]ca,Domain
+firstbyteconsulting[.]com,Domain
+diagnostics.zip,file
+gofile.io,file
+api.gofile.io,Domain
+storeX.gofile.io,Domain
+C&C server,tool
+179[.]43[.]155[.]202,IP
+work[.]letmaker[.]top,Domain
+su-94[.]letmaker[.]top,Domain
+Midjourney-x64.msix,file
+malicious PowerShell,tool
+Trend Vision One™,tool
+Trend Micro,tool
+Redline stealer,malware
+frank_obfus.ps1,file
+openaijobs[.]ru,Domain
+multimedia editors,tool
+video format converters,tool
+cryptocurrency coinminer apps,tool
+phone-related desktop apps,tool
+system cleaner apps,tool
+gup.exe,file
+Notepad++,tool
+firefox.exe,file
+Tor,tool
+ErrorReportClient.exe,file
+Magix,tool
+ViperSoftX,attacker
+chatgigi2[.]com,Domain
+arrowlchat[.]com,Domain
+static-cdn-349[.]net,Domain
+chainbreaker,tool
+osascript,tool
+mac[.]cracked23[.]site,Domain
+MacStealer,malware
+cryptocurrency wallets,threat type
+https[://]twitter.com/naerycrypto/status/1637226997817692161,URL
+https[://]twitter.com/CiervoKing/status/1637220583736762370,URL
+https[://]twitter.com/witty_taeil/status/1631654308218298368,URL
+ryzex[.]io/,Domain
+https[://]twitter.com/RyzeX_web3,URL
+pearlmetaverse[.]io/,Domain
+https[://]twitter.com/MetaversePearl,URL
+mysteriangame[.]com,Domain
+https[://]twitter.com/MysterianGame,URL
+worldofcreatures[.]io,Domain
+https[://]twitter.com/WOC_io/,URL
+8ea33c34647578b79dd8bb7dcf01a8ad1c79e7ada3fd61aca397ed0a2ac57276,SHA256
+https[://]cryptureworld.com/,URL
+toncap[.]io,Domain
+https[://]twitter.com/neuromaster9/status/1614074785289437184?s=61,URL
+https[://]twitter.com/yoshisakatahi/status/1615686095307522049?s=61,URL
+7bb7b51494c60401c8535baaa30cddb1c41c436e778092f30db5260c42cc70f6,SHA256
+play-impulseflow[.]com,Domain
+https[://]twitter.com/lmpulse_Flow,URL
+02e1d9ea3a0c16106d173b0e6349a18a9aeafacc38650e359cfe1ee2298aaa45,SHA256
+(https[://]embersword.com,URL
+https[://]twitter.com/PureMetaverse,URL
+https[://]twitter.com/MetaPureLand,URL
+USB Driver.exe,file
+autorun.inf,file
+ACNSHELL malware,malware
+rzlog4cpp.dll,file
+ncat.exe,file
+closed[.]theworkpc[.]com,Domain
+Earth Kitsune,attacker
+WhiskerSpy,malware
+Londoncity[.]hopto[.]org,Domain
+rs[.]myftp[.]biz,Domain
+45[.]76[.]62[.]198,IP
+updategoogle[.]servehttp[.]com,Domain
+microsoftwindow[.]sytes[.]net,Domain
+172[.]93[.]201[.]172,IP
+selectorioi[.]ddns[.]net,Domain
+agfSpy,malware
+Facebook accounts,attacker
+download.tw1988[.]link,Domain
+TgToxic,attacker
+TgToxic,malware
+down[.]tw1988[.]link,Domain
+api[.]tw1988[.]link,Domain
+test[.]ja7[.]site,Domain
+us[.]ja7[.]site,Domain
+gpla[.]gov[.]ly,Domain
+obfuscated PowerShell script,tool
+NjRAT,malware
+gJhkEJvwBCHe.vbs,file
+rYFFCeKHlIT.bat,file
+KxFXQGVBtb.ps1,file
+aspnet_compiler.exe,file
+Batloader,malware
+logmeinofferblackfriday[.]com,Domain
+anydeskofferblackfriday[.]com,Domain
+zoomofferblackfriday[.]com,Domain
+slackcloudservices[.]com,Domain
+PyArmor,tool
+Water Minyades,attacker
+Batloader,malware
+Royal ransomware,threat type
+installationupgrade6[.]com,Domain
+second stage,malware
+C&C server,tool
+log.bsh,file
+static-files[.]livelyhellp[.]chat:888,Domain
+trojanized LiveHelp100 application,malware
+s[.]livelyhellp[.]chat,Domain
+rcmdhelper.exe,file
+kdump64.dll,file
+html.xml,file
+executable backdoor,malware
+C&C server,tool
+files[.]amazonawsgarages[.]com,Domain
+7.zip,file
+C:\Users\Public\Folder.zip,file
+C:\Users\Public\Folder\RcmdHelper.exe,file
+Weave Scope,tool
+Amazon Web Services,tool
+EC2 instances,tool
+amazonaws.com,Domain
+masscan,tool
+zgrab,tool
+amazon2aws.com,Domain
+curl,tool
+zgrab,tool
+ipranges.txt,file
+Weave Scope UI,tool
+masscan,tool
+zgrab,tool
+amazon2aws.com,Domain
+VirusTotal,tool
+amazon2aws[.]com,Domain
+teamtnt[.]red,Domain
+attacker,attacker
+domain controller,tool
+ransomware,threat type
+kiss.a-dog.top,Domain
+b2f628/b.sh,file
+masscan,tool
+pnscan,tool
+Redis server,tool
+TeamTNT,attacker
+oracle[.]zzhreceive[.]top,Domain
+WatchDog,attacker
+1.0.4.tar.gz,file
+QAKBOT,malware
+Brute Ratel,malware
+wermgr.exe,file
+rundll32.exe,file
+symantecuptimehost[.]com,Domain
+net.exe,file
+nltest.exe,file
+T1547.001,technique
+QAKBOT,malware
+TA0004,technique
+T1055,technique
+TA0006,technique
+T1027.006,technique
+T1218.010,technique
+Cobalt Strike,tool
+rundll32.exe,file
+T1140,technique
+T1562.009,technique
+Black Basta,malware
+TA0007,technique
+T1010,technique
+T1482,technique
+cryptocurrency scammers,threat type
+Cobalt Strike loader,tool
+b81edcbf1a0b56d0f401dcfe4a6ae4d293663b42f120e60579353b6aa86bb105,SHA256
+linkstometa[.]com,Domain
+apo.js,file
+app[.]meiqiacontents[.]com,Domain
+mmmm[.]whg7[.]cc,Domain
+CVE-2021-21220,vulnerability
+Cobalt Strike stager,tool
+Water Labbu,attacker
+meiqla.com,Domain
+meiqia.com,Domain
+Water Labbu,malware
+tmpmeta[.]com,Domain
+web3.js library,tool
+Water Labbu,malware
+Tether USD smart contract,tool
+linkstometa[.]com,Domain
+fake Flash infection chain,threat type
+tmpmeta[.]com,Domain
+whg7[.]cc,Domain
+r8s[.]cc,Domain
+ransomware,threat type
+CL0P ransomware,malware
+stopransomware.gov,Domain
+BianLian,attacker
+Impacket tool,tool
+secretsdump.py,file
+domain controller,tool
+BianLian group actors,attacker
+Windows PowerShell,tool
+Command Shell,tool
+exp.exe,file
+CVE-2020-1472,vulnerability
+domain controller,tool
+system.exe,file
+windowcsupdates.com,Domain
+anydeskupdate.com,Domain
+anydeskupdates.com,Domain
+updateservicecenter.com,Domain
+windowservicecenter.com,Domain
+windowservicecentar.com,Domain
+TA2,attacker
+CVE-2019-18935,vulnerability
+reverse shell utilities,tool
+xework[.]com,Domain
+xegroups[.]com,Domain
+hivnd[.]com,Domain
+certutil[.]exe,tool
+xesvrs[.]exe,file
+XEReverseShell.exe,file
+sortcombat.exe,file
+xework[.]com,Domain
+xegroups[.]com,Domain
+Multi-OS_ReverseShell.exe,file
+xesmartshell.tmp,file
+xegroups[.]com,Domain
+xework[.]com,Domain
+Multi-OS_ReverseShell.exe,file
+XEReverseShell.exe,file
+TA2 malware,malware
+C2 server,tool
+nytimes.com,Domain
+Red Team,attacker
+Workstation Admin,attacker
+Domain Admin,attacker
+EINSTEIN,tool
+IDS,tool
+phishing email,threat type
+myhelpcare[.]online,Domain
+myhelpcare[.]cc,Domain
+hservice[.]live,Domain
+gscare[.]live,Domain
+nhelpcare[.]info,Domain
+deskcareme[.]live,Domain
+nhelpcare[.]cc,Domain
+RMM software,tool
+ransomware,threat type
+Cybersecurity Advisory,tool
+stopransomware.gov,Domain
+XMRig,tool
+transfer[.]sh,Domain
+144.76.136[.]153,IP
+PsExec,tool
+Mimikatz,tool
+Ngrok,tool
+Mimikatz,tool
+VDI-KMS,tool
+Windows Defender,tool
+Ngrok,tool
+tunnel.us.ngrok[.]com,Domain
+korgn.su.lennut[.]com,Domain
+ransomware,threat type
+stopransomware.gov,Domain
+Protective Controls and Architecture,tool
+ransomware,threat type
+network monitoring tools,tool
+host-based logs and monitoring tools,tool
+endpoint detection and response (EDR) tool,tool
+firewall,tool
+NSA Cybersecurity Collaboration Center’s Protective Domain Name System (PDNS) services,tool
+web application firewalls,tool
+application-level DDoS attacks,threat type
+state-sponsored Russian cyber operations,attacker
+Department of State’s (DOS) Rewards for Justice program,tool
+rewardsforjustice.net,Domain
+VPN server,tool
+domain controllers,tool
+AD database ntds.dit,file
+administrative portal,tool
+enterprise application,tool
+SharePoint pages,tool
+tenant user profiles,tool
+email inboxes,tool
+enterprise email system,tool
+WhatsApp,tool
+Signal,tool
+Telegram,tool
+Tor-based tips line,tool
+Dark Web,tool
+rewardsforjustice.net,Domain
+cyber.gov.au,Domain
+cyber.gov.au,Domain
+NCSC.govt.nz,Domain
+cyber.gov.au,Domain
+NCSC.govt.nz,Domain
+ransomware,threat type
+StopRansomware.gov,Domain
+Ransomware Readiness Assessment,tool
+cyber hygiene services,tool
+Ransomware,threat type
+IC3.gov,Domain
+spearphishing and intrusion campaign,threat type
+ntshrui.dll,file
+fpso.bigish[.]net,Domain
+spoolsvd.exe,file
+5e6a033fa01739d9b517a468bd812162,MD5
+AdobeUpdater.exe,file
+e62afe2273986240746203f9d55496db,MD5
+ins.exe,file
+ed92d1242c0017668b93a72865b0876b,MD5
+px.exe,file
+6818a9aef22c0c2084293c82935e84fe,MD5
+gh.exe,file
+fcbbfadc992e265c351e54598a6f6dfb,MD5
+fslist.exe,file
+05476307f4beb3c0d9099270c504f055,MD5
+u.exe,file
+54db65a27472c9f3126df5bf91a773ea,MD5
+slm.exe,file
+a46a7045c0a3350c5a4c919fff2831a0,MD5
+niu.exe,file
+60456fe206a87f5422b214369af4260e,MD5
+ccApp1.exe,file
+d6eaadcbcf9ea9192db1bd5bb7462bf8,MD5
+52294de74a80beb1e579e5bca7c7248a,MD5
+moonclient2.exe,file
+fni.itgamezone[.]net,Domain
+VPN server keys and certificates,tool
+T1078,technique
+T1078.001,technique
+T1078.002,technique
+Chinese state-sponsored cyber actors,attacker
+Chinese state-sponsored cyber actors,attacker
+spearphishing campaigns,threat type
+antivirus program,tool
+Office Viewer software,tool
+domain reputation service,tool
+T1556,technique
+T1556.001,technique
+Chinese state-sponsored cyber actors,attacker
+TA0005,technique
+TA0006,technique
+cryptdll.dll,file
+samsrv.dll,file
+NDST.DIT,file
+domain controllers,tool
+Credential Guard,tool
+Protected Process Light,tool
+Windows 8.1,tool
+Windows Server 2012 R2,tool
+Chinese state-sponsored cyber actors,attacker
+GitHub,tool
+infected domains,tool
+VPS infrastructure,tool
+C2,tool
+firewalls,tool
+Cobalt Strike,tool
+Cobalt Strike Beacon,malware
+TA0011,technique
+dataplane.theyardservice[.]com,Domain
+cdn.theyardservice[.]com,Domain
+static.theyardservice[.]com,Domain
+worldhomeoutlet[.]com,Domain
+SVR cyber operators,attacker
+cock[.]li,Domain
+Mimikatz,tool
+Cobalt Strike,tool
+TrickBot,malware
+example.com,Domain
+e9600404ecc42cf86d38deedef94068db39b7a0fd06b3b8fb2d8a3c7002b650e,SHA256
+Celas LLC,attacker
+Phishing: Spearphishing Link,threat type
+celasllc[.]com,Domain
+45.199.63[.]220,IP
+107.187.66[.]103,IP
+145.249.106[.]19,IP
+175.29.32[.]160,IP
+185.142.236[.]213,IP
+185.181.104[.]82,IP
+198.251.83[.]27,IP
+208.91.197[.]46,IP
+209.99.64[.]18,IP
+Sectigo,tool
+SSL certificate,tool
+Comodo,tool
+Secure Sockets Layer,tool
+Celas Trade Pro Application,tool
+Windows Program,tool
+Celas Trade Pro,malware
+MSI Installer,tool
+celasllc[.]com,Domain
+Sectigo certificate,tool
+C:\Program Files (x86)\CelasTradePro\Updater.exe,file
+AppleJeus Version 2,malware
+JMT Trading,malware
+jmttrading[.]org,Domain
+45.33.2[.]79,IP
+45.33.23[.]183,IP
+45.56.79[.]23,IP
+45.79.19[.]196,IP
+96.126.123[.]244,IP
+146.112.61[.]107,IP
+184.168.221[.]40,IP
+184.168.221[.]57,IP
+198.187.29[.]20,IP
+198.54.117[.]197,IP
+198.54.117[.]198,IP
+198.54.117[.]199,IP
+198.54.117[.]200,IP
+198.58.118[.]167,IP
+jmttrading[.]org,Domain
+Sectigo SSL certificate,tool
+Let's Encrypt,tool
+MSI Installer,tool
+Sectigo,tool
+JMTTrader.exe,file
+CrashReporter.exe,file
+AppleJeus,malware
+Union Crypto,attacker
+unioncrypto[.]vip,Domain
+https://www.unioncrypto[.]vip/download/W6c2dq8By7luMhCmya2v97YeN,URL
+104.168.167[.]16,IP
+198.54.117[.]197,IP
+198.54.117[.]198,IP
+198.54.117[.]199,IP
+198.54.117[.]200,IP
+unioncrypto[.]vip,Domain
+Sectigo SSL certificate,tool
+T1588.004,technique
+Union Crypto Trader Application,tool
+Windows Program,tool
+T1204.002,technique
+UnionCryptoTrader.msi,file
+UnionCryptoUpdater.msi,file
+UnionCryptoUpdater.exe,file
+AppleJeus,malware
+Kupay Wallet,tool
+kupaywallet[.]com,Domain
+104.200.67[.]96,IP
+Sectigo SSL certificate,tool
+AppleJeus Version 5,malware
+CoinGoTrade,attacker
+coingotrade[.]com,Domain
+198.54.114[.]175,IP
+NameCheap Inc.,attacker
+Dorusio[.]com,Domain
+Ants2Whale[.]com,Domain
+Sectigo,tool
+SSL certificate,tool
+AppleJeus,malware
+Dorusio,attacker
+dorusio[.]com,Domain
+T1583.001,technique
+T1587.001,technique
+198.54.115[.]51,IP
+NameCheap Inc.,attacker
+CoinGoTrade[.]com,Domain
+Ants2Whale[.]com,Domain
+dorusio[.]com,Domain
+Sectigo,tool
+Dorusio Application Analysis Windows Program,tool
+MSI Installer,tool
+Dorusio.exe,file
+DorusioUpgrade.exe,file
+AppleJeus,malware
+Ants2Whale,malware
+ants2whale[.]com,Domain
+CoinGoTrade[.]com,Domain
+Dorusio[.]com,Domain
+198.54.114[.]237,IP
+ants2whale[.]com,Domain
+Sectigo SSL certificate,tool
+T1588.004,technique
+Ants2Whale Application Analysis Windows Program,tool
+VirusTotal,tool
+macOS X Program,tool
+DMG Installer,tool
+Ants2Whale,tool
+Ants2WhaleHelper,tool
+com.Ants2whale.pkg.wallet.plist,file
+Aviary,tool
+Sparrow,tool
+Splunk,tool
+AppUpdate_Operations_Export.csv,file
+AppRoleAssignment_Operations_Export.csv,file
+Consent_Operations_Export.csv,file
+Domain_List.csv,file
+Domain_Operations_Export.csv,file
+FileItems_Operations_Export.csv,file
+MailItems_Operations_Export.csv,file
+PSLogin_Operations_Export.csv,file
+PSMailbox_Operations_Export.csv,file
+SAMLToken_Operations_Export.csv,file
+ServicePrincipal_Operations_Export.csv,file
+aviary.xml,file
+Hawk,tool
+portal.azure.com,Domain
+Sentinel,tool
+Microsoft Cloud Services,tool
+M365 applications,tool
+Splunk,tool
+Sparrow PowerShell script,tool
+AppUpdate_Operations_Export.csv,file
+AppRoleAssignment_Operations_Export.csv,file
+Consent_Operations_Export.csv,file
+Domain_List.csv,file
+Domain_Operations_Export.csv,file
+FileItems_Operations_Export.csv,file
+MailItems_Operations_Export.csv,file
+PSLogin_Operations_Export.csv,file
+PSMailbox_Operations_Export.csv,file
+SAMLToken_Operations_Export.csv,file
+ServicePrincipal_Operations_Export.csv,file
+aviary.xml,file
+dashboard,tool
+SolarWinds Orion,tool
+avsvmcloud[.]com,Domain
+avsvmcloud[.]com,Domain
+20.140.0[.]1,IP
+SolarWinds Orion,tool
+SolarWinds Orion,tool
+malicious binary code,malware
+avsvmcloud[.]com,Domain
+avsvmcloud[.]com,Domain
+avsvmcloud[.]com,Domain
+polkiuj.top,Domain
+CnC Server,tool
+C2 infrastructure,tool
+TA0024,technique
+Chinese MSS-affiliated actors,attacker
+T1352,technique
+T1328,technique
+T1329,technique
+T1346,technique
+T1349,technique
+Domain Controller,tool
+torproject.org,Domain
+rogue Android apps,malware
+Ankarex,tool
+ankarex[.]net,Domain
+Anatsa,malware
+TeaBot,malware
+Meduza Stealer,malware
+Exploit.in,Domain
+PDF reader,tool
+phishing emails,threat type
+bogus personas,attacker
+docsend.linkpc[.]net,Domain
+CVE-2023-28424,vulnerability
+packages.gentoo.org,Domain
+Berkeley Internet Name Domain (BIND) 9 Domain Name System (DNS) software suite,tool
+CVE-2023-2828,vulnerability
+CVE-2023-2829,vulnerability
+CVE-2023-2911,vulnerability
+dell-a[.]ntp-update[.]com,Domain
+Vidar,malware
+my-odin[.]com,Domain
+186.2.166[.]15,IP
+5.252.179[.]201,IP
+5.252.176[.]49,IP
+VPN servers,tool
+VPN infrastructure,tool
+Vidar,malware
+5.252.176[.]49,IP
+blonk[.]co,Domain
+185.173.93[.]98:443,IP
+185.229.64[.]137,IP
+my-odin[.]com,Domain
+TOR relays,tool
+SoSafe Chat,malware
+bingechat[.]net,Domain
+chatico[.]co[.]uk,Domain
+threat actor,attacker
+portal.azure[.]com,Domain
+ngrok,tool
+malicious actor,attacker
+admin.pedealer.honda[.]com,Domain
+Kimsuky,attacker
+reconnaissance malware,malware
+nknews[.]pro,Domain
+Dark Pink,attacker
+Telegram,tool
+webhook[.]site,Domain
+Microsoft Excel add-in,tool
+TelePowerBot,malware
+Expo's James Ide,attacker
+auth.expo.io,Domain
+Booking.com,Domain
+Kayak.com,Domain
+Sonar,attacker
+CVE-2023-28438,vulnerability
+ClearSky,attacker
+jquery-stack[.]online,Domain
+Iranian state-sponsored crews,attacker
+cryptocurrency miner,tool
+179.43.155[.]202,IP
+work.letmaker[.]top,Domain
+su-94.letmaker[.]top,Domain
+lwp-download,tool
+Linux utility,tool
+VirusTotal,tool
+remote server,tool
+mailtsinghua.sinacn[.]co,Domain
+mailv.mofs-gov[.]org,Domain
+SideWinder's infrastructure,tool
+spyware,threat type
+329 alleged suspects,attacker
+U.S. Federal Bureau of Investigation,attacker
+National Police of Ukraine,attacker
+nine virtual currency exchanges,tool
+cryptocurrency conversion services,tool
+ransomware,threat type
+scams,threat type
+24xbtc.com,Domain
+100btc.pro,Domain
+pridechange.com,Domain
+101crypta.com,Domain
+uxbtc.com,Domain
+trust-exchange.org,Domain
+bitcoin24.exchange,Domain
+paybtc.pro,Domain
+owl.gold,Domain
+anonymous cryptocurrency exchange services,tool
+infrastructure,tool
+PingPull,malware
+VirusTotal,tool
+yrhsywu2009.zapto[.]org,Domain
+OpenSSL 0.9.8e,tool
+China Chopper,tool
+C++-based malware,malware
+ESET,attacker
+MgBot backdoor,malware
+update.browser.qq[.]com,Domain
+LuoYu,attacker
+PaperCut software,tool
+windowservicecemter[.]com,Domain
+TrueBot,malware
+Silence,attacker
+Evil Corp,attacker
+TA505,attacker
+Cl0p ransomware,threat type
+TAXHAUL launcher,tool
+COLDCAT downloader,tool
+POOLRAT backdoor,malware
+UNC4736,attacker
+journalide[.]org,Domain
+Lazarus Group,attacker
+CVE-2022-0609,vulnerability
+www.tradingtechnologies[.]com,Domain
+X_TRADER software,tool
+CoinGoTrade,tool
+AppleJeus,attacker
+POOLRAT,malware
+Russia's military intelligence service,attacker
+FROZENLAKE,attacker
+APT28,attacker
+Fancy Bear,attacker
+Forest Blizzard,attacker
+Iron Twilight,attacker
+Sednit,attacker
+Sofacy,attacker
+phishing domains,threat type
+PUSHCHA,attacker
+Ghostwriter,attacker
+UNC1151,attacker
+Cuba ransomware,threat type
+RomCom RAT,malware
+i.ua,Domain
+meta.ua,Domain
+Russia,attacker
+ELF malware sample,malware
+Poseidon payload,malware
+Kavach apps,malware
+www.ksboard[.]in,Domain
+www.rodra[.]in,Domain
+Transparent Tribe,attacker
+APT36,threat type
+Legion,malware
+YouTube channel,tool
+www.randomphonenumbers.com,Domain
+web shell,tool
+Lazarus Group,attacker
+wirexpro[.]com,Domain
+AppleJeus,malware
+Gopuram,malware
+ICONIC Stealer,malware
+Bing Trivia app,tool
+Bing.com,Domain
+March 2023 Patch Tuesday update,tool
+NetSPI,attacker
+Bing.com,Domain
+AlienFoxV4,malware
+Amazon.com,Domain
+libffmpeg.dylib,file
+pbxsources[.]com,Domain
+Purse.io,Domain
+Bitcoin address,tool
+pompompurin,attacker
+Verizon,tool
+VPN service,tool
+TOR browser,tool
+Gal Nagli,attacker
+chat.openai[.]com,Domain
+Cloudflare's CDN,tool
+ScarCruft,attacker
+GitHub repository,tool
+credential phishing webpages,threat type
+Mail.ru,Domain
+163.com,Domain
+AblyGo,malware
+Go,tool
+Ably real-time messaging framework,tool
+MacStealer,malware
+worldofcreatures[.]io,Domain
+agent,tool
+second stage payload,malware
+malicious PowerShell script,tool
+gpla[.]gov[.]ly,Domain
+Libyan Army,attacker
+windowservicecemter.com,Domain
+winserverupdates.com,Domain
+netviewremote.com,Domain
+e62afe2273986240746203f9d55496db,malware
+inn.exe,file
+5e6a033fa01739d9b517a468bd812162,malware
+kkk.exe,file
+4a8854363044e4d66bf34a0cd331d93d,malware
+124ad1778c65a83208dbefcec7706dc6,malware
+AcroRD32.exe,file
+17199ddac616938f383a0339f416c890,malware
+iass.dll,file
+Project-seems-clear-for-takeoff.zip,file
+energyreview.strangled[.]net,Domain
+blackcake[.]net,Domain
+infosupports[.]com,Domain
+7caf4dbf53ff1dcd5bd5be92462b2995,malware
+iTunesHelper.exe,file
+SolarWinds Orion,tool
+SolarWinds Orion products,tool
+solarwinds.orion.core.businesslayer.dll,file
+SolarWinds code signing certificate,tool
+avsvmcloud[.]com,Domain
+herbertm[.]shop,Domain
+zipsearch[.]xyz,Domain
+search[.]onlinegamezone[.]club,Domain
+Chromnius,malware
+init.ps1,file
+cloudflare-ipfs[.]com,Domain
+crustwebsites[.]net,Domain
+phpupdate.exe,file
+config.json,file
+networkmanager.exe,file
+phpguard.exe,file
+init.ps1,file
+clean.bat,file
+encrypt.exe,file
+RAR1 ransomware,threat type
+acalpulps[.]com,Domain
+ftqplc[.]in,Domain
+v[.]al,Domain
+maersk.png,file
+SHIPMENT_DOCUMENTS_INV-PLIST01256_BL PDF[.]zip,file
+STRRAT,malware
+malware,malware
+freelancer.com,Domain
+207[.]32.217.89,IP
+Command and Control server,tool
+www.madafak[DOT]in,Domain
+Google Analytics,tool
+ga.js,file
+5bdd3443937ebe08d3e3c99e9524afc13702eba28340,SHA256
+Mp3 Songs Download,tool
+http://mp3song-s[DOT]com,URL
+Mining script,malware
+Fast-search.tk,Domain
+GTM-PRFLJPX,tool
+http://statdynamic.com/lib/crypta.js,URL
+Windows Task Manager,tool
+coinhive.com,Domain
+mining script,tool
+mining pool server,tool
+openssl.exe,file
+ssleay32.dll,file
+"CSIDL_SYSTEMundll32.exe",file
+CSIDL_COMMON_APPDATA\georgettaemilee\ssleay32.dll,file
+CSIDL_COMMON_APPDATA\samariaantonina\ssleay32.dll,file
+http://107.173.141.103:443/downloadc.php?key=[REDACTED],URL
+http://107.173.141.114:443/downloadc.php?key=[REDACTED],URL
+PowerShell,tool
+http://23.95.220.166:80/download.php?k=564,URL
+http://104.168.44.16:443/H6qy8yvXhV69mF8CgpmWwKb1oV19xMqaI,URL
+PowGoop,malware
+Secure Sockets Funneling,tool
+Chisel,tool
+CSIDL_PROFILE\[REDACTED]\documents\ussf.exe,file
+CSIDL_PROFILE\[REDACTED]\documents\config.txt,file
+107.172.97.172,IP
+107.175.0.140:443,IP
+CSIDL_COMMON_APPDATA\sharp.cmd,file
+proposal_pakistan110.chm:error.html,file
+archiver tool,tool
+Microsoft Edge browser,tool
+backdoor,malware
+450ebd66ba67bb46bf18d122823ff07ef4a7b11afe63b6f269aec9236a1790cd,SHA256
+ee32bde60d1175709fde6869daf9c63cd3227155e37f06d45a27a2f45818a3dc,SHA256
+071e20a982ea6b8f9d482685010be7aaf036401ea45e2977aca867cedcdb0217,SHA256
+custom .NET FTP tool,tool
+192.119.15.36,IP
+hxxp://192.119.15[DOT]36:880/ftp.exe,URL
+JsuObf.exe,file
+89.34.237.118:2020,IP
+Quasar RAT,tool
+AutoIt FTP exfiltration tool,tool
+FastUploader,tool
+hxxp://192.119.15[DOT]36:880/ftp.exe,URL
+"csidl_profile\appdataoaming\adobetp.exe",file
+svchost.exe,file
+command and control (C&C) server,tool
+Adwind,malware
+174[.]127[.]99[.]211,IP
+Command and Control (C2) server,tool
+79.137.206[.]228,IP
+cryptocurrency wallet collection,threat type
+watchdog dllhost.exe,file
+Monero cryptominer,tool
+0.0.0.0,IP
+%ProgramData%\dllhost.exe,file
+Moobot,malware
+ShellBot,malware
+PowerBots (C) GohacK,tool
+http[:]//80[.]68[.]196[.]6/ff,URL
+49[.]212[.]234[.]206:3303,IP
+perlbot,malware
+B0tchZ 0.2a,malware
+46[.]101[.]183[.]162,IP
+198[.]98[.]61[.]106:8080,IP
+AsyncRAT,malware
+notepad.exe,file
+95.216.102.32:6606,IP
+95.216.102.32:7707,IP
+95.216.102.32:8808,IP
+163[.]123[.]142[.]210,IP
+185[.]17[.]0[.]19,IP
+ScrubCrypt,malware
+miner,tool
+explorer.exe,file
+45[.]142[.]122[.]11:8080,IP
+ScrubCrypt,malware
+C2 server,tool
+163[.]123[.]142[.]210,IP
+plugin_3.dll,file
+plugin_4.dll,file
+C2 servers,tool
+176[.]65[.]137[.]5,IP
+Mirai-based SORA variant,malware
+Zerobot,malware
+hxxp://176[.]65[.]137[.]5/bins/zero[.]x86,URL
+Golang botnets,malware
+security plugins,tool
+C2 server,tool
+PHP script,tool
+binary,tool
+89[.]208[.]107[.]12,IP
+PHP/GoTrim!tr.dldr,malware
+Zerobot,malware
+1.1.1.1,IP
+Warzone,malware
+C2 server,tool
+C:\Users\Admin\Documents\Adobe5151.exe,file
+171.22.30.72:5151,IP
+remote attacker,attacker
+CVE-2022-42944,vulnerability
+CVE-2022-33890,vulnerability
+CVE-2022-27526,vulnerability
+Fortinet,tool
+IPS signature Adobe.InDesign.CVE-2022-28853.Arbitrary.Code.Execution,vulnerability
+Adobe InDesign,tool
+CVE-2022-28854,vulnerability
+IPS signature Adobe.InDesign.CVE-2022-28854.Memory.Leak,vulnerability
+CVE-2022-28855,vulnerability
+Excel,tool
+CVE-2017-0199,vulnerability
+receipt.doc,file
+192[.]227[.]129[.]26,IP
+Exiftool,tool
+CVE-2017-11882,vulnerability
+Microsoft Equation Editor,tool
+192[.]227[.]129[.]26,IP
+vbc.exe,file
+SmokeLoader,malware
+IMAP server,tool
+192.168.0.2:993,IP
+CVE-2022-34275,vulnerability
+CVE-2022-34276,vulnerability
+CVE-2022-34277,vulnerability
+CVE-2022-34278,vulnerability
+Siemens.PADS.Layout.Viewer.CVE-2022-34275.Memory.Corruption,tool
+Siemens.PADS.Layout.Viewer.CVE-2022-34276.Memory.Corruption,tool
+Siemens.PADS.Layout.Viewer.CVE-2022-34277.Memory.Corruption,tool
+Siemens.PADS.Layout.Viewer.CVE-2022-34278.Memory.Corruption,tool
+DNS server,tool
+192[.]5[.]4[.]3,IP
+C2 server,tool
+127[.]0[.]0[.]1,IP
+193[.]239[.]84[.]207,IP
+NSO group,attacker
+Pegasus spyware,malware
+APT34/OilRig/Helix Kitten,attacker
+GoziIFSB,attacker
+CVE-2022-27523,vulnerability
+CVE-2022-27524,vulnerability
+Autodesk DWG TrueView,tool
+IcedID,malware
+179[.]60[.]150[.]96,IP
+Mytob,malware
+anti-virus software,tool
+127.0.0.1,IP
+Soul module,malware
+original backdoor,malware
+SoulSearcher,tool
+193.0.14.129,IP
+8.8.8.8,IP
+205[.]185[.]118[.]52,IP
+FranTech Solutions,attacker
+bulletproof hosting service provider,tool
+C2,threat type
+fake shopping sites,threat type
+BitRAT,malware
+Adobe Illustrator,tool
+Fortinet,tool
+CVE-2022-23199,vulnerability
+Adobe Photoshop,tool
+U3D plugin,tool
+remote attacker,attacker
+NordVPN,tool
+OpenVPN,tool
+ProtonVPN,tool
+C2 server,tool
+207[.]32.217.89,IP
+149.154.167.91,IP
+149.56.200.165,IP
+hxxp[:]//149.56.200.165/rump/1.txt,URL
+PowerShell,tool
+Agent Tesla,malware
+RegAsm.exe,file
+Microsoft .Net Framework,tool
+Moobot,malware
+1DCE6F3BA4A8D355DF21A17584C514697EE0C37B51AB5657BC5B3A297B65955F,SHA256
+199.195.250[.]233:80,IP
+Adobe Illustrator,tool
+CVE-2021-40718,vulnerability
+CVE-2021-40746,vulnerability
+Fortinet,tool
+IPS signature Adobe.Illustrator.CVE-2021-40718.Memory.Leak,tool
+CVE-2021-26084,vulnerability
+86.105.195[.]120,IP
+init.sh,file
+crypto miner,malware
+newinit.sh,file
+is.sh,file
+scanning shell,tool
+Masscan,tool
+Pnscan,tool
+hxx,tool
+f0551696774f66ad3485445d9e3f7214,MD5
+ps,tool
+a43ad8a740081f0b5a89e219fe8475a3,MD5
+172.16.0.0/12,IP
+192.168.0.0/16,IP
+10.0.0.0/8,IP
+init.sh,file
+141.98.83.139,IP
+PowerShell,tool
+IDA,tool
+ws2_32,tool
+141.98.83[.]139,IP
+PowerShell,tool
+Muhstik,malware
+CVE-2021-26084,vulnerability
+149.28.85[.]17,IP
+188.166.137[.]241,IP
+Corel.Presentations.CVE-2021-38106.Memory.Corruption,vulnerability
+Corel Presentations 2020,tool
+IPPP82.FLT,file
+Corel.Presentations.CVE-2021-38102.Memory.Corruption,vulnerability
+CVE-2021-38102,vulnerability
+Fortinet,tool
+IPS signature,tool
+Corel.Presentations.CVE-2021-38110,vulnerability
+Detailed Invoice.xll,file
+hxxp://dmequest[.]com/dme/images/portfolio/products/1/csrsc.exe,URL
+68[.]67.75.66,IP
+Buer Loader,malware
+whoami,tool
+whoami-1.1.1,tool
+ureq 2.0.2,tool
+minreq,tool
+Ring,tool
+hxxps://shipmentofficedepot[.]com,URL
+195[.]123.234.11,IP
+80[.]85[.]157[.]3,IP
+freeSSHd,tool
+plink,tool
+51.195.49.215,IP
+AnyDesk,tool
+C&C server,tool
+%PUBLIC%\Libraries\dsk.exe,file
+%PUBLIC%\Libraries\wallet.exe,file
+%PUBLIC%\Libraries\7z.dll,file
+%PUBLIC%\Libraries\7z.exe,file
+%PUBLIC%\Libraries\7za.exe,file
+http[:]//79[.]137[.]203[.]156/Ebvjmba.dat,URL
+79[.]137[.]203[.]156,IP
+C&C server,tool
+.NET framework's “HttpClient” class,tool
+explorer.exe,file
+svchost.exe,file
+Cobalt Strike beacon,tool
+195.123.234[.]101/DoFor/review/Mcirosoft,IP
+Earth Preta,attacker
+certutil.exe,file
+WinRAR binary,tool
+rar1.exe,file
+103[.]159[.]132[.]91,IP
+PowerShell,tool
+103[.]159[.]132[.]181,IP
+Backdoor.Win32.CLEXEC,malware
+SensorAware.dll,file
+Backdoor.Win32.COOLCLIENT,malware
+TaoZongjie,attacker
+TONESHELL,malware
+Cobalt Strike,malware
+38.54.33.228,IP
+Trend Micro solutions,tool
+Trend Micro Malware Detection Patterns,tool
+Apex One,tool
+Worry-Free Business Security Services,tool
+Worry-Free Business Security Standard/Advanced,tool
+Deep Security with anti-malware,tool
+Trend Micro Vision One,tool
+Cloud One Workload Security,tool
+Deep Security,tool
+IPS Rule 1009058,tool
+TippingPoint Filters,tool
+Trojan.Win32.CVE202323397,threat type
+RedLine Stealer,malware
+Trend Micro Vision One,tool
+C&C server,tool
+77.73.134[.]13:12785,IP
+Security Scorecard,tool
+8.8.8.8,IP
+rshell malware family,malware
+SysUpdate,malware
+160[.]20[.]147[.]254,IP
+C:\Users\guss\Desktop\Recent Work\UDP SHELL\0.7 DLL\UDPDLL\Release\UDPDLL.pdb,file
+Enigma,malware
+Telegram,tool
+193[.]56[.]146[.]29,IP
+Amadey,malware
+95b4de74daadf79f0e0eef7735ce80bc,SHA256
+Interview conditions.word.exe,file
+malware,malware
+C&C server,tool
+C&C server,tool
+193[.]56[.]146[.]29,IP
+Telegram,tool
+Cobalt Strike,malware
+msdtc.exe,file
+libvlc.dll,file
+1768.py,file
+Didier Stevens,attacker
+193.106.191.187,IP
+dllhost.exe,file
+wabmig.exe,file
+VLC Media Player,tool
+C&C server,tool
+98[.]142[.]251[.]29,IP
+EU 31st session of the Commission on Crime Prevention and Criminal Justice United Nations on Drugs and Crime.rar,file
+LECmd,tool
+CVE-2021-34473,vulnerability
+CVE-2021-34523,vulnerability
+CVE-2021-31207,vulnerability
+CVE-2021-26855,vulnerability
+CVE-2021-27065,vulnerability
+185[.]82[.]219[.]201,IP
+malicious PowerShell code,tool
+tunneling tool,tool
+data exfiltration,threat type
+138[.]199[.]47[.]184,IP
+195[.]242[.]213[.]155,IP
+213[.]232[.]87[.]177,IP
+91[.]132[.]138[.]213,IP
+91[.]132[.]138[.]221,IP
+Mimikatz,tool
+NetScan,tool
+Advanced Port Scanner,tool
+ransomware infection,threat type
+Powershell backdoor,malware
+PowerShell script,tool
+185[.]82[.]219[.]201,IP
+SystemBC malware,malware
+115[.]238[.]146[.]136,IP
+150[.]158[.]33[.]66,IP
+101[.]42[.]100[.]251,IP
+113[.]57[.]111[.]119,IP
+139[.]59[.]132[.]89,IP
+120[.]48[.]86[.]143,IP
+58[.]192[.]31[.]232,IP
+121[.]36[.]16[.]103,IP
+1[.]116[.]151[.]108,IP
+27[.]128[.]160[.]170,IP
+124[.]222[.]213[.]175,IP
+China,attacker
+Germany,attacker
+TeamTNT,attacker
+ZGrab,tool
+ZGrab2,tool
+API server,tool
+alpine-based container,tool
+malicious shell script,tool
+205[.]185[.]118[.]246,IP
+threat actor,attacker
+TeamTNT,attacker
+gcc,tool
+make,tool
+kmod,tool
+8[.]8[.]8[.]8,IP
+8[.]8[.]4[.]4,IP
+/etc/resolv.conf,file
+ZGrab scanner,tool
+Docker API,tool
+cronb.sh,file
+205[.]185[.]118[.]246,IP
+http[:]//kiss[.]a-dog[.]top/t[.]sh,URL
+TeamTNT,attacker
+Trend Micro™ Cloud One Workload Security™,tool
+Trend Micro Vision One™,tool
+Brute Ratel,malware
+Cobalt Strike,tool
+C:\Users\Public\Name-123456.xls,file
+C:\Users\Public\abcabc.xls,file
+C:\Users\Public\abc-1234.xls,file
+C:\Users\Public\Orders_12_34_56.xls,file
+C:\Users\Public\MkDir.xls,file
+hxxps://fewifasoc[.]com,URL
+45.153.242[.]251,IP
+hxxps://hadujaza[.]com,URL
+45.153.241[.]88,IP
+hxxps://himiketiv[.]com,URL
+45.153.241[.]64,IP
+CVE-2022-3199,vulnerability
+Truebot,malware
+FlawedGrace,tool
+RAT,tool
+T1112,technique
+T1547.012,technique
+T1027.009,technique
+T1055.001,technique
+msiexec[.]exe,file
+svchost[.]exe,file
+92.118.36[.]199,IP
+APT actors,attacker
+VPS,tool
+dp_crypto.py,file
+20.121.51[.]51,IP
+Document Manager,tool
+APT actors,attacker
+Done.html,file
+CVE-2017-9248,vulnerability
+sd.php,file
+osker.aspx,file
+207.244.71[.]81,IP
+App_Web_jl37rjxu.dll,file
+APT actors,attacker
+App_Web_jl37rjxu.dll,file
+fassdfsdf.html,file
+osker.aspx,file
+162.210.194[.]10,IP
+C:\Windows\Temp\1665890187.8690152.dll,file
+45.77.212[.]12,IP
+vcruntime140.dll,file
+Windows C runtime library,tool
+IIS server,tool
+TA1,attacker
+51.89.181[.]64,IP
+Lightweight Directory Access Protocol (LDAP) server,tool
+Iranian government-sponsored APT actors,attacker
+XMRig crypto mining software,malware
+Ngrok reverse proxies,tool
+182.54.217[.]2,IP
+tools,tool
+C:\users\public\mde.ps1,file
+file.zip,file
+XMRig cryptocurrency mining software,tool
+WinRing0x64.sys,file
+wuacltservice.exe,file
+config.json,file
+RuntimeBroker.exe,file
+8.8.8.8,IP
+RuntimeBrokerService.exe,file
+MAR 10387061-1.v1,file
+ping.exe,file
+tracert.exe,file
+8.8.8.8,IP
+APT cyber actors,attacker
+M247,tool
+SurfShark,tool
+Microsoft Exchange server,tool
+EWS,tool
+CovalentStealer,malware
+Cyber Security Agency of Singapore,attacker
+194.88.104[.]24,IP
+45.135.229[.]179,IP
+China's PLA,attacker
+malicious cyber actor,attacker
+phishing email,threat type
+hxxps://leanproconsulting[.]com.br/gov/covid19relief/sba.gov,URL
+162.214.104[.]246,IP
+10.1.1.1,IP
+10.1.1.2,IP
+/var/log/httpaccess.log,file
+nobody,attacker
+10.1.1.2,IP
+backdoor,threat type
+FlawedGrace,malware
+RAT,tool
+msiexec[.]exe,file
+svchost[.]exe,file
+92.118.36[.]199,IP
+Cobalt Strike,tool
+TrueBot,malware
+CVE-2022-31199,vulnerability
+45.129.137[.]232,IP
+Cl0p actor,attacker
+Cl0p ransomware group,attacker
+13.51.44[.]246,IP
+Python script,tool
+command-and-control server,tool
+78.128.60[.]112,IP
+23.224.195[.]51,IP
+212.113.119[.]6,IP
+RAT,malware
+SideCopy,attacker
+Action RAT,malware
+C2 server,tool
+66.219.22[.]252,IP
+CVE-2023-26083,vulnerability
+spyware vendor,attacker
+CVE-2023-28205,vulnerability
+CVE-2023-28206,vulnerability
+Ai.type,malware
+data breach,threat type
+Fitzpatrick,attacker
+74.101.151.4,IP
+RAR1Ransom,malware
+GuardMiner,malware
+67[.]205[.]145[.]142,IP
+PowerShell,tool
+curl,tool
+wget,tool
+urlopen,tool
+new.bat,file
+MSDriverLoader.exe,file
+C:\Users\Public\MSLoader.exe,file
+MSDriverMonitor.exe,file
+Dark Crystal RAT,malware
+72[.]167[.]223[.]219,IP
+203[.]96[.]191[.]70,IP
+CVE-2022-27526,vulnerability
+CVE-2022-27527,vulnerability
+AutoDesk Navisworks,tool
+CVE-2022-23186,vulnerability
+Adobe Illustrator,tool
+Fortinet,tool
+Corel DrawStandard 2020,tool
+CdrCore.dll,file
+195[.]123.234.11,IP
+US-based victims,attacker
+Mozambique,attacker
+Singapore,attacker
+Msi.dll,file
+WinSCP installer,tool
+Python execution environment,tool
+Cobalt Strike beacons,tool
+setup.exe,file
+python310.dll,file
+%AppDataLocal%\Python-3.10.10,file
+C:\Users\Public\Music\python\pythonw.exe,file
+167[.]88[.]164[.]141,IP
+new.bat,file
+MSDriverLoader.exe,file
+72[.]167[.]223[.]219,IP
+C:\Users\Public\MSLoader.exe,file
+MSDriverMonitor.exe,file
+203[.]96[.]191[.]70,IP
+T1591,technique
+AD,tool
+MDM MySQL database,tool
+T1596.005,technique
+T1136.001,technique
+T1098,technique
+Intrusion Detection or Prevention Systems,tool
+Endpoint Protection Platform,tool
+Web Proxy Logs,tool
+Windows Event Logs,tool
+T1136.002,technique
+T1589.002,technique
+T1589.003,technique
+T1590.006,technique
+T1591,technique
+T1591.001,technique
+T1596.005,technique
+T1583,technique
+T1548,technique
+T1078.002,technique
+T1003.001,technique
+T1003.006,technique
+T1110.002,technique
+nanodump,tool
+Mimikatz,tool
+Hive actors,attacker
+T1133,technique
+CVE-2020-12812,vulnerability
+T1566.001,technique
+CVE-2021-31207,vulnerability
+CVE-2021-34473,vulnerability
+CVE-2021-34523,vulnerability
+Hive ransomware,malware
+T1562,technique
+T1059,technique
+T1490,technique
+T1070,technique
+T1112,technique
+T1537,technique
+Rclone,tool
+Mega.nz,tool
+vssadmin,tool
+PowerShell,tool
+HOW_TO_DECRYPT.txt,file
+T1486,technique
+TOR browser,tool
+Hive actors,attacker
+T1190,technique
+VMware Horizon server,tool
+Windows Defender,tool
+AD,tool
+T1070.004,technique
+mde.ps1,file
+T1003.001,technique
+Mimikatz,tool
+LSASS.exe,file
+T1555,technique
+T1078,technique
+T1047,technique
+Impacket tools,tool
+wmiexec.py,file
+smbexec.py,file
+T1059,technique
+T1059.001,technique
+T1059.003,technique
+Impacket tools,tool
+T1059.006,technique
+wmiexec.py,file
+smbexec.py,file
+T1129,technique
+T1569,technique
+T1078,technique
+T1543,technique
+T1078,technique
+T1036.005,technique
+T1070,technique
+T1070.004,technique
+del.exe,file
+T1016.001,technique
+T1033,technique
+T1049,technique
+T1057,technique
+VMware virtual machine,tool
+T1560.001,technique
+PowerShell,tool
+WinRAR,tool
+T1039,technique
+dir.exe,file
+T1074.002,technique
+Exchange server,tool
+T1095,technique
+T0831,technique
+T0804,technique
+T0815,technique
+T0813,technique
+TA0100,technique
+T0882,technique
+Maui,malware
+maui.log,file
+TA0010,technique
+T1486,technique
+svhost.exe,file
+svhostt.exe,file
+T1490,technique
+PRC state-sponsored cyber actors,attacker
+T1078,technique
+T1555,technique
+PRC state-sponsored cyber actors,attacker
+RADIUS server,tool
+T1119,technique
+TA0010,technique
+Karakurt,malware
+T1591.002,technique
+Karakurt,malware
+TA0043,technique
+T1589.001,technique
+T1589.002,technique
+T1589.001,technique
+intrusion broker networks,tool
+TA0001,technique
+T1190,technique
+T1133,technique
+T1566,technique
+T1199,technique
+T1078,technique
+Schneider Electric ICS,tool
+T0807,technique
+T0853,technique
+T0889,technique
+T0857,technique
+T0859,technique
+T0846,technique
+T0888,technique
+T0812,technique
+T0843,technique
+T0801,technique
+T0845,technique
+T0885,technique
+T0869,technique
+T0804,technique
+T0803,technique
+T0814,technique
+T0809,technique
+T0816,technique
+T0836,technique
+T1132.002,technique
+Sandworm,attacker
+Cyclops Blink,malware
+T1542.001,technique
+Cyclops Blink,malware
+T1008,technique
+T1071.001,technique
+Tor network,tool
+Russian state-sponsored cyber activity,attacker
+TA0043,technique
+TA0006,technique
+TA0001,technique
+T1589.001,technique
+T1110,technique
+T1133,technique
+T1078,technique
+T1078.002,technique
+T1078.004,technique
+T1133,technique
+T1190,technique
+T1566.002,technique
+T1078.004,technique
+T1133,technique
+T1190,technique
+T1566.002,technique
+TA0003,technique
+T1078,technique
+TA0004,technique
+T1078.004,technique
+T1078.004,technique
+TA0005,technique
+TA0006,technique
+T1027,technique
+T1003.003,technique
+T1110.003,technique
+TA0007,technique
+Russian state-sponsored APT actors,attacker
+cmd.exe,file
+PowerShell,tool
+TA0003,technique
+T1078,technique
+TA0006,technique
+T1110.001,technique
+T1110.003,technique
+T1003.003,technique
+T1558.003,technique
+T1555,technique
+CVE-2021-44077,vulnerability
+T1190,technique
+T1505.003,technique
+T1027,technique
+T1140,technique
+T1003,technique
+T1218,technique
+T1136,technique
+NTDS.dit,file
+T1003.003,technique
+T1047,technique
+T1070.004,technique
+T1087.002,technique
+T1560.001,technique
+T1573.001,technique
+BlackMatter,attacker
+TA0003,technique
+TA1133,technique
+TA0006,technique
+T1003.001,technique
+TA0007,technique
+T1018,technique
+T1057,technique
+T1007,technique
+TA0008,technique
+T1021.002,technique
+TA0010,technique
+T1567,technique
+TA0040,technique
+T1486,technique
+BlackMatter,malware
+ransomware,threat type
+T1561,technique
+ransomware,threat type
+T1566,technique
+T1210,technique
+CVE-2021-40539,vulnerability
+T1190,technique
+T1505.003,technique
+T1027,technique
+T1140,technique
+T1003,technique
+T1218,technique
+T1136,technique
+NTDS.dit,file
+Chinese actors,attacker
+T1120,technique
+APT40,attacker
+T1534,technique
+TA1505.003,technique
+TA0005,technique
+TA0011,technique
+TA0009,technique
+TA0010,technique
+T1027.003,technique
+T1001.003,technique
+T1572,technique
+T1090.003,technique
+S0183,tool
+T1583.001,technique
+TA0043,technique
+Chinese state-sponsored cyber actors,attacker
+Microsoft 365,tool
+Python scripts,tool
+Chinese state-sponsored cyber actors,attacker
+TA0001,technique
+T1190,technique
+Chinese state-sponsored cyber actors,attacker
+T1133,technique
+T1190,technique
+TA0003,technique
+Chinese state-sponsored cyber actors,attacker
+CVE-2019-11510,vulnerability
+CVE-2019-19781,vulnerability
+CVE-2020-5902,vulnerability
+TA0002,technique
+T1059,technique
+PowerShell,tool
+Chinese state-sponsored cyber actors,attacker
+cmd.exe,file
+UNIX shell,tool
+SIEM,tool
+T1053,technique
+T1053.003,technique
+T1053.005,technique
+Cobalt Strike,tool
+webshells,tool
+schtask,tool
+crontab,tool
+TA0003,technique
+TA0004,technique
+TA0003,technique
+T1574,technique
+T1574.001,technique
+TA0004,technique
+TA0005,technique
+Chinese state-sponsored cyber actors,attacker
+TA0004,technique
+Chinese state-sponsored cyber actors,attacker
+T1484,technique
+T1484.001,technique
+TA0005,technique
+GPO,tool
+Windows event logs,tool
+WMI,tool
+T1055,technique
+T1055.001,technique
+Chinese state-sponsored cyber actors,attacker
+rundll32.exe,file
+Mimikatz,tool
+explorer.exe,file
+TA0005,technique
+TA0005,technique
+Chinese state-sponsored cyber actors,attacker
+7-Zip utility,tool
+Zip and RAR archive tools,tool
+T1140,technique
+T1564,technique
+ConsoleHost_history.txt,file
+T1027,technique
+Chinese state-sponsored cyber actors,attacker
+Chinese state-sponsored cyber actors,attacker
+TA0006,technique
+T1212,technique
+T1003,technique
+T1003.001,technique
+T1003.003,technique
+TA0007,technique
+T1083,technique
+T1069,technique
+Chinese state-sponsored cyber actors,attacker
+WMI,tool
+PowerShell,tool
+net group,tool
+net localgroup,tool
+Remote access tools,tool
+Windows Management Instrumentation,tool
+PowerShell,tool
+T1057,technique
+Chinese state-sponsored cyber actors,attacker
+tasklist,tool
+jobs,tool
+ps,tool
+taskmgr,tool
+TA0008,technique
+T1210,technique
+Chinese state-sponsored cyber actors,attacker
+TA0009,technique
+Chinese state-sponsored cyber actors,attacker
+T1560,technique
+RAR archives,tool
+cloud storage services,tool
+T1115,technique
+rdpclip.exe,file
+clipboard,tool
+TA0011,technique
+Chinese state-sponsored cyber actors,attacker
+T1071,technique
+commercial cloud storage services,tool
+Dropbox API,tool
+Microsoft OneDrive API,tool
+T1105,technique
+spearphishing campaign,threat type
+Constant Contact,tool
+T1566.002,technique
+T1204.001,technique
+Ryuk,malware
+Conti ransomware,threat type
+Emotet,malware
+T1105,technique
+TrickBot,malware
+T1185,technique
+TA0043,technique
+TA0040,technique
+TrickBot,malware
+T1204.001,technique
+T1204.002,technique
+T1053.005,technique
+T1543.003,technique
+T1055.012,technique
+TrickBot,malware
+T1056.004,technique
+T1552.001,technique
+T1552.002,technique
+T1555,technique
+T1555.003,technique
+TA0007,technique
+T1007,technique
+T1016,technique
+esentutl,tool
+TrickBot,malware
+T1482,technique
+Outlook,tool
+Nltest,tool
+TA0008,technique
+TA0009,technique
+T1570,technique
+T1005,technique
+T1056.004,technique
+T1185,technique
+TA0011,technique
+T1008,technique
+TrickBot,malware
+T1071.001,technique
+T1105,technique
+T1132.001,technique
+T1571,technique
+T1573.001,technique
+T1041,technique
+T1496,technique
+T1059.004,technique
+T1053.004,technique
+T1564.001,technique
+T1543.004,technique
+CrashReporter program,tool
+T1033,technique
+T1041,technique
+CelasTradePro,tool
+T1059.004,technique
+T1053.004,technique
+LaunchDaemon,tool
+T1543.004,technique
+MSI Installer,tool
+CoinGoTrade.exe,file
+CoinGoTradeUpdate.exe,file
+CoinGoTradeUpdate.exe,file
+T1543.003,technique
+T1547,technique
+T1033,technique
+T1041,technique
+AppleJeus,attacker
+TA0042,technique
+T1583.001,technique
+T1583.006,technique
+T1587.001,technique
+T1588.003,technique
+T1588,technique
+TA0001,technique
+T1566.002,technique
+TA0002,technique
+T1059,technique
+T1059.004,technique
+T1204.002,technique
+T1053.004,technique
+TA0003,technique
+T1543.004,technique
+T1547,technique
+TA0004,technique
+T1053.005,technique
+TA0005,technique
+T1027,technique
+T1548,technique
+TA0005,technique
+T1564.001,technique
+TA0007,technique
+T1033,technique
+TA0010,technique
+T1041,technique
+TA0011,technique
+T1071.001,technique
+TA0011,technique
+T1573,technique
+TA0011,technique
+T1573.001,technique
+PowerShell,tool
+TA0004,technique
+threat actor,attacker
+TA0008,technique
+TA0005,technique
+TA0009,technique
+TA0004,technique
+TA0003,technique
+APT actors,attacker
+T1078,technique
+T1078.004,technique
+T1133,technique
+T1189,technique
+T1190,technique
+T1195.002,technique
+T1199,technique
+T1566.001,technique
+T1566.002,technique
+T1566.003,technique
+TA0002,technique
+T1047,technique
+T1053.005,technique
+T1059.001,technique
+T1059.003,technique
+T1059.004,technique
+Acunetix,tool
+T1595.002,technique
+T1190,technique
+Acunetix,tool
+T1595.002,technique
+cURL,tool
+FDM User Agents,tool
+T1589,technique
+Kimsuky,malware
+TA0003,technique
+T1185,technique
+Google Chrome Web Store,tool
+Google+,tool
+Kimsuky,malware
+GREASE,malware
+T1547,technique
+T1021.001,technique
+Kimsuky,malware
+document stealer module,tool
+Hangul Word Processor,tool
+T1546.001,technique
+Microsoft Office,tool
+Kimsuky,malware
+open-source Hypertext Processor (PHP)-based web shells,tool
+T1505.003,technique
+TA0004,technique
+Kimsuky,malware
+Metasploit framework,tool
+explorer.exe,file
+T1055,technique
+dfe8b437dd7c417a6d.tmp,file
+Kimsuky,malware
+TA0005,technique
+Metasploit,tool
+C2 server,tool
+T1562.004,technique
+T1070.004,technique
+Kimsuky,malware
+keylogger,tool
+TA0009,technique
+T1546.001,technique
+T1056.001,technique
+C:\Program Files\Common Files\System\Ole DB\msolui80.inc,file
+C:\WINDOWS\setup.log,file
+Kimsuky,malware
+C2 server,tool
+T1059.006,technique
+TeamViewer client,tool
+Remote Access Service,tool
+C:\Windows\System32cmon.exe,file
+T1547.001,technique
+T1562.004,technique
+Kimsuky,malware
+T1560,technique
+T1114.003,technique
+T1074.001,technique
+Emotet,malware
+powershell.exe,file
+T1055.001,technique
+Explorer.exe,file
+T1057,technique
+Powershell,tool
+T1059.001,technique
+cmd.exe,file
+PowerShell script,tool
+Visual Basic,tool
+T1059.005,technique
+Microsoft Word,tool
+T1078.003,technique
+T1087.003,technique
+T1110.001,technique
+Mimikatz,tool
+Emotet,malware
+T1552.001,technique
+T1555.003,technique
+T1560,technique
+T1566.001,technique
+T1566.002,technique
+T1571,technique
+T1573.002,technique
+T1046,technique
+T1114,technique
+T1090.002,technique
+T1189,technique
+LokiBot,malware
+T1082,technique
+T1204.002,technique
+T1555,technique
+T1555.003,technique
+T1564.001,technique
+threat actor,attacker
+T1053.003,technique
+NetScaler,tool
+FRPC,tool
+T1505.003,technique
+ChunkyTuna,tool
+T1546.008,technique
+T1027.002,technique
+T1027.004,technique
+T1036.004,technique
+T1552.001,technique
+T1555,technique
+kee.ps1 PowerShell script,tool
+T1558,technique
+Angry IP Scanner,tool
+T1018,technique
+T1083,technique
+PsExec,tool
+PSEXECSVC,tool
+Plink,tool
+PuTTY,tool
+TightVNC server,tool
+TightVNC client,tool
+T1005,technique
+T1039,technique
+T1560.001,technique
+7-Zip,tool
+T1071.001,technique
+T1105,technique
+T1572,technique
+Chinese MSS-affiliated actors,attacker
+TA0014,technique
+Shodan,tool
+Chinese MSS-affiliated actors,attacker
+TA0015,technique
+T1245,technique
+T1247,technique
+T1254,technique
+CVE-2020-0688,vulnerability
+Chinese MSS-affiliated actors,attacker
+TA0018,technique
+T1288,technique
+T1291,technique
+CVE-2019-11510,vulnerability
+T1566.002 Phishing,threat type
+malicious email,tool
+links,tool
+T1190,technique
+CVE-2019-19781,vulnerability
+Citrix Application Delivery Controllers,tool
+Chinese MSS-affiliated actors,attacker
+TA0002,technique
+T1072,technique
+Chinese MSS-affiliated actors,attacker
+TA0006,technique
+T1003.001,technique
+Mimikatz,tool
+T1110.004,technique
+Chinese MSS-affiliated actors,attacker
+TA0007,technique
+T1046,technique
+CVE-2020-0688,vulnerability
+Chinese MSS-affiliated threat actors,attacker
+TA0009,technique
+IaaS,tool
+SaaS,tool
+web browser,tool
+The Onion Router,tool
+Chinese MSS-affiliated actors,attacker
+TA0011,technique
+T1090.002,technique
+BeagleBoyz,attacker
+b484b0dff093f358897486b58266d069,MD5
+f34b72471a205c4eee5221ab9a349c55,MD5
+4c26b2d0e5cd3bfe0a3d07c4b85909a4,MD5
+52ec074d8cb8243976963674dd40ffe7,MD5
+d1d779314250fab284fd348888c2f955,MD5
+cf733e719e9677ebfbc84a3ab08dd0dc,MD5
+01d397df2a1cf1d4c8e3615b7064856c,MD5
+TA505,attacker
+TA0001,technique
+BeagleBoyz,malware
+TA0002,technique
+T1059,technique
+T1059.001,technique
+T1059.005,technique
+T1204,technique
+BeagleBoyz,malware
+TA0003,technique
+T1547.001,technique
+T1543.003,technique
+T1505.003,technique
+T1574.001,technique
+T1133,technique
+BeagleBoyz,malware
+TA0004,technique
+T1055,technique
+T1543.003,technique
+T1505.003,technique
+T1574.001,technique
+cmd.exe,file
+T1202,technique
+T1070.003,technique
+T1562.001,technique
+T1070.004,technique
+BeagleBoyz,attacker
+ECCENTRICBANDWAGON,malware
+https://us-cert.cisa.gov/northkorea,URL
+TA0006,technique
+T1056,technique
+T1056,technique
+T1552.004,technique
+T1098,technique
+T1056.004,technique
+T1049,technique
+T1021.002,technique
+T1021,technique
+BeagleBoyz,attacker
+reconnaissance tools,tool
+administrative tools,tool
+PowerShell,tool
+PowerShell Empire,tool
+TA0009,technique
+T1119,technique
+T1056,technique
+T1005,technique
+T1113,technique
+BeagleBoyz,attacker
+CROWDEDFLOUNDER,tool
+HOPLIGHT,tool
+TA0010,technique
+T1560,technique
+T1020,technique
+T1041,technique
+KONNI,malware
+T1566.001,technique
+T1059.003,technique
+CertUtil,tool
+Command Prompt,tool
+certutil.exe,file
+KONNI,malware
+cmd.exe,file
+T1059.003,technique
+T1070.004,technique
+T1071.001,technique
+T1082,technique
+T1083,technique
+T1105,technique
+T1112,technique
+systeminfo.exe,file
+TA0001,technique
+T1190,technique
+TA0011,technique
+T1043,technique
+T1090,technique
+T1094,technique
+T1024,technique
+T1188,technique
+T1079,technique
+T1071,technique
+TA0010,technique
+TA0040,technique
+T1486,technique
+T1499,technique
+T1498,technique
+Russian state-sponsored APT actors,attacker
+T1598,technique
+TA0042,technique
+T1587.001,technique
+TA0001,technique
+T1190,technique
+T1195.002,technique
+SolarWinds Orion,tool
+TA0002,technique
+T1059.003,technique
+PowerShell,tool
+Windows Command Shell,tool
+T1583,technique
+T1583.001,technique
+TA0011,technique
+T1585.002,technique
+T1586.002,technique
+T1585.001,technique
+TA0001,technique
+T1133,technique
+T1566.001,technique
+T1566.002,technique
+T1189,technique
+T1190,technique
+T1078,technique
+T1078.001,technique
+TA0002,technique
+T1059,technique
+T1059.001,technique
+T1203,technique
+T1204,technique
+T1204.002,technique
+T1204.002,technique
+TA0003,technique
+TA0004,technique
+TA0006,technique
+TA0007,technique
+TA0008,technique
+Microsoft HTML Help system,tool
+T1218.001,technique
+T1562.003,technique
+T1027.005,technique
+T1562.006,technique
+T1574.001,technique
+RADIUS server,tool
+Juniper router,tool
+T1599,technique
+T1020.001,technique
+TA0043,technique
+TA0043,technique
+T1589.001,technique
+T1003,technique
+Hacktool.Mimikatz,tool
+W32/Lockbit.K!tr.ransom,threat type
+TA0002,technique
+T1059.003,technique
+T1059.005,technique
+T1059.006,technique
+T1204.002,technique
+T1547.004,technique
+phishing attacks,threat type
+T1005,technique
+T1552.001,technique
+T1070.004,technique
+T1082,technique
+T1059,technique
+T1490,technique
+T1005,technique
+T1083,technique
+T1489,technique
+T1190,technique
+T1569.002,technique
+T1059.001,technique
+T1027,technique
+T1041,technique
+T1082,technique
+T1036,technique
+T1083,technique
+T1059.003,technique
+T1592,technique
+T1588.003,technique
+T1014,technique
+T1574.002,technique
+T1620,technique
+T1113,technique
+T1053,technique
+T1059,technique
+T1003.001,technique
+T1569.002,technique
+T1574.002,technique
+T1140,technique
+T1070.004,technique
+T1036.005,technique
+T1053.005,technique
+T1548.002,technique
+T1068,technique
+T1546.012,technique
+x32dbg.exe,file
+T1574.001,technique
+malicious DLL,malware
+PlugX,malware
+Trojan.Win32.KORPLUG.AJ.enc,malware
+remote access trojan,threat type
+T1552.001,technique
+curl,tool
+wget,tool
+T1564.001,technique
+T1610,technique
+T1611,technique
+Process Telemetry,tool
+T1105,technique
+T1071.001,technique
+curl command,tool
+cronb.sh,file
+T1204,technique
+xmrig,tool
+Antimalware,tool
+T1613,technique
+T1046,technique
+masscan,tool
+TA0001,technique
+T1566.001,technique
+TA0002,technique
+T1204.001,technique
+T1204.002,technique
+T1569.002,technique
+T1059.005,technique
+T1059.007,technique
+QAKBOT,malware
+Cobalt Strike,tool
+PsExec,tool
+Service Control Manager,tool
+VBS,tool
+Wscript,tool
+Jscript,tool
+TA0003,technique
+QAKBOT,malware
+T1135,technique
+T1069.001,technique
+T1057,technique
+T1018,technique
+T1082,technique
+T1016,technique
+T1049,technique
+T1033,technique
+TA0008,technique
+T1021,technique
+Cobalt Strike,tool
+Window admin shares,tool
+TA0011,technique
+T1071.001,technique
+QAKBOT,malware
+T1573,technique
+TA0040,technique
+T1486,technique
+Black Basta,malware
+T1489,technique
+T1490,technique
+vssadmin tool,tool
+T1491,technique
+Truebot,malware
+T1057,technique
+T1005,technique
+T1518.001,technique
+T1124,technique
+IgtyXEQuCEvAM.JSONIP,file
+T1036,technique
+Truebot,malware
+T1027.001,technique
+T1082,technique
+T1622,technique
+cyber threat actors,attacker
+T1016,technique
+Truebot,malware
+T1105,technique
+T1570,technique
+T1070.004,technique
+T1620,technique
+Raspberry Robin,tool
+Cobalt Strike,tool
+Truebot,malware
+T1059,technique
+T1563.001,technique
+T1563.002,technique
+T1003.001,technique
+T1550.002,technique
+Teleport,tool
+LockBit,attacker
+7-zip,tool
+T1562,technique
+AdFind,tool
+Advanced Internet Protocol (IP) Scanner,tool
+T1046,technique
+TA0004,technique
+AnyDesk,tool
+T1219,technique
+Backstab,tool
+T1562.001,technique
+Bat Armor,tool
+Bloodhound,tool
+Impacket,tool
+LaZagne,tool
+Ligolo,tool
+LostMyPassword,tool
+MEGA Ltd,tool
+MegaSync,tool
+Microsoft Sysinternals ProcDump,tool
+Microsoft Sysinternals PsExec,tool
+T1095,technique
+T1003,technique
+T1567.002,technique
+T1003.001,technique
+LockBit affiliate,attacker
+T1189,technique
+T1190,technique
+T1133,technique
+T1566,technique
+T1078,technique
+TA0002,technique
+LockBit,malware
+T1059.003,technique
+T1072,technique
+Chocolatey,tool
+T1569.002,technique
+PsExec,tool
+T1547,technique
+T1078,technique
+TA0004,technique
+T1548,technique
+LockBit,malware
+UACMe,tool
+T1547,technique
+T1484.001,technique
+T1078,technique
+T1480.001,technique
+T1562.001,technique
+Backstab,tool
+Defender Control,tool
+GMER,tool
+PCHunter,tool
+PowerTool,tool
+Process Hacker,tool
+TDSSKiller,tool
+LockBit 3.0,malware
+Bat Armor,tool
+123.bat,file
+T1070.001,technique
+T1070.004,technique
+T1027,technique
+T1027.002,technique
+T1110,technique
+Blister Loader,tool
+LockBit,malware
+T1555.003,technique
+PasswordFox,tool
+T1003,technique
+ExtPassword,tool
+LostMyPassword,tool
+T1003.001,technique
+Microsoft Sysinternals ProDump,tool
+lsass.exe,file
+Mimikatz,tool
+SoftPerfect Network Scanner,tool
+Advanced IP Scanner,tool
+Advanced Port Scanner,tool
+AdFind,tool
+T1082,technique
+LockBit,malware
+T1614.001,technique
+TA0008,technique
+T1021.001,technique
+T1021.002,technique
+Splashtop,tool
+Cobalt Strike,tool
+T1560.001,technique
+7-zip,tool
+LockBit,malware
+Rclone,tool
+FreeFileSync,tool
+MEGA,tool
+T1567.002,technique
+T1485,technique
+T1486,technique
+T1491.001,technique
+T1490,technique
+T1489,technique
+CVE-2023-34362,vulnerability
+MOVEit,tool
+CL0P ransomware group,attacker
+SQL injection zero-day vulnerability,threat type
+LEMURLOOT,malware
+T1190,technique
+BianLian group,attacker
+PowerShell scripts,tool
+FTP,tool
+Rclone,tool
+T1486,technique
+T1048,technique
+T1537,technique
+Mega file-sharing service,tool
+T1567.002,technique
+T1056.001,technique
+T1059.001,technique
+T1071,technique
+T1071.001,technique
+T1071.003,technique
+T1071.004,technique
+T1074,technique
+PsExec,tool
+PowerShell,tool
+WastedLocker,malware
+Windows Defender,tool
+WastedLocker,malware
+Sodinokibi,malware
+Ransomware,threat type
+Cobalt Strike,tool
+Sodinokibi,malware
+Cobalt Strike,malware
+Sodinokibi,malware
+ransomware,threat type
+Sodinokibi,malware
+AnyDesk,tool
+Cobalt Strike,malware
+Pastebin,tool
+Amazon’s CloudFront service,tool
+Cobalt Strike,tool
+ransomware,threat type
+Sodinokibi,malware
+attackers,attacker
+remote desktop connections,tool
+PowerShell commands,tool
+Sodinokibi,malware
+Cobalt Strike,malware
+ransomware,threat type
+Sodinokibi,malware
+REvil,malware
+GandCrab,malware
+Sodinokibi,malware
+ransomware-as-a-service,threat type
+Sodinokibi,malware
+ransomware,threat type
+Sodinokibi,malware
+Sodinokibi,malware
+Sodinokibi,malware
+ransomware,threat type
+BEC Scams,threat type
+Formjacking,threat type
+CVE-2019-19781,vulnerability
+Phishing,threat type
+IoT botnets,threat type
+botnets,threat type
+SMS Phishing Campaigns,threat type
+phishing attempts,threat type
+criminals,attacker
+malicious email campaigns,tool
+malicious Android apps,tool
+text (SMS) messages,tool
+SMS phishing attempts,threat type
+malicious SMS messages,tool
+URL shortening services,tool
+SMS phishing attack,threat type
+SMS phishing attacks,threat type
+scammers,attacker
+SMS phishing scams,threat type
+www.Scotia-0nline.com,URL
+https://client-7492703.online,URL
+(https://uk-covid-19.webredirect.org,URL
+SMS phishing scams,threat type
+Malicious Email Campaigns,threat type
+Malicious Android Apps,malware
+Android apps,tool
+Sophisticated Espionage Group,attacker
+Greenbug,attacker
+Email,tool
+Greenbug,attacker
+Shamoon group,attacker
+W32.Disttrack.B,malware
+disk-wiping attacks,threat type
+Greenbug,attacker
+Mimikatz,tool
+Plink,tool
+proposal_pakistan110.chm:error.html,file
+Greenbug,attacker
+Trojan.Ismdoor,malware
+GRUNTStager.hta,file
+Covenant,tool
+Greenbug,attacker
+CobaltStrike Beacon module,tool
+PowerShell.exe,file
+http://95[.]179.177.157:445/0Zu5WpWN,URL
+CSIDL_APPDATA\a8f4.exe,file
+bitsadmin,tool
+Hash Directory Tool,tool
+revshell.exe,file
+printers.exe,file
+msf.exe,file
+PowerShell,tool
+msf.ps1,file
+Metasploit payload,tool
+w3wp.exe,file
+PowerShell command,tool
+web.config,file
+aspnet_regiis.exe,file
+pls.exe,file
+cmd.exe,file
+netcat,tool
+Mimikatz,tool
+PowerShell,tool
+SQLConnection,tool
+System.Data.SqlClient.SqlCommand,tool
+System.Data.DataSet,tool
+system.Data.SqlClient.SqlDataAdapter,tool
+PowerShell,tool
+host. PowerShell.exe,file
+PowerShell,tool
+Covenant,tool
+Mimikatz,tool
+Cobalt Strike,tool
+webshells,tool
+proposal_pakistan110.chm:error.html,file
+archiver tool,tool
+backdoor,tool
+450ebd66ba67bb46bf18d122823ff07ef4a7b11afe63b6f269aec9236a1790cd,SHA256
+ee32bde60d1175709fde6869daf9c63cd3227155e37f06d45a27a2f45818a3dc,SHA256
+071e20a982ea6b8f9d482685010be7aaf036401ea45e2977aca867cedcdb0217,SHA256
+PowerShell,tool
+comms.exe,file
+Plink,tool
+Power Shell,tool
+http://apps[.]vvvnews.com:8080/Yft.dat,URL
+C:\Programdata\VMware\Vmware.exe,file
+C:\Programdata\Nt.dat,file
+cmd.exe,file
+http://apps[.]vvvnews.com:8080/Default.htt,URL
+Plink tool,tool
+Greenbug,attacker
+Greenbug,attacker
+ransomware,threat type
+APT groups,attacker
+Greenbug,attacker
+Text-Based Spam,threat type
+malspam (malware bearing) emails,threat type
+phishing,threat type
+malspam,threat type
+Phishing emails,threat type
+spam campaigns,threat type
+phishing web pages,threat type
+file-sharing/storage services,tool
+Confidentiality.pdf,file
+https://[REMOVED]covid.com/,URL
+Phishing email,threat type
+phishing web page,threat type
+scam emails,threat type
+Spam email,threat type
+advance fee scam,threat type
+Lottery scam emails,threat type
+Bitcoin wallet address,tool
+QR code,tool
+spam email,threat type
+spammers,attacker
+spam,threat type
+randomization in header fields,tool
+spam email,threat type
+phishing,threat type
+phishing URLs,threat type
+malicious email campaigns,threat type
+Spammers,attacker
+scammers,attacker
+threat actors,attacker
+Malicious Android Apps,malware
+Android apps,tool
+https://portal.msrc.microsoft.com/en-us/security-guidance,URL
+CVE-2020-0969,vulnerability
+CVE-2020-0968,vulnerability
+CVE-2020-0970,vulnerability
+CVE-2020-0967,vulnerability
+CVE-2020-0895,vulnerability
+CVE-2020-0966,vulnerability
+CVE-2020-0974,vulnerability
+CVE-2020-0929,vulnerability
+CVE-2020-0931,vulnerability
+CVE-2020-0932,vulnerability
+CVE-2020-0906,vulnerability
+CVE-2020-0979,vulnerability
+CVE-2020-0961,vulnerability
+CVE-2020-0760,vulnerability
+CVE-2020-0923,vulnerability
+CVE-2020-0924,vulnerability
+CVE-2020-0925,vulnerability
+CVE-2020-0926,vulnerability
+CVE-2020-0927,vulnerability
+CVE-2020-0930,vulnerability
+CVE-2020-0933,vulnerability
+CVE-2020-0954,vulnerability
+CVE-2020-0978,vulnerability
+CVE-2020-0920,vulnerability
+CVE-2020-0971,vulnerability
+CVE-2020-0972,vulnerability
+CVE-2020-0975,vulnerability
+CVE-2020-0976,vulnerability
+CVE-2020-0977,vulnerability
+CVE-2020-0984,vulnerability
+CVE-2020-0991,vulnerability
+CVE-2020-0980,vulnerability
+CVE-2020-0973,vulnerability
+CVE-2020-1020,vulnerability
+CVE-2020-0938,vulnerability
+CVE-2020-1006,vulnerability
+CVE-2020-1017,vulnerability
+CVE-2020-1016,vulnerability
+CVE-2020-0936,vulnerability
+CVE-2020-0981,vulnerability
+CVE-2020-0985,vulnerability
+CVE-2020-0996,vulnerability
+CVE-2020-0942,vulnerability
+CVE-2020-0944,vulnerability
+CVE-2020-0784,vulnerability
+CVE-2020-0888,vulnerability
+CVE-2020-1014,vulnerability
+CVE-2020-0937,vulnerability
+CVE-2020-0939,vulnerability
+CVE-2020-0945,vulnerability
+CVE-2020-0946,vulnerability
+CVE-2020-0947,vulnerability
+CVE-2020-0983,vulnerability
+CVE-2020-0993,vulnerability
+CVE-2020-0934,vulnerability
+CVE-2020-1009,vulnerability
+CVE-2020-1011,vulnerability
+CVE-2020-1015,vulnerability
+CVE-2020-1029,vulnerability
+CVE-2020-1094,vulnerability
+CVE-2020-0794,vulnerability
+CVE-2020-0913,vulnerability
+Windows Kernel Privilege Escalation Vulnerability CVE-2020-1000,vulnerability
+Windows Kernel Privilege Escalation Vulnerability CVE-2020-1003,vulnerability
+Windows Kernel Privilege Escalation Vulnerability CVE-2020-1027,vulnerability
+CVE-2020-0955,vulnerability
+CVE-2020-0821,vulnerability
+CVE-2020-1007,vulnerability
+CVE-2020-0956,vulnerability
+CVE-2020-0957,vulnerability
+CVE-2020-0958,vulnerability
+CVE-2020-0699,vulnerability
+CVE-2020-0962,vulnerability
+CVE-2020-0907,vulnerability
+CVE-2020-0982,vulnerability
+CVE-2020-0987,vulnerability
+CVE-2020-1005,vulnerability
+CVE-2020-0687,vulnerability
+PhpSpy,malware
+backdoor,threat type
+magiccoder.ir,Domain
+MagicCoder,tool
+Sun Army,attacker
+GuLoader,malware
+NSIS executable,file
+ieinstal.exe,file
+aspnet_regbrowsers.exe,file
+hxxp://178.73.192[.]15/ca1.exe,URL
+transfer[.]sh,Domain
+Loadpoint,tool
+Form.pdb,file
+180970fce4a226de05df6d22339dd4ae03dfd5e451dcf2d464b663e86c824b8e,SHA256
+FormDll.dll,file
+(DoRVA,tool
+Merdoor loader,tool
+res.ini,file
+TdiProxy0,tool
+egui.exe,file
+ekrn.exe,file
+libffmpeg.dylib,file
+a64fa9f1c76457ecc58402142a8728ce34ccba378c17318b3340083eeb7acc67,SHA256
+fee4f9dabc094df24d83ec1a8c4e4ff573e5d9973caa676f58086c99561382d7,SHA256
+https://msstorageazure[.]com/analysis,URL
+officestoragebox[.]com/api/biosync,URL
+visualstudiofactory[.]com/groupcore,URL
+azuredeploystore[.]com/cloud/images,URL
+msstorageboxes[.]com/xbox,URL
+officeaddons[.]com/quality,URL
+sourceslabs[.]com/status,URL
+zacharryblogs[.]com/xmlquery,URL
+pbxcloudeservices[.]com/network,URL
+pbxphonenetwork[.]com/phone,URL
+akamaitechcloudservices[.]com/v2/fileapi,URL
+azureonlinestorage[.]com/google/storage,URL
+msedgepackageinfo[.]com/ms-webview,URL
+glcloudservice[.]com/v1/status,URL
+pbxsources[.]com/queue,URL
+Blackfly,tool
+Backdoor.Winnkit,malware
+caba1085791d13172b1bb5aca25616010349ecce17564a00cb1d89c7158d6459,SHA256
+cf6bcd3a62720f0e26e1880fe7ac9ca6c62f7f05f1f68b8fe59a4eb47377880a,SHA256
+e1e0b887b68307ed192d393e886d8b982e4a2fd232ee13c2f20cd05f91358596,SHA256
+a3078d0c4c564f5efb1460e7d341981282f637d38048501221125756bc740aac,SHA256
+714cef77c92b1d909972580ec7602b0914f30e32c09a5e8cb9cb4d32aa2a2196,SHA256
+Rootkit driver,tool
+Credential-dumping tool,tool
+100cad54c1f54126b9d37eb8c9e426cb609fc0eda0e9a241c2c9fd5a3a01ad6c,SHA256
+Screenshotting tool,tool
+452d08d420a8d564ff5df6f6a91521887f8b9141d96c77a423ac7fc9c28e07e4,SHA256
+Process-hollowing tool,tool
+1cc838896fbaf7c1996198309fbf273c058b796cd2ac1ba7a46bee6df606900e,SHA256
+SQL tool,tool
+4ae2cb9454077300151e701e6ac4e4d26dc72227135651e02437902ac05aa80d,SHA256
+Mimikatz,tool
+b28456a0252f4cd308dfb84eeaa14b713d86ba30c4b9ca8d87ba3e592fd27f1c,SHA256
+ForkPlayground,tool
+a3acb9f79647f813671c1a21097a51836b0b95397ebc9cd178bc806e1773c864,SHA256
+Proxy configuration tool,tool
+5e51bdf067e5781d2868d97e7608187d2fec423856dbc883c6f81a9746e99b9f,SHA256
+d4e1f09cb7b9b03b4779c87f2a10d379f1dd010a9686d221c3a9f45bda5655ee,SHA256
+f138d785d494b8ff12d4a57db94958131f61c76d5d2c4d387b343a213b29d18f,SHA256
+Launcher_S0FT-2O23.exe,file
+Vidar Stealer,malware
+820bbfc1f5023af60a7048a0c25e3db51b481afd6986bf1b5ff806cf604c1f4c,SHA256
+e256b5ef66c4e56dac32934594b41e7e8cf432f834046e1c24c0827b120e6ddb,SHA256
+Vaxa.exe,file
+Miner Installer,malware
+44810cead810cd546a8983e464157a4eb98ebbd518c4f4249e6b99e7f911090f,SHA256
+shellcode,tool
+Task32Main,malware
+5630c8f0dcd2393daf8477e6e4e419b0d0faf6780b6f1e00ad7a09fd37ddcdd3,SHA256
+Regsvcs.exe,file
+watchdog,tool
+hxxp://109[.]206[.]243[.]207/ssh/x86_64,URL
+RapperBot,malware
+Bash scripts,tool
+7f6e0fa785820075a61819ca6b272a239733b770eb8a92a4056cf5d26d89795f,SHA256
+XMRig crypto miner,tool
+0ad68d5804804c25a6f6f3d87cc3a3886583f69b7115ba01ab7c6dd96a186404,SHA256
+XMRig,malware
+cryptojacking,threat type
+f06d698967cee77e5a7bf9835b0a93394097e7590c156ed0d8c6304345701cfa,SHA256
+RapperBot,malware
+79[.]137[.]203[.]156,IP
+miner.bat,file
+plugin_3.dll,file
+plugin_4.dll,file
+Spidey Bot,malware
+hxxps://discordapp[.]com/api/webhooks/1068100542682902558/9JUsLnJZLyEkc_bGS85KTa5M1VWZ2J496v6Ruo7oUclFE08osfXNZL_OK5YDGOPYHLFy,URL
+Exbyte,malware
+Mega.co.nz,Domain
+avghooka.dll,file
+avghookx.dll,file
+sxin.dll,file
+sf2.dll,file
+sbiedll.dll,file
+snxhk.dll,file
+cmdvrt32.dll,file
+cmdvrt64.dll,file
+wpespy.dll,file
+vmcheck.dll,file
+pstorec.dll,file
+dir_watch.dll,file
+api_log.dll,file
+dbghelp.dll,file
+BlackByte,malware
+Webworm,attacker
+Trochilus dropper,malware
+6201c604ac7b6093dc8f6f12a92f40161508af1ddffa171946b876442a66927e,SHA256
+Trochilus Dropper,malware
+b9a0602661013d973bc978d64b7abb6bed20cf0498d0def3acb164f0d303b646,SHA256
+Trochilus Dropper,malware
+c71e0979336615e67006e20b24baafb19d600db94f93e3bf64181478dfc056a8,SHA256
+[TEMP]\Logger.exe,file
+28d78e52420906794e4059a603fa9f22d5d6e4479d91e9046a97318c83998679,SHA256
+[TEMP]\sc.cfg,file
+a618b3041935ec3ece269effba5569b610da212b1aa3968e5645f3e37d478536,SHA256
+[TEMP]\logexts.dat,file
+a6b9975bfe02432e80c7963147c4011a4f7cdb9baaee4ae8d27aaff7dff79c2b,SHA256
+[TEMP]\logexts.dll,file
+a73a4c0aa557241a09e137387537e04ce582c989caa10a6644d4391f00a836ef,SHA256
+[TEMP]\logger.dat,file
+10456bc3b5cfd2f1b1ab9c3833022ef52f5e9733d002ab237bdebad09b125024,SHA256
+[TEMP]\[RANDOM_DIGITS].doc,file
+d295712185de2e5f8811b0ce7384a04915abdf970ef0f087c294bb00e340afad,SHA256
+[TEMP]\logexts.dll,file
+logexts.dll,file
+Logger.dat,file
+calc.exe,file
+cal.exe,file
+12534f7014b3338d8f9f86ff1bbeacf8c80ad03f1d0d19077ff0e406c58b5133,SHA256
+LadonGo v3.8,tool
+Go,tool
+Crash Handler,tool
+svchost.exe,file
+Mimikatz,malware
+test.exe,file
+SHA256: 912018ab3c6b16b39ee84f17745ff0c80a33cee241013ec35d0281e40c0658d9,SHA256
+LadonGo,tool
+CVE-2020-1472,vulnerability
+kb0394623.exe,file
+PsExec,tool
+Crash Handler,file
+javac.exe,file
+csidl_program_files\windows mail\winmailservice.exe,file
+dnscmd.exe,tool
+67877821bf1574060f4e45ab8be62e28f54fb40a23ce70b86a6369a4d63db5bc,SHA256
+Crash Handler,tool
+imjpuex.exe,file
+PsExec,tool
+test.exe,file
+5c4456f061ff764509a2b249f579a5a14d475c6714f714c5a45fdd67921b9fda,SHA256
+ded734f79058c36a6050d801e1fb52cd5ca203f3fd6af6ddea52244132bd1b51,SHA256
+svchost.exe,file
+Mimikatz,tool
+Hive,tool
+Conti,tool
+Avoslocker,tool
+https://raw.githubusercontent.com/<redacted>/Invoke-Mimikatz.ps1,URL
+comsvcs.dll,file
+rundll32.exe,file
+taskmgr.exe,file
+gaymers[.]ax,Domain
+6f3af6ffb074513b51bba688a0b41df7[.]tk,Domain
+hxxps://jonathanhardwick[.]me/hardwick.jar~start,URL
+https://myvaccinerecord.cdph.ca.gov/creds,URL
+https://smarthealth.cards#health-card,URL
+https://smarthealth.cards#immunization,URL
+https://smarthealth.cards#covid19,URL
+Latin American banking Trojan,malware
+hxxps://centreldaconsulta[.]com/,URL
+hxxps://www.centralcfconsulta[.]net/,URL
+hxxps://centralcfconsulta[.]net/index3.php?api=vFUMIfUzGz2QdjxTFKAMyTlh,URL
+hxxps://centralcfconsulta.net/,URL
+hxxps://www.centralcfconsulta[.]net/index3.php?api=r0ubnHRxDycEy5uFPViNA55Y3t,URL
+hxxps://www.centralcfconsulta[.]net/index3.php?api=4DQSbdp3hLqPRGTbOGtl7jCD9FKNViKXmKd9Lv,URL
+hxxps://centreldaconsulta[.]com/index3.php?api=nJsdr1J3h0fsG18sRAVQt6JjVW,URL
+hxxps://centreldaconsulta[.]com/index3.php?api=ThMyMCAQEOLIC9nO,URL
+hxxps://www.centralcfconsulta[.]net/index3.php?api=wen1eIFCeUh0jAS3mWIDUhSLt3sXMQ,URL
+ESET,tool
+SCHTASKS,tool
+deep-versed.nls,file
+817901df616c77dd1e5694e3d75aebb3a52464c23a06820517108c74edd07fbc,SHA256
+deep-green.exe,file
+1ddc9b873fe4f4c8cf8978b6b1bb0e4d9dc07e60ba188ac6a5ad8f162d2a1e8f,SHA256
+UltraVNC,tool
+f6c56a51c1f0139036e80a517a6634d4d87d05cce17c4ca5adc1055b42bf03aa,SHA256
+procexp,tool
+de5a53a3b75e3e730755af09e3cacb7e6d171fc9b1853a7200e5dfb9044ab20a,SHA256
+d15a7e69769f4727f7b522995a17a0206ac9450cfb0dfe1fc98fd32272ee5ba7,SHA256
+Custom Downloader,tool
+Custom Screenshotter,tool
+Cobalt Strike Beacon,tool
+Metasploit,tool
+Costura Assembly Loader,tool
+[ARTEFACTS_FOLDER]\winser.dll,file
+hxxps://outportal[.]azurewebsites.net/api/Values_V2/Getting3210,URL
+Backdoor.Graphon,malware
+MicrosoftSystemServices,tool
+hxxps://usedust[.]com,URL
+hxxps://microsoftmsdn[.]azurewebsites.net/api/Values_V1/AuthAsyncComplete_V1?Identity=[INFECTION_ID],URL
+hxxps://microsoftsgraphapi[.]azurewebsites.net/api/Values_V1/AuthAsyncComplete_V1?Identity=[INFECTION_ID],URL
+hxxps://msdnmicrosoft.azurewebsites[.]net/api/Values_V1/AuthAsyncComplete_V1?Identity=[INFECTION_ID],URL
+Microsoft infrastructure,tool
+powershell,tool
+hxxp://209.14.0[.]234:46613/VcEtrKighyIFS5foGNXH,URL
+CVE-2021-36942,vulnerability
+https://github.com/zcgonvh/EfsPotato,URL
+(efspotato.exe,file
+active_desktop_render.dll,file
+active_desktop_launcher.exe,file
+Raindrop,malware
+Teardrop,malware
+Cobalt Strike Beacon,tool
+b820e8a2057112d0ed73bd7995201dbed79a79e13c79d4bdad81a22f12387e07,SHA256
+https(://)infinitysoftwares(.)com/files/information_055.pdf,URL
+https(://)infinitysoftwares(.)com/wp-admin/new_file.php,URL
+be9dbbec6937dfe0a652c0603d4972ba354e83c06b8397d6555fd1847da36725,SHA256
+https(://)bigtopweb(.)com/files/page_306.pdf,URL
+https(://)bigtopweb(.)com/wp-admin/admin-ajax.php,URL
+f2d38a29f6727f4ade62d88d8a68de0d52a0695930b8c92437a2f9e4de92e418,SHA256
+https(://)panhardware(.)com/files/documentation_076.pdf,URL
+https(://)panhardware(.)com/wp-admin/new_file.php,URL
+panhardware[.]com,Domain
+ns1.dnsowl.com,Domain
+ns2.dnsowl.com,Domain
+ns3.dnsowl.com,Domain
+https://www.reddit.com/r/msp/comments/13xjs1y/tracking_emerging_moveit_transfer_critical/,URL
+https://www.bleepingcomputer.com/news/security/new-moveit-transfer-zero-day-mass-exploited-in-data-theft-attacks/,URL
+https://gist.github.com/JohnHammond/44ce8556f798b7f6a7574148b679c643,URL
+T1505.003,technique
+Teardrop,malware
+Cobalt Strike,malware
+b820e8a2057112d0ed73bd7995201dbed79a79e13c79d4bdad81a22f12387e07,SHA256
+upbeat_anxiety.jpg,file
+infinitysoftwares[.]com,Domain
+1817a5bf9c01035bcf8a975c9f1d94b0ce7f6a200339485d8f93859f8f6d730c,SHA256
+festive_computer.jpg,file
+ervsystem[.]com,Domain
+Backdoor.Teardrop,malware
+upbeat_anxiety.jpg,file
+Cobalt Strike,tool
+infinitysoftwares[.]com,Domain
+rundll32.exe,file
+resources.dll,file
+lsass.exe,file
+Mimikatz,tool
+aeey7hxzgl6zowiwhteo5xjbf6sb36tkbn5hptykgmbsjrbiygv4c4id[.]onion,Domain
+Google Drive,tool
+80[.]85[.]156[.]232,IP
+80[.]85[.]156[.]240,IP
+80[.]85[.]156[.]151,IP
+103[.]159[.]132[.]91,IP
+sa2il[.]johnsimde[.]xyz,Domain
+iot[.]johnsimde[.]xyz,Domain
+em2in[.]johnsimde[.]xyz,Domain
+rewards[.]roshan[.]af,Domain
+protection against brute force,threat type
+beacon,tool
+redacted]construction.com,Domain
+Bing search engine,tool
+WinSCP application,tool
+winsccp[.]com,Domain
+hxxps://events.drdivyaclinic[.]com,URL
+4shared,tool
+infected WordPress webpage,tool
+bot core,malware
+payload,malware
+backdoor,malware
+https[://]twitter.com/naerycrypto/status/1637226997817692161,URL
+https[://]twitter.com/CiervoKing/status/1637220583736762370,URL
+https[://]twitter.com/witty_taeil/status/1631654308218298368,URL
+ryzex[.]io/,Domain
+https[://]twitter.com/RyzeX_web3,URL
+pearlmetaverse[.]io/,Domain
+https[://]twitter.com/MetaversePearl,URL
+mysteriangame[.]com,Domain
+https[://]twitter.com/MysterianGame,URL
+worldofcreatures[.]io,Domain
+https[://]twitter.com/WOC_io/,URL
+8ea33c34647578b79dd8bb7dcf01a8ad1c79e7ada3fd61aca397ed0a2ac57276,SHA256
+https[://]cryptureworld.com/,URL
+toncap[.]io,Domain
+https[://]twitter.com/neuromaster9/status/1614074785289437184?s=61,URL
+https[://]twitter.com/yoshisakatahi/status/1615686095307522049?s=61,URL
+7bb7b51494c60401c8535baaa30cddb1c41c436e778092f30db5260c42cc70f6,SHA256
+play-impulseflow[.]com,Domain
+https[://]twitter.com/lmpulse_Flow,URL
+02e1d9ea3a0c16106d173b0e6349a18a9aeafacc38650e359cfe1ee2298aaa45,SHA256
+(https[://]embersword.com,URL
+https[://]twitter.com/PureMetaverse,URL
+https[://]twitter.com/MetaPureLand,URL
+USB Driver.exe,file
+autorun.inf,file
+ACNSHELL malware,malware
+rzlog4cpp.dll,file
+ncat.exe,file
+closed[.]theworkpc[.]com,Domain
+Earth Kitsune,attacker
+WhiskerSpy,malware
+Londoncity[.]hopto[.]org,Domain
+rs[.]myftp[.]biz,Domain
+45[.]76[.]62[.]198,IP
+updategoogle[.]servehttp[.]com,Domain
+microsoftwindow[.]sytes[.]net,Domain
+172[.]93[.]201[.]172,IP
+selectorioi[.]ddns[.]net,Domain
+agfSpy,malware
+Facebook accounts,attacker
+download.tw1988[.]link,Domain
+TgToxic,attacker
+Celas LLC,attacker
+Phishing: Spearphishing Link,threat type
+celasllc[.]com,Domain
+45.199.63[.]220,IP
+107.187.66[.]103,IP
+145.249.106[.]19,IP
+175.29.32[.]160,IP
+185.142.236[.]213,IP
+185.181.104[.]82,IP
+198.251.83[.]27,IP
+208.91.197[.]46,IP
+209.99.64[.]18,IP
+Sectigo,tool
+SSL certificate,tool
+Comodo,tool
+Secure Sockets Layer,tool
+Celas Trade Pro Application,tool
+Windows Program,tool
+Celas Trade Pro,malware
+MSI Installer,tool
+celasllc[.]com,Domain
+Sectigo certificate,tool
+C:\Program Files (x86)\CelasTradePro\Updater.exe,file
+AppleJeus Version 2,malware
+JMT Trading,malware
+jmttrading[.]org,Domain
+45.33.2[.]79,IP
+45.33.23[.]183,IP
+45.56.79[.]23,IP
+45.79.19[.]196,IP
+96.126.123[.]244,IP
+146.112.61[.]107,IP
+184.168.221[.]40,IP
+184.168.221[.]57,IP
+198.187.29[.]20,IP
+198.54.117[.]197,IP
+198.54.117[.]198,IP
+198.54.117[.]199,IP
+198.54.117[.]200,IP
+198.58.118[.]167,IP
+jmttrading[.]org,Domain
+Sectigo SSL certificate,tool
+Let's Encrypt,tool
+MSI Installer,tool
+Sectigo,tool
+JMTTrader.exe,file
+CrashReporter.exe,file
+AppleJeus,malware
+Union Crypto,attacker
+unioncrypto[.]vip,Domain
+https://www.unioncrypto[.]vip/download/W6c2dq8By7luMhCmya2v97YeN,URL
+104.168.167[.]16,IP
+198.54.117[.]197,IP
+198.54.117[.]198,IP
+198.54.117[.]199,IP
+198.54.117[.]200,IP
+unioncrypto[.]vip,Domain
+Sectigo SSL certificate,tool
+T1588.004,technique
+Union Crypto Trader Application,tool
+Windows Program,tool
+T1204.002,technique
+UnionCryptoTrader.msi,file
+UnionCryptoUpdater.msi,file
+UnionCryptoUpdater.exe,file
+AppleJeus,malware
+Kupay Wallet,tool
+kupaywallet[.]com,Domain
+104.200.67[.]96,IP
+Sectigo SSL certificate,tool
+AppleJeus Version 5,malware
+CoinGoTrade,attacker
+coingotrade[.]com,Domain
+198.54.114[.]175,IP
+NameCheap Inc.,attacker
+Dorusio[.]com,Domain
+Ants2Whale[.]com,Domain
+Sectigo,tool
+SSL certificate,tool
+AppleJeus,malware
+Dorusio,attacker
+dorusio[.]com,Domain
+T1583.001,technique
+T1587.001,technique
+198.54.115[.]51,IP
+NameCheap Inc.,attacker
+CoinGoTrade[.]com,Domain
+Ants2Whale[.]com,Domain
+dorusio[.]com,Domain
+Sectigo,tool
+Dorusio Application Analysis Windows Program,tool
+MSI Installer,tool
+Dorusio.exe,file
+DorusioUpgrade.exe,file
+proposal_pakistan110.chm:error.html,file
+archiver tool,tool
+Microsoft Edge browser,tool
+backdoor,malware
+450ebd66ba67bb46bf18d122823ff07ef4a7b11afe63b6f269aec9236a1790cd,SHA256
+ee32bde60d1175709fde6869daf9c63cd3227155e37f06d45a27a2f45818a3dc,SHA256
+071e20a982ea6b8f9d482685010be7aaf036401ea45e2977aca867cedcdb0217,SHA256
+custom .NET FTP tool,tool
+192.119.15.36,IP
+hxxp://192.119.15[DOT]36:880/ftp.exe,URL
+JsuObf.exe,file
+89.34.237.118:2020,IP
+Quasar RAT,tool
+AutoIt FTP exfiltration tool,tool
+FastUploader,tool
+hxxp://192.119.15[DOT]36:880/ftp.exe,URL
+"csidl_profile\appdataoaming\adobetp.exe",file
+svchost.exe,file
+command and control (C&C) server,tool
+Adwind,malware
+174[.]127[.]99[.]211,IP
+Command and Control (C2) server,tool
+79.137.206[.]228,IP
+cryptocurrency wallet collection,threat type
+watchdog dllhost.exe,file
+Monero cryptominer,tool
+0.0.0.0,IP
+%ProgramData%\dllhost.exe,file
+Moobot,malware
+ShellBot,malware
+PowerBots (C) GohacK,tool
+http[:]//80[.]68[.]196[.]6/ff,URL
+49[.]212[.]234[.]206:3303,IP
+perlbot,malware
+B0tchZ 0.2a,malware
+46[.]101[.]183[.]162,IP
+198[.]98[.]61[.]106:8080,IP
+AsyncRAT,malware
+notepad.exe,file
+95.216.102.32:6606,IP
+95.216.102.32:7707,IP
+95.216.102.32:8808,IP
+163[.]123[.]142[.]210,IP
+185[.]17[.]0[.]19,IP
+ScrubCrypt,malware
+miner,tool
+explorer.exe,file
+45[.]142[.]122[.]11:8080,IP
+ScrubCrypt,malware
+C2 server,tool
+163[.]123[.]142[.]210,IP
+plugin_3.dll,file
+plugin_4.dll,file
+C2 servers,tool
+176[.]65[.]137[.]5,IP
+Mirai-based SORA variant,malware
+Zerobot,malware
+hxxp://176[.]65[.]137[.]5/bins/zero[.]x86,URL
+Golang botnets,malware
+security plugins,tool
+C2 server,tool
+PHP script,tool
+binary,tool
+89[.]208[.]107[.]12,IP
+PHP/GoTrim!tr.dldr,malware
+PhpSpy,malware
+backdoor,threat type
+magiccoder.ir,Domain
+MagicCoder,tool
+Sun Army,attacker
+GuLoader,malware
+NSIS executable,file
+ieinstal.exe,file
+aspnet_regbrowsers.exe,file
+hxxp://178.73.192[.]15/ca1.exe,URL
+transfer[.]sh,Domain
+Loadpoint,tool
+Form.pdb,file
+180970fce4a226de05df6d22339dd4ae03dfd5e451dcf2d464b663e86c824b8e,SHA256
+FormDll.dll,file
+(DoRVA,tool
+Merdoor loader,tool
+res.ini,file
+TdiProxy0,tool
+egui.exe,file
+ekrn.exe,file
+libffmpeg.dylib,file
+a64fa9f1c76457ecc58402142a8728ce34ccba378c17318b3340083eeb7acc67,SHA256
+fee4f9dabc094df24d83ec1a8c4e4ff573e5d9973caa676f58086c99561382d7,SHA256
+https://msstorageazure[.]com/analysis,URL
+officestoragebox[.]com/api/biosync,URL
+visualstudiofactory[.]com/groupcore,URL
+azuredeploystore[.]com/cloud/images,URL
+msstorageboxes[.]com/xbox,URL
+officeaddons[.]com/quality,URL
+sourceslabs[.]com/status,URL
+zacharryblogs[.]com/xmlquery,URL
+pbxcloudeservices[.]com/network,URL
+pbxphonenetwork[.]com/phone,URL
+akamaitechcloudservices[.]com/v2/fileapi,URL
+azureonlinestorage[.]com/google/storage,URL
+msedgepackageinfo[.]com/ms-webview,URL
+glcloudservice[.]com/v1/status,URL
+pbxsources[.]com/queue,URL
+Blackfly,tool
+Backdoor.Winnkit,malware
+caba1085791d13172b1bb5aca25616010349ecce17564a00cb1d89c7158d6459,SHA256
+cf6bcd3a62720f0e26e1880fe7ac9ca6c62f7f05f1f68b8fe59a4eb47377880a,SHA256
+e1e0b887b68307ed192d393e886d8b982e4a2fd232ee13c2f20cd05f91358596,SHA256
+a3078d0c4c564f5efb1460e7d341981282f637d38048501221125756bc740aac,SHA256
+714cef77c92b1d909972580ec7602b0914f30e32c09a5e8cb9cb4d32aa2a2196,SHA256
+Rootkit driver,tool
+Credential-dumping tool,tool
+100cad54c1f54126b9d37eb8c9e426cb609fc0eda0e9a241c2c9fd5a3a01ad6c,SHA256
+Screenshotting tool,tool
+452d08d420a8d564ff5df6f6a91521887f8b9141d96c77a423ac7fc9c28e07e4,SHA256
+Process-hollowing tool,tool
+1cc838896fbaf7c1996198309fbf273c058b796cd2ac1ba7a46bee6df606900e,SHA256
+SQL tool,tool
+4ae2cb9454077300151e701e6ac4e4d26dc72227135651e02437902ac05aa80d,SHA256
+Mimikatz,tool
+b28456a0252f4cd308dfb84eeaa14b713d86ba30c4b9ca8d87ba3e592fd27f1c,SHA256
+ForkPlayground,tool
+a3acb9f79647f813671c1a21097a51836b0b95397ebc9cd178bc806e1773c864,SHA256
+Proxy configuration tool,tool
+5e51bdf067e5781d2868d97e7608187d2fec423856dbc883c6f81a9746e99b9f,SHA256
+d4e1f09cb7b9b03b4779c87f2a10d379f1dd010a9686d221c3a9f45bda5655ee,SHA256
+f138d785d494b8ff12d4a57db94958131f61c76d5d2c4d387b343a213b29d18f,SHA256
+Launcher_S0FT-2O23.exe,file
+Vidar Stealer,malware
+820bbfc1f5023af60a7048a0c25e3db51b481afd6986bf1b5ff806cf604c1f4c,SHA256
+e256b5ef66c4e56dac32934594b41e7e8cf432f834046e1c24c0827b120e6ddb,SHA256
+Vaxa.exe,file
+Miner Installer,malware
+44810cead810cd546a8983e464157a4eb98ebbd518c4f4249e6b99e7f911090f,SHA256
+shellcode,tool
+Task32Main,malware
+5630c8f0dcd2393daf8477e6e4e419b0d0faf6780b6f1e00ad7a09fd37ddcdd3,SHA256
+Regsvcs.exe,file
+watchdog,tool
+hxxp://109[.]206[.]243[.]207/ssh/x86_64,URL
+RapperBot,malware
+Bash scripts,tool
+7f6e0fa785820075a61819ca6b272a239733b770eb8a92a4056cf5d26d89795f,SHA256
+XMRig crypto miner,tool
+0ad68d5804804c25a6f6f3d87cc3a3886583f69b7115ba01ab7c6dd96a186404,SHA256
+XMRig,malware
+cryptojacking,threat type
+f06d698967cee77e5a7bf9835b0a93394097e7590c156ed0d8c6304345701cfa,SHA256
+RapperBot,malware
+79[.]137[.]203[.]156,IP
+miner.bat,file
+plugin_3.dll,file
+plugin_4.dll,file
+Spidey Bot,malware
+hxxps://discordapp[.]com/api/webhooks/1068100542682902558/9JUsLnJZLyEkc_bGS85KTa5M1VWZ2J496v6Ruo7oUclFE08osfXNZL_OK5YDGOPYHLFy,URL
+Exbyte,malware
+Mega.co.nz,Domain
+avghooka.dll,file
+avghookx.dll,file
+sxin.dll,file
+sf2.dll,file
+sbiedll.dll,file
+snxhk.dll,file
+cmdvrt32.dll,file
+cmdvrt64.dll,file
+wpespy.dll,file
+vmcheck.dll,file
+pstorec.dll,file
+dir_watch.dll,file
+api_log.dll,file
+dbghelp.dll,file
+BlackByte,malware
+Webworm,attacker
+Trochilus dropper,malware
+6201c604ac7b6093dc8f6f12a92f40161508af1ddffa171946b876442a66927e,SHA256
+Trochilus Dropper,malware
+b9a0602661013d973bc978d64b7abb6bed20cf0498d0def3acb164f0d303b646,SHA256
+Trochilus Dropper,malware
+c71e0979336615e67006e20b24baafb19d600db94f93e3bf64181478dfc056a8,SHA256
+[TEMP]\Logger.exe,file
+28d78e52420906794e4059a603fa9f22d5d6e4479d91e9046a97318c83998679,SHA256
+[TEMP]\sc.cfg,file
+a618b3041935ec3ece269effba5569b610da212b1aa3968e5645f3e37d478536,SHA256
+[TEMP]\logexts.dat,file
+a6b9975bfe02432e80c7963147c4011a4f7cdb9baaee4ae8d27aaff7dff79c2b,SHA256
+[TEMP]\logexts.dll,file
+a73a4c0aa557241a09e137387537e04ce582c989caa10a6644d4391f00a836ef,SHA256
+[TEMP]\logger.dat,file
+10456bc3b5cfd2f1b1ab9c3833022ef52f5e9733d002ab237bdebad09b125024,SHA256
+[TEMP]\[RANDOM_DIGITS].doc,file
+d295712185de2e5f8811b0ce7384a04915abdf970ef0f087c294bb00e340afad,SHA256
+[TEMP]\logexts.dll,file
+logexts.dll,file
+Logger.dat,file
+calc.exe,file
+cal.exe,file
+12534f7014b3338d8f9f86ff1bbeacf8c80ad03f1d0d19077ff0e406c58b5133,SHA256
+LadonGo v3.8,tool
+Go,tool
+Crash Handler,tool
+svchost.exe,file
+Mimikatz,malware
+test.exe,file
+SHA256: 912018ab3c6b16b39ee84f17745ff0c80a33cee241013ec35d0281e40c0658d9,SHA256
+LadonGo,tool
+CVE-2020-1472,vulnerability
+kb0394623.exe,file
+PsExec,tool
+Crash Handler,file
+javac.exe,file
+csidl_program_files\windows mail\winmailservice.exe,file
+dnscmd.exe,tool
+67877821bf1574060f4e45ab8be62e28f54fb40a23ce70b86a6369a4d63db5bc,SHA256
+Crash Handler,tool
+imjpuex.exe,file
+PsExec,tool
+test.exe,file
+5c4456f061ff764509a2b249f579a5a14d475c6714f714c5a45fdd67921b9fda,SHA256
+ded734f79058c36a6050d801e1fb52cd5ca203f3fd6af6ddea52244132bd1b51,SHA256
+svchost.exe,file
+Mimikatz,tool
+Hive,tool
+Conti,tool
+Avoslocker,tool
+https://raw.githubusercontent.com/<redacted>/Invoke-Mimikatz.ps1,URL
+comsvcs.dll,file
+rundll32.exe,file
+taskmgr.exe,file
+gaymers[.]ax,Domain
+6f3af6ffb074513b51bba688a0b41df7[.]tk,Domain
+hxxps://jonathanhardwick[.]me/hardwick.jar~start,URL
+https://myvaccinerecord.cdph.ca.gov/creds,URL
+https://smarthealth.cards#health-card,URL
+https://smarthealth.cards#immunization,URL
+https://smarthealth.cards#covid19,URL
+Latin American banking Trojan,malware
+hxxps://centreldaconsulta[.]com/,URL
+hxxps://www.centralcfconsulta[.]net/,URL
+hxxps://centralcfconsulta[.]net/index3.php?api=vFUMIfUzGz2QdjxTFKAMyTlh,URL
+hxxps://centralcfconsulta.net/,URL
+hxxps://www.centralcfconsulta[.]net/index3.php?api=r0ubnHRxDycEy5uFPViNA55Y3t,URL
+hxxps://www.centralcfconsulta[.]net/index3.php?api=4DQSbdp3hLqPRGTbOGtl7jCD9FKNViKXmKd9Lv,URL
+hxxps://centreldaconsulta[.]com/index3.php?api=nJsdr1J3h0fsG18sRAVQt6JjVW,URL
+hxxps://centreldaconsulta[.]com/index3.php?api=ThMyMCAQEOLIC9nO,URL
+hxxps://www.centralcfconsulta[.]net/index3.php?api=wen1eIFCeUh0jAS3mWIDUhSLt3sXMQ,URL
+ESET,tool
+SCHTASKS,tool
+deep-versed.nls,file
+817901df616c77dd1e5694e3d75aebb3a52464c23a06820517108c74edd07fbc,SHA256
+deep-green.exe,file
+1ddc9b873fe4f4c8cf8978b6b1bb0e4d9dc07e60ba188ac6a5ad8f162d2a1e8f,SHA256
+UltraVNC,tool
+f6c56a51c1f0139036e80a517a6634d4d87d05cce17c4ca5adc1055b42bf03aa,SHA256
+procexp,tool
+de5a53a3b75e3e730755af09e3cacb7e6d171fc9b1853a7200e5dfb9044ab20a,SHA256
+d15a7e69769f4727f7b522995a17a0206ac9450cfb0dfe1fc98fd32272ee5ba7,SHA256
+Custom Downloader,tool
+Custom Screenshotter,tool
+Cobalt Strike Beacon,tool
+Metasploit,tool
+Costura Assembly Loader,tool
+[ARTEFACTS_FOLDER]\winser.dll,file
+hxxps://outportal[.]azurewebsites.net/api/Values_V2/Getting3210,URL
+Backdoor.Graphon,malware
+MicrosoftSystemServices,tool
+hxxps://usedust[.]com,URL
+hxxps://microsoftmsdn[.]azurewebsites.net/api/Values_V1/AuthAsyncComplete_V1?Identity=[INFECTION_ID],URL
+hxxps://microsoftsgraphapi[.]azurewebsites.net/api/Values_V1/AuthAsyncComplete_V1?Identity=[INFECTION_ID],URL
+hxxps://msdnmicrosoft.azurewebsites[.]net/api/Values_V1/AuthAsyncComplete_V1?Identity=[INFECTION_ID],URL
+Microsoft infrastructure,tool
+powershell,tool
+hxxp://209.14.0[.]234:46613/VcEtrKighyIFS5foGNXH,URL
+CVE-2021-36942,vulnerability
+https://github.com/zcgonvh/EfsPotato,URL
+(efspotato.exe,file
+active_desktop_render.dll,file
+active_desktop_launcher.exe,file
+Raindrop,malware
+Teardrop,malware
+Cobalt Strike Beacon,tool
+b820e8a2057112d0ed73bd7995201dbed79a79e13c79d4bdad81a22f12387e07,SHA256
+https(://)infinitysoftwares(.)com/files/information_055.pdf,URL
+https(://)infinitysoftwares(.)com/wp-admin/new_file.php,URL
+be9dbbec6937dfe0a652c0603d4972ba354e83c06b8397d6555fd1847da36725,SHA256
+https(://)bigtopweb(.)com/files/page_306.pdf,URL
+https(://)bigtopweb(.)com/wp-admin/admin-ajax.php,URL
+f2d38a29f6727f4ade62d88d8a68de0d52a0695930b8c92437a2f9e4de92e418,SHA256
+https(://)panhardware(.)com/files/documentation_076.pdf,URL
+https(://)panhardware(.)com/wp-admin/new_file.php,URL
+panhardware[.]com,Domain
+ns1.dnsowl.com,Domain
+ns2.dnsowl.com,Domain
+ns3.dnsowl.com,Domain
+https://www.reddit.com/r/msp/comments/13xjs1y/tracking_emerging_moveit_transfer_critical/,URL
+https://www.bleepingcomputer.com/news/security/new-moveit-transfer-zero-day-mass-exploited-in-data-theft-attacks/,URL
+https://gist.github.com/JohnHammond/44ce8556f798b7f6a7574148b679c643,URL
+T1505.003,technique
+Teardrop,malware
+Cobalt Strike,malware
+b820e8a2057112d0ed73bd7995201dbed79a79e13c79d4bdad81a22f12387e07,SHA256
+upbeat_anxiety.jpg,file
+infinitysoftwares[.]com,Domain
+1817a5bf9c01035bcf8a975c9f1d94b0ce7f6a200339485d8f93859f8f6d730c,SHA256
+festive_computer.jpg,file
+ervsystem[.]com,Domain
+Backdoor.Teardrop,malware
+upbeat_anxiety.jpg,file
+Cobalt Strike,tool
+infinitysoftwares[.]com,Domain
+rundll32.exe,file
+resources.dll,file
+lsass.exe,file
+Mimikatz,tool
+aeey7hxzgl6zowiwhteo5xjbf6sb36tkbn5hptykgmbsjrbiygv4c4id[.]onion,Domain
+Google Drive,tool
+80[.]85[.]156[.]232,IP
+80[.]85[.]156[.]240,IP
+80[.]85[.]156[.]151,IP
+103[.]159[.]132[.]91,IP
+sa2il[.]johnsimde[.]xyz,Domain
+iot[.]johnsimde[.]xyz,Domain
+em2in[.]johnsimde[.]xyz,Domain
+rewards[.]roshan[.]af,Domain
+protection against brute force,threat type
+beacon,tool
+redacted]construction.com,Domain
+Bing search engine,tool
+WinSCP application,tool
+winsccp[.]com,Domain
+hxxps://events.drdivyaclinic[.]com,URL
+4shared,tool
+infected WordPress webpage,tool
+bot core,malware
+payload,malware
+backdoor,malware
+https[://]twitter.com/naerycrypto/status/1637226997817692161,URL
+https[://]twitter.com/CiervoKing/status/1637220583736762370,URL
+https[://]twitter.com/witty_taeil/status/1631654308218298368,URL
+ryzex[.]io/,Domain
+https[://]twitter.com/RyzeX_web3,URL
+pearlmetaverse[.]io/,Domain
+https[://]twitter.com/MetaversePearl,URL
+mysteriangame[.]com,Domain
+https[://]twitter.com/MysterianGame,URL
+worldofcreatures[.]io,Domain
+https[://]twitter.com/WOC_io/,URL
+8ea33c34647578b79dd8bb7dcf01a8ad1c79e7ada3fd61aca397ed0a2ac57276,SHA256
+https[://]cryptureworld.com/,URL
+toncap[.]io,Domain
+https[://]twitter.com/neuromaster9/status/1614074785289437184?s=61,URL
+https[://]twitter.com/yoshisakatahi/status/1615686095307522049?s=61,URL
+7bb7b51494c60401c8535baaa30cddb1c41c436e778092f30db5260c42cc70f6,SHA256
+play-impulseflow[.]com,Domain
+https[://]twitter.com/lmpulse_Flow,URL
+02e1d9ea3a0c16106d173b0e6349a18a9aeafacc38650e359cfe1ee2298aaa45,SHA256
+(https[://]embersword.com,URL
+https[://]twitter.com/PureMetaverse,URL
+https[://]twitter.com/MetaPureLand,URL
+USB Driver.exe,file
+autorun.inf,file
+ACNSHELL malware,malware
+rzlog4cpp.dll,file
+ncat.exe,file
+closed[.]theworkpc[.]com,Domain
+Earth Kitsune,attacker
+WhiskerSpy,malware
+Londoncity[.]hopto[.]org,Domain
+rs[.]myftp[.]biz,Domain
+45[.]76[.]62[.]198,IP
+updategoogle[.]servehttp[.]com,Domain
+microsoftwindow[.]sytes[.]net,Domain
+172[.]93[.]201[.]172,IP
+selectorioi[.]ddns[.]net,Domain
+agfSpy,malware
+Facebook accounts,attacker
+download.tw1988[.]link,Domain
+TgToxic,attacker
+Celas LLC,attacker
+Phishing: Spearphishing Link,threat type
+celasllc[.]com,Domain
+45.199.63[.]220,IP
+107.187.66[.]103,IP
+145.249.106[.]19,IP
+175.29.32[.]160,IP
+185.142.236[.]213,IP
+185.181.104[.]82,IP
+198.251.83[.]27,IP
+208.91.197[.]46,IP
+209.99.64[.]18,IP
+Sectigo,tool
+SSL certificate,tool
+Comodo,tool
+Secure Sockets Layer,tool
+Celas Trade Pro Application,tool
+Windows Program,tool
+Celas Trade Pro,malware
+MSI Installer,tool
+celasllc[.]com,Domain
+Sectigo certificate,tool
+C:\Program Files (x86)\CelasTradePro\Updater.exe,file
+AppleJeus Version 2,malware
+JMT Trading,malware
+jmttrading[.]org,Domain
+45.33.2[.]79,IP
+45.33.23[.]183,IP
+45.56.79[.]23,IP
+45.79.19[.]196,IP
+96.126.123[.]244,IP
+146.112.61[.]107,IP
+184.168.221[.]40,IP
+184.168.221[.]57,IP
+198.187.29[.]20,IP
+198.54.117[.]197,IP
+198.54.117[.]198,IP
+198.54.117[.]199,IP
+198.54.117[.]200,IP
+198.58.118[.]167,IP
+jmttrading[.]org,Domain
+Sectigo SSL certificate,tool
+Let's Encrypt,tool
+MSI Installer,tool
+Sectigo,tool
+JMTTrader.exe,file
+CrashReporter.exe,file
+AppleJeus,malware
+Union Crypto,attacker
+unioncrypto[.]vip,Domain
+https://www.unioncrypto[.]vip/download/W6c2dq8By7luMhCmya2v97YeN,URL
+104.168.167[.]16,IP
+198.54.117[.]197,IP
+198.54.117[.]198,IP
+198.54.117[.]199,IP
+198.54.117[.]200,IP
+unioncrypto[.]vip,Domain
+Sectigo SSL certificate,tool
+T1588.004,technique
+Union Crypto Trader Application,tool
+Windows Program,tool
+T1204.002,technique
+UnionCryptoTrader.msi,file
+UnionCryptoUpdater.msi,file
+UnionCryptoUpdater.exe,file
+AppleJeus,malware
+Kupay Wallet,tool
+kupaywallet[.]com,Domain
+104.200.67[.]96,IP
+Sectigo SSL certificate,tool
+AppleJeus Version 5,malware
+CoinGoTrade,attacker
+coingotrade[.]com,Domain
+198.54.114[.]175,IP
+NameCheap Inc.,attacker
+Dorusio[.]com,Domain
+Ants2Whale[.]com,Domain
+Sectigo,tool
+SSL certificate,tool
+AppleJeus,malware
+Dorusio,attacker
+dorusio[.]com,Domain
+T1583.001,technique
+T1587.001,technique
+198.54.115[.]51,IP
+NameCheap Inc.,attacker
+CoinGoTrade[.]com,Domain
+Ants2Whale[.]com,Domain
+dorusio[.]com,Domain
+Sectigo,tool
+Dorusio Application Analysis Windows Program,tool
+MSI Installer,tool
+Dorusio.exe,file
+DorusioUpgrade.exe,file
+proposal_pakistan110.chm:error.html,file
+archiver tool,tool
+Microsoft Edge browser,tool
+backdoor,malware
+450ebd66ba67bb46bf18d122823ff07ef4a7b11afe63b6f269aec9236a1790cd,SHA256
+ee32bde60d1175709fde6869daf9c63cd3227155e37f06d45a27a2f45818a3dc,SHA256
+071e20a982ea6b8f9d482685010be7aaf036401ea45e2977aca867cedcdb0217,SHA256
+custom .NET FTP tool,tool
+192.119.15.36,IP
+hxxp://192.119.15[DOT]36:880/ftp.exe,URL
+JsuObf.exe,file
+89.34.237.118:2020,IP
+Quasar RAT,tool
+AutoIt FTP exfiltration tool,tool
+FastUploader,tool
+hxxp://192.119.15[DOT]36:880/ftp.exe,URL
+"csidl_profile\appdataoaming\adobetp.exe",file
+svchost.exe,file
+command and control (C&C) server,tool
+Adwind,malware
+174[.]127[.]99[.]211,IP
+Command and Control (C2) server,tool
+79.137.206[.]228,IP
+cryptocurrency wallet collection,threat type
+watchdog dllhost.exe,file
+Monero cryptominer,tool
+0.0.0.0,IP
+%ProgramData%\dllhost.exe,file
+Moobot,malware
+ShellBot,malware
+PowerBots (C) GohacK,tool
+http[:]//80[.]68[.]196[.]6/ff,URL
+49[.]212[.]234[.]206:3303,IP
+perlbot,malware
+B0tchZ 0.2a,malware
+46[.]101[.]183[.]162,IP
+198[.]98[.]61[.]106:8080,IP
+AsyncRAT,malware
+notepad.exe,file
+95.216.102.32:6606,IP
+95.216.102.32:7707,IP
+95.216.102.32:8808,IP
+163[.]123[.]142[.]210,IP
+185[.]17[.]0[.]19,IP
+ScrubCrypt,malware
+miner,tool
+explorer.exe,file
+45[.]142[.]122[.]11:8080,IP
+ScrubCrypt,malware
+C2 server,tool
+163[.]123[.]142[.]210,IP
+plugin_3.dll,file
+plugin_4.dll,file
+C2 servers,tool
+176[.]65[.]137[.]5,IP
+Mirai-based SORA variant,malware
+Zerobot,malware
+hxxp://176[.]65[.]137[.]5/bins/zero[.]x86,URL
+Golang botnets,malware
+security plugins,tool
+C2 server,tool
+PHP script,tool
+binary,tool
+89[.]208[.]107[.]12,IP
+PHP/GoTrim!tr.dldr,malware
